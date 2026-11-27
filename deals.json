@@ -1,6 +1,6 @@
 {
  "stand": "2026-11-27T16:51",
- "fingerabdruck": "1bb5afc072cdf9fa",
+ "fingerabdruck": "4673f154920b7278",
  "mindest": 15,
  "black_week": true,
  "preise_in_pruefung": false,
@@ -14676,6 +14676,50 @@
    "preis_geprueft": "2026-11-27T17:19",
    "bild": "",
    "neu_seit": "2026-11-27T08:50",
+   "stufe": "25-50",
+   "versand_offen": null
+  },
+  {
+   "titel": "Vodafone Smart Entry Aktion (50 GB, Vodafone-Netz)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Handy-Verträge & Tarife",
+   "unterkategorie": "Handy mit Vertrag",
+   "shop": "Vodafone über Vermittler (deinhandy.de, sparhandy.de)",
+   "link": "https://deinhandy.de/angebote/cyber-week",
+   "preis_jetzt": 24.99,
+   "preis_vorher": 34.99,
+   "rabatt_prozent": 29,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - deinhandy.de und sparhandy.de nennen übereinstimmend 34,99 € als früheren Monatspreis; Konditionen und Laufzeit sind unklar, weil andere Quellen für die Smart-Entry-Aktion abweichende Werte nennen.",
+   "gilt_bis": "unbekannt",
+   "kurz": "50 GB im Vodafone-Netz für 24,99 € statt 34,99 € im Monat, Anschlussgebühr 39,99 €.",
+   "quelle": "deinhandy.de und sparhandy.de (Cyber-Week-Seiten)",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T17:19",
+   "bild": "",
+   "neu_seit": "2026-11-27T08:59",
+   "stufe": "25-50",
+   "versand_offen": null
+  },
+  {
+   "titel": "Samsung GQ65S95H 65 Zoll OLED (S95H)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Elektronik & Technik",
+   "unterkategorie": "TV & Heimkino",
+   "shop": "MediaMarkt (nur direkt angebotene Produkte, nicht Marktplatz",
+   "link": "https://mediamarkt.de/de/product/_samsung-gq65s95h-oled-4k-samsung-vision-ai-smart-tv-65-zoll-163-cm-uhd-4k-smart-tv-3047334.html",
+   "preis_jetzt": 1729.0,
+   "preis_vorher": 2429.1,
+   "rabatt_prozent": 29,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - PCGH-Artikel vom 22.07.2026 nennt 2.429,10 € als günstigsten Preis laut Keepa (Amazon) und Geizhals-Vergleich seit Marktstart im Mai 2026; MediaMarkt-Seite (geprüft) zeigt heute 1.749 €",
+   "gilt_bis": "30.11.2026, 08:59 Uhr, solange Vorrat reicht (laut Fußnote u",
+   "kurz": "165-Hz-OLED, der aktuell deutlich unter dem bisher günstigsten Preis liegt.",
+   "quelle": "MediaMarkt-Produktseite (geprüft), pcgameshardware.de (22.07.2026)",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T17:19",
+   "bild": "bilder/29cc8395ea.webp",
+   "neu_seit": "2026-11-27T08:58",
    "stufe": "25-50",
    "versand_offen": null
   },
@@ -35602,6 +35646,28 @@
    "versand_offen": null
   },
   {
+   "titel": "Philips Senseo Original Plus CSA210 Padmaschine, Schwarz",
+   "kategorie": "Sonstiges",
+   "abteilung": "Haushalt & Küche",
+   "unterkategorie": "Küchengeräte",
+   "shop": "MediaMarkt",
+   "link": "https://mediamarkt.de/de/product/_philips-senseor-csa21022-original-plus-padmaschine-klavierlackschwarz-2882858.html",
+   "preis_jetzt": 53.99,
+   "preis_vorher": 64.99,
+   "rabatt_prozent": 17,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - netzwelt: Median der letzten sechs Monate 64,99 € (netzwelt nennt 49 € für die rote Variante); schwarze Variante im Shop mit 49 € plus 4,99 € Versand geprüft",
+   "gilt_bis": "unbekannt",
+   "kurz": "Günstige Padmaschine unter dem Halbjahres-Median, auch mit Versand.",
+   "quelle": "netzwelt",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T17:19",
+   "bild": "bilder/cfc512e2c7.webp",
+   "neu_seit": "2026-11-27T08:46",
+   "stufe": "15-25",
+   "versand_offen": null
+  },
+  {
    "titel": "Severin EZ 7407 Eismaschine mit Joghurtbereiter",
    "kategorie": "Sonstiges",
    "abteilung": "Haushalt & Küche",
@@ -35842,6 +35908,28 @@
    "neu_seit": "2026-11-27T08:59",
    "stufe": "15-25",
    "versand_offen": true
+  },
+  {
+   "titel": "Dreame X50 Ultra Complete Saugroboter (Saturn-Angebot)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Haushalt & Küche",
+   "unterkategorie": "Haushaltsgeräte",
+   "shop": "Saturn",
+   "link": "https://saturn.de/de/list/staubsauger-black-friday",
+   "preis_jetzt": 499.0,
+   "preis_vorher": 599.0,
+   "rabatt_prozent": 17,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf abrufbar; nächstbester Preis bei Amazon bzw. Coolblue 599 € laut Netzwelt-Vergleich",
+   "gilt_bis": "unbekannt",
+   "kurz": "Saugroboter mit Wischfunktion, rund 17 % unter dem Vergleichspreis anderer Händler.",
+   "quelle": "Saturn-Aktionsliste Staubsauger; netzwelt.de Dreame-Vergleich",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T17:19",
+   "bild": "bilder/1ff385ad9d.webp",
+   "neu_seit": "2026-11-27T09:04",
+   "stufe": "15-25",
+   "versand_offen": null
   },
   {
    "titel": "Gastroback Vital Mixer Pro Standmixer",
@@ -56361,12 +56449,12 @@
   {
    "kurz": "15-25",
    "name": "15–25 %",
-   "anzahl": 914
+   "anzahl": 916
   },
   {
    "kurz": "25-50",
    "name": "25–50 %",
-   "anzahl": 912
+   "anzahl": 914
   },
   {
    "kurz": "ueber-50",
@@ -56378,7 +56466,7 @@
   {
    "name": "Elektronik & Technik",
    "kurz": "elektronik",
-   "anzahl": 395,
+   "anzahl": 396,
    "unter": [
     {
      "name": "Smartphones & Tablets",
@@ -56393,7 +56481,7 @@
     {
      "name": "TV & Heimkino",
      "kurz": "tv-heimkino",
-     "anzahl": 54
+     "anzahl": 55
     },
     {
      "name": "Audio & Kopfhörer",
@@ -56421,6 +56509,18 @@
      "name": "Zu verschenken",
      "kurz": "zu-verschenken",
      "anzahl": 130
+    }
+   ]
+  },
+  {
+   "name": "Handy-Verträge & Tarife",
+   "kurz": "tarife",
+   "anzahl": 1,
+   "unter": [
+    {
+     "name": "Handy mit Vertrag",
+     "kurz": "handy-mit-vertrag",
+     "anzahl": 1
     }
    ]
   },
@@ -56459,17 +56559,17 @@
   {
    "name": "Haushalt & Küche",
    "kurz": "haushalt",
-   "anzahl": 310,
+   "anzahl": 312,
    "unter": [
     {
      "name": "Küchengeräte",
      "kurz": "kuechengeraete",
-     "anzahl": 138
+     "anzahl": 139
     },
     {
      "name": "Haushaltsgeräte",
      "kurz": "haushaltsgeraete",
-     "anzahl": 92
+     "anzahl": 93
     },
     {
      "name": "Wohnen",
