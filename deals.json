@@ -1,6 +1,6 @@
 {
  "stand": "2026-11-27T09:29",
- "fingerabdruck": "2578acd727987cab",
+ "fingerabdruck": "c85af57784479c3c",
  "mindest": 15,
  "black_week": true,
  "preise_in_pruefung": false,
@@ -155,8 +155,8 @@
   {
    "titel": "congstar Prepaid Starterpaket (SIM-Karte) für 1 €",
    "kategorie": "Sonstiges",
-   "abteilung": "Handy-Verträge & Tarife",
-   "unterkategorie": "SIM-only-Tarife",
+   "abteilung": "Sonstiges",
+   "unterkategorie": "",
    "shop": "congstar (über tariffuxx.de)",
    "link": "https://tariffuxx.de/bestellen/handytarif/59627?fc_content_id=669",
    "preis_jetzt": 1.0,
@@ -386,8 +386,8 @@
   {
    "titel": "freenet Allnet Flat 15 GB (Telefónica-Netz, monatlich kündbar)",
    "kategorie": "Sonstiges",
-   "abteilung": "Handy-Verträge & Tarife",
-   "unterkategorie": "SIM-only-Tarife",
+   "abteilung": "Sonstiges",
+   "unterkategorie": "",
    "shop": "freenet",
    "link": "https://freenet.de/p/P-4862520",
    "preis_jetzt": 7.99,
@@ -890,8 +890,8 @@
   {
    "titel": "Happy SIM Allnet-Flat 100 GB (5G, o2-Netz)",
    "kategorie": "Sonstiges",
-   "abteilung": "Handy-Verträge & Tarife",
-   "unterkategorie": "SIM-only-Tarife",
+   "abteilung": "Sonstiges",
+   "unterkategorie": "",
    "shop": "Happy SIM (klarmobil)",
    "link": "https://tariffuxx.de/handytarife/happy-sim/happy-sim-100-gb-10-euro",
    "preis_jetzt": 9.99,
@@ -1226,8 +1226,8 @@
   {
    "titel": "Vodafone Smart Entry Aktion (50 GB, Vodafone-Netz)",
    "kategorie": "Sonstiges",
-   "abteilung": "Handy-Verträge & Tarife",
-   "unterkategorie": "Handy mit Vertrag",
+   "abteilung": "Sonstiges",
+   "unterkategorie": "",
    "shop": "Vodafone über Vermittler (deinhandy.de, sparhandy.de)",
    "link": "https://deinhandy.de/angebote/cyber-week",
    "preis_jetzt": 24.99,
@@ -2507,8 +2507,8 @@
   {
    "titel": "Mega SIM Allnet Flat 200 GB Black Week (Telefónica-Netz)",
    "kategorie": "Sonstiges",
-   "abteilung": "Handy-Verträge & Tarife",
-   "unterkategorie": "SIM-only-Tarife",
+   "abteilung": "Sonstiges",
+   "unterkategorie": "",
    "shop": "Mega SIM (direkt bzw. über tariffuxx.de)",
    "link": "https://tariffuxx.de/bestellen/handytarif/59726?product_config=9626277&fc_content_id=599",
    "preis_jetzt": 14.99,
@@ -2962,23 +2962,6 @@
    ]
   },
   {
-   "name": "Handy-Verträge & Tarife",
-   "kurz": "tarife",
-   "anzahl": 5,
-   "unter": [
-    {
-     "name": "Handy mit Vertrag",
-     "kurz": "handy-mit-vertrag",
-     "anzahl": 1
-    },
-    {
-     "name": "SIM-only-Tarife",
-     "kurz": "sim-only-tarife",
-     "anzahl": 4
-    }
-   ]
-  },
-  {
    "name": "Gaming",
    "kurz": "gaming",
    "anzahl": 63,
@@ -3103,6 +3086,12 @@
      "anzahl": 1
     }
    ]
+  },
+  {
+   "name": "Sonstiges",
+   "kurz": "sonstiges",
+   "anzahl": 5,
+   "unter": []
   }
  ]
 }
