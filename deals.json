@@ -1,6 +1,6 @@
 {
- "stand": "2026-11-27T13:55",
- "fingerabdruck": "1565b0953a1361a8",
+ "stand": "2026-11-27T14:42",
+ "fingerabdruck": "7cad0bc3e0e37e43",
  "mindest": 15,
  "black_week": true,
  "preise_in_pruefung": false,
@@ -148,7 +148,7 @@
    "quelle": "dealdoktor.de",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T14:42",
-   "bild": "",
+   "bild": "bilder/5ec282fd45.webp",
    "neu_seit": "2026-11-27T13:08",
    "stufe": "ueber-50"
   },
@@ -29823,7 +29823,7 @@
    "quelle": "dealdoktor.de",
    "aktion": "",
    "preis_geprueft": "2026-11-27T14:42",
-   "bild": "",
+   "bild": "bilder/a5811f3451.webp",
    "neu_seit": "2026-11-27T13:08",
    "stufe": "ueber-50"
   },
@@ -29844,7 +29844,7 @@
    "quelle": "homburg1.de",
    "aktion": "",
    "preis_geprueft": "2026-11-27T14:42",
-   "bild": "",
+   "bild": "bilder/1b17ce9506.webp",
    "neu_seit": "2026-11-27T13:08",
    "stufe": "ueber-50"
   },
@@ -29865,7 +29865,7 @@
    "quelle": "wiesbadenaktuell.de",
    "aktion": "",
    "preis_geprueft": "2026-11-27T14:42",
-   "bild": "",
+   "bild": "bilder/7d4e84cf1f.webp",
    "neu_seit": "2026-11-27T13:08",
    "stufe": "ueber-50"
   },
@@ -29886,7 +29886,7 @@
    "quelle": "wochenblatt-news.de",
    "aktion": "",
    "preis_geprueft": "2026-11-27T14:42",
-   "bild": "",
+   "bild": "bilder/1b14fc86a9.webp",
    "neu_seit": "2026-11-27T13:08",
    "stufe": "ueber-50"
   },
@@ -29907,7 +29907,7 @@
    "quelle": "radiofrankfurt.de",
    "aktion": "",
    "preis_geprueft": "2026-11-27T14:42",
-   "bild": "",
+   "bild": "bilder/8cff710b1c.webp",
    "neu_seit": "2026-11-27T13:08",
    "stufe": "ueber-50"
   },
