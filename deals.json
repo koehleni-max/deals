@@ -1,6 +1,6 @@
 {
- "stand": "2026-11-27T09:29",
- "fingerabdruck": "c85af57784479c3c",
+ "stand": "2026-11-27T09:42",
+ "fingerabdruck": "d357aa6b71ed2b93",
  "mindest": 15,
  "black_week": true,
  "preise_in_pruefung": false,
@@ -155,8 +155,8 @@
   {
    "titel": "congstar Prepaid Starterpaket (SIM-Karte) für 1 €",
    "kategorie": "Sonstiges",
-   "abteilung": "Sonstiges",
-   "unterkategorie": "",
+   "abteilung": "Handy-Verträge & Tarife",
+   "unterkategorie": "SIM-only-Tarife",
    "shop": "congstar (über tariffuxx.de)",
    "link": "https://tariffuxx.de/bestellen/handytarif/59627?fc_content_id=669",
    "preis_jetzt": 1.0,
@@ -363,6 +363,27 @@
    "stufe": "ueber-50"
   },
   {
+   "titel": "freenet Allnet-Flat 100 GB 5G (Vodafone), Online-Aktion Neukunden",
+   "kategorie": "Sonstiges",
+   "abteilung": "Handy-Verträge & Tarife",
+   "unterkategorie": "SIM-only-Tarife",
+   "shop": "freenet (Vodafone-Netz)",
+   "link": "https://freenet.de/angebote/black-week",
+   "preis_jetzt": 14.99,
+   "preis_vorher": 44.99,
+   "rabatt_prozent": 67,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - teltarif-Tarifseite: 44,99 € seit 18.09.2025 (24 Monate, Anschluss 39,99 €). Die Aktion zieht 25 € monatlich ab, nur Online-Neukunden.",
+   "gilt_bis": "unbekannt",
+   "kurz": "100 GB für 19,99 € im Monat über 24 Monate, Anschluss erlassen. Nicht der günstigste 100-GB-Tarif: andere Anbieter liegen bei 9,99 bis 14,99 €.",
+   "quelle": "teltarif.de (freenet Allnet-Flat 100 GB); freenet.de (Black Week)",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T09:42",
+   "bild": "bilder/ad315f66a9.webp",
+   "neu_seit": "2026-11-27T08:59",
+   "stufe": "ueber-50"
+  },
+  {
    "titel": "Battlefield 6 (PC)",
    "kategorie": "Gaming – Steam",
    "abteilung": "Gaming",
@@ -386,8 +407,8 @@
   {
    "titel": "freenet Allnet Flat 15 GB (Telefónica-Netz, monatlich kündbar)",
    "kategorie": "Sonstiges",
-   "abteilung": "Sonstiges",
-   "unterkategorie": "",
+   "abteilung": "Handy-Verträge & Tarife",
+   "unterkategorie": "SIM-only-Tarife",
    "shop": "freenet",
    "link": "https://freenet.de/p/P-4862520",
    "preis_jetzt": 7.99,
@@ -510,6 +531,48 @@
    "stufe": "25-50"
   },
   {
+   "titel": "Vans KNU Skool (black true white)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Mode",
+   "unterkategorie": "Schuhe",
+   "shop": "Zalando",
+   "link": "https://zalando.de/vans-knu-skool-unisex-sneaker-low-black-true-white-va215o0br-q11.html",
+   "preis_jetzt": 51.95,
+   "preis_vorher": 94.95,
+   "rabatt_prozent": 45,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - Zalando-Artikelseite: \"Medianpreis des Artikels im letzten Monat unter Ausschluss von Aktionspreisen\"",
+   "gilt_bis": "unbekannt",
+   "kurz": "Unisex-Skatesneaker, Startpreis je nach Größe 45 % unter dem Monatsmedianpreis.",
+   "quelle": "Zalando Black-Friday-Übersicht Schuhe, Artikelseite geprüft",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T09:42",
+   "bild": "bilder/0204cf1a86.webp",
+   "neu_seit": "2026-11-27T09:04",
+   "stufe": "25-50"
+  },
+  {
+   "titel": "Nike Sportswear Air Force 1 '07 LX (sail/metallic gold)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Mode",
+   "unterkategorie": "Schuhe",
+   "shop": "Zalando",
+   "link": "https://zalando.de/nike-sportswear-air-force-1-07-sneaker-low-carryover-ni111a1e6-a11.html",
+   "preis_jetzt": 71.95,
+   "preis_vorher": 129.95,
+   "rabatt_prozent": 45,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - Zalando-Artikelseite: \"Medianpreis des Artikels im letzten Monat unter Ausschluss von Aktionspreisen\"",
+   "gilt_bis": "unbekannt",
+   "kurz": "Air Force 1 LX, Startpreis 45 % unter dem Monatsmedianpreis.",
+   "quelle": "Zalando Black-Friday-Übersicht Schuhe, Artikelseite geprüft",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T09:42",
+   "bild": "bilder/3c9da58365.webp",
+   "neu_seit": "2026-11-27T09:04",
+   "stufe": "25-50"
+  },
+  {
    "titel": "HyperX Cloud Stinger 2 Gaming-Headset (schwarz, kabelgebunden)",
    "kategorie": "Sonstiges",
    "abteilung": "Gaming",
@@ -591,6 +654,69 @@
    "preis_geprueft": "2026-11-27T09:06",
    "bild": "bilder/86c64d1c9f.webp",
    "neu_seit": "2026-11-27T08:39",
+   "stufe": "25-50"
+  },
+  {
+   "titel": "Vans KNU Skool Unisex (black/raspberry radiance)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Mode",
+   "unterkategorie": "Schuhe",
+   "shop": "Zalando",
+   "link": "https://zalando.de/vans-knu-skool-unisex-sneaker-low-blackraspberry-radiance-va215p020-q14.html",
+   "preis_jetzt": 59.95,
+   "preis_vorher": 99.95,
+   "rabatt_prozent": 40,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - Zalando-Produktseite, Omnibus-Angabe Medianpreis der letzten 30 Tage ohne Aktionspreise",
+   "gilt_bis": "unbekannt",
+   "kurz": "Skateschuh 40 % unter dem Medianpreis der letzten 30 Tage.",
+   "quelle": "Zalando Black-Friday-Schuhe-Seite, Produktseite",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T09:42",
+   "bild": "bilder/ebb3653db1.webp",
+   "neu_seit": "2026-11-27T09:04",
+   "stufe": "25-50"
+  },
+  {
+   "titel": "Converse Chuck Taylor All Star Schnürstiefelette (schwarz)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Mode",
+   "unterkategorie": "Schuhe",
+   "shop": "Zalando",
+   "link": "https://zalando.de/converse-chuck-taylor-all-star-unisex-sneaker-high-black-co415p0c2-q11.html",
+   "preis_jetzt": 47.95,
+   "preis_vorher": 79.95,
+   "rabatt_prozent": 40,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - Zalando-Artikelseite: \"Medianpreis des Artikels im letzten Monat unter Ausschluss von Aktionspreisen\"",
+   "gilt_bis": "unbekannt",
+   "kurz": "Unisex-Schnürstiefelette, Startpreis 40 % unter dem Monatsmedianpreis.",
+   "quelle": "Zalando Black-Friday-Übersicht Schuhe, Artikelseite geprüft",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T09:42",
+   "bild": "bilder/a3fb8f1fe9.webp",
+   "neu_seit": "2026-11-27T09:04",
+   "stufe": "25-50"
+  },
+  {
+   "titel": "Mammut Tamaro ML Hooded Fleecejacke Women (black)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Mode",
+   "unterkategorie": "Damen",
+   "shop": "Zalando",
+   "link": "https://zalando.de/mammut-tamaro-hooded-fleecejacke-black-m7341g025-q11.html",
+   "preis_jetzt": 89.95,
+   "preis_vorher": 149.95,
+   "rabatt_prozent": 40,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - Zalando-Artikelseite: \"Medianpreis des Artikels im letzten Monat unter Ausschluss von Aktionspreisen\"",
+   "gilt_bis": "unbekannt",
+   "kurz": "Damen-Fleecejacke, 40 % unter dem Monatsmedianpreis.",
+   "quelle": "Zalando Black-Friday-Übersicht Damen, Artikelseite geprüft",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T09:42",
+   "bild": "bilder/3c0fcc4489.webp",
+   "neu_seit": "2026-11-27T09:04",
    "stufe": "25-50"
   },
   {
@@ -699,6 +825,27 @@
    "stufe": "25-50"
   },
   {
+   "titel": "Vans Old Skool (black/white)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Mode",
+   "unterkategorie": "Schuhe",
+   "shop": "Zalando",
+   "link": "https://zalando.de/vans-old-skool-sneaker-va215b000-q12.html",
+   "preis_jetzt": 50.95,
+   "preis_vorher": 79.95,
+   "rabatt_prozent": 36,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - Zalando-Artikelseite: \"Medianpreis des Artikels im letzten Monat unter Ausschluss von Aktionspreisen\"",
+   "gilt_bis": "unbekannt",
+   "kurz": "Klassischer Unisex-Sneaker, Startpreis 36 % unter dem Monatsmedianpreis.",
+   "quelle": "Zalando Black-Friday-Übersicht Schuhe, Artikelseite geprüft",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T09:42",
+   "bild": "bilder/dd4b4aa402.webp",
+   "neu_seit": "2026-11-27T09:04",
+   "stufe": "25-50"
+  },
+  {
    "titel": "JBL Quantum 400 Gaming-Headset (schwarz)",
    "kategorie": "Sonstiges",
    "abteilung": "Gaming",
@@ -737,6 +884,90 @@
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T09:29",
    "bild": "bilder/b826dba4e3.webp",
+   "neu_seit": "2026-11-27T09:04",
+   "stufe": "25-50"
+  },
+  {
+   "titel": "Nike Sportswear Air Force 1 '07 (mink brown/black)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Mode",
+   "unterkategorie": "Schuhe",
+   "shop": "Zalando",
+   "link": "https://zalando.de/nike-sportswear-air-force-1-sneaker-low-mink-brownblack-ni111a1pb-o11.html",
+   "preis_jetzt": 77.95,
+   "preis_vorher": 119.95,
+   "rabatt_prozent": 35,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - Zalando-Artikelseite: \"Medianpreis des Artikels im letzten Monat unter Ausschluss von Aktionspreisen\"",
+   "gilt_bis": "unbekannt",
+   "kurz": "Air Force 1 in Braun/Schwarz, 35 % unter dem Monatsmedianpreis.",
+   "quelle": "Zalando Black-Friday-Übersicht Schuhe, Artikelseite geprüft",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T09:42",
+   "bild": "bilder/71577a4e2b.webp",
+   "neu_seit": "2026-11-27T09:04",
+   "stufe": "25-50"
+  },
+  {
+   "titel": "New Balance MR530 (white silver)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Mode",
+   "unterkategorie": "Schuhe",
+   "shop": "Zalando",
+   "link": "https://zalando.de/new-balance-530-sneaker-low-whitesilver-118-ne211a0d8-a11.html",
+   "preis_jetzt": 77.95,
+   "preis_vorher": 119.95,
+   "rabatt_prozent": 35,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - Zalando-Artikelseite: \"Medianpreis des Artikels im letzten Monat unter Ausschluss von Aktionspreisen\"",
+   "gilt_bis": "unbekannt",
+   "kurz": "Unisex-Sneaker, Startpreis 35 % unter dem Monatsmedianpreis.",
+   "quelle": "Zalando Black-Friday-Übersicht Schuhe, Artikelseite geprüft",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T09:42",
+   "bild": "bilder/8610735b81.webp",
+   "neu_seit": "2026-11-27T09:04",
+   "stufe": "25-50"
+  },
+  {
+   "titel": "Vans SK8-Hi Waterproof Insulated MTE (ripstop asphalt)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Mode",
+   "unterkategorie": "Schuhe",
+   "shop": "Zalando",
+   "link": "https://zalando.de/vans-sk8-hi-waterproof-insulated-mte-unisex-sneaker-low-ripstop-asphalt-va215p03q-q11.html",
+   "preis_jetzt": 93.95,
+   "preis_vorher": 144.95,
+   "rabatt_prozent": 35,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - Zalando-Artikelseite: \"Medianpreis des Artikels im letzten Monat unter Ausschluss von Aktionspreisen\"",
+   "gilt_bis": "unbekannt",
+   "kurz": "Wasserdichter Unisex-Sneaker, Startpreis 35 % unter dem Monatsmedianpreis.",
+   "quelle": "Zalando Black-Friday-Übersicht Schuhe, Artikelseite geprüft",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T09:42",
+   "bild": "bilder/6cdae9aa5d.webp",
+   "neu_seit": "2026-11-27T09:04",
+   "stufe": "25-50"
+  },
+  {
+   "titel": "Birkenstock Arizona Flower Buckle (sandcastle, unisex)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Mode",
+   "unterkategorie": "Schuhe",
+   "shop": "Zalando",
+   "link": "https://zalando.de/birkenstock-arizona-flower-buckle-unisex-riemensandalette-sandcastle-bi116g03t-b11.html",
+   "preis_jetzt": 38.95,
+   "preis_vorher": 59.95,
+   "rabatt_prozent": 35,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - Zalando-Artikelseite: \"Medianpreis des Artikels im letzten Monat unter Ausschluss von Aktionspreisen\"",
+   "gilt_bis": "unbekannt",
+   "kurz": "Unisex-Riemensandale, 35 % unter dem Monatsmedianpreis.",
+   "quelle": "Zalando Black-Friday-Übersicht Schuhe, Artikelseite geprüft",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T09:42",
+   "bild": "bilder/6a57e10b7c.webp",
    "neu_seit": "2026-11-27T09:04",
    "stufe": "25-50"
   },
@@ -890,8 +1121,8 @@
   {
    "titel": "Happy SIM Allnet-Flat 100 GB (5G, o2-Netz)",
    "kategorie": "Sonstiges",
-   "abteilung": "Sonstiges",
-   "unterkategorie": "",
+   "abteilung": "Handy-Verträge & Tarife",
+   "unterkategorie": "SIM-only-Tarife",
    "shop": "Happy SIM (klarmobil)",
    "link": "https://tariffuxx.de/handytarife/happy-sim/happy-sim-100-gb-10-euro",
    "preis_jetzt": 9.99,
@@ -1053,6 +1284,69 @@
    "preis_geprueft": "2026-11-27T09:06",
    "bild": "bilder/775fd5d7eb.webp",
    "neu_seit": "2026-11-27T08:50",
+   "stufe": "25-50"
+  },
+  {
+   "titel": "Nike Air Force 1 '07 Low (white)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Mode",
+   "unterkategorie": "Schuhe",
+   "shop": "Zalando",
+   "link": "https://zalando.de/nike-sportswear-air-force-1-07-sneaker-low-white-ni112n022-a11.html",
+   "preis_jetzt": 83.95,
+   "preis_vorher": 119.95,
+   "rabatt_prozent": 30,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - Zalando-Produktseite, Omnibus-Angabe Medianpreis des letzten Monats ohne Aktionspreise",
+   "gilt_bis": "unbekannt",
+   "kurz": "Sneaker 30 % unter dem Medianpreis des letzten Monats (Preis je Größe unterschiedlich).",
+   "quelle": "Zalando Black-Friday-Schuhe-Seite, Produktseite",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T09:42",
+   "bild": "bilder/260e1d1518.webp",
+   "neu_seit": "2026-11-27T09:04",
+   "stufe": "25-50"
+  },
+  {
+   "titel": "New Balance MR530 Unisex (white/natural indigo)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Mode",
+   "unterkategorie": "Schuhe",
+   "shop": "Zalando",
+   "link": "https://zalando.de/new-balance-mr530-sneaker-low-white-ne215o04g-a11.html",
+   "preis_jetzt": 83.95,
+   "preis_vorher": 119.95,
+   "rabatt_prozent": 30,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - Zalando-Produktseite, Omnibus-Angabe Medianpreis des letzten Monats ohne Aktionspreise",
+   "gilt_bis": "unbekannt",
+   "kurz": "Sneaker 30 % unter dem Medianpreis des letzten Monats (Preis je Größe unterschiedlich).",
+   "quelle": "Zalando Black-Friday-Schuhe-Seite, Produktseite",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T09:42",
+   "bild": "bilder/360e4481cd.webp",
+   "neu_seit": "2026-11-27T09:04",
+   "stufe": "25-50"
+  },
+  {
+   "titel": "Mammut Blackfin III Mid Snowboot (black, Damen)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Mode",
+   "unterkategorie": "Schuhe",
+   "shop": "Zalando",
+   "link": "https://zalando.de/mammut-blackfin-iii-mid-women-hikingschuh-black-black-m7341a032-q11.html",
+   "preis_jetzt": 125.95,
+   "preis_vorher": 179.95,
+   "rabatt_prozent": 30,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - Zalando-Artikelseite: \"Medianpreis des Artikels im letzten Monat unter Ausschluss von Aktionspreisen\"",
+   "gilt_bis": "unbekannt",
+   "kurz": "Damen-Winterstiefel, Startpreis 30 % unter dem Monatsmedianpreis.",
+   "quelle": "Zalando Black-Friday-Übersicht Schuhe, Artikelseite geprüft",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T09:42",
+   "bild": "bilder/d830a1957a.webp",
+   "neu_seit": "2026-11-27T09:04",
    "stufe": "25-50"
   },
   {
@@ -1226,8 +1520,8 @@
   {
    "titel": "Vodafone Smart Entry Aktion (50 GB, Vodafone-Netz)",
    "kategorie": "Sonstiges",
-   "abteilung": "Sonstiges",
-   "unterkategorie": "",
+   "abteilung": "Handy-Verträge & Tarife",
+   "unterkategorie": "Handy mit Vertrag",
    "shop": "Vodafone über Vermittler (deinhandy.de, sparhandy.de)",
    "link": "https://deinhandy.de/angebote/cyber-week",
    "preis_jetzt": 24.99,
@@ -1242,6 +1536,48 @@
    "preis_geprueft": "2026-11-27T09:06",
    "bild": "",
    "neu_seit": "2026-11-27T08:59",
+   "stufe": "25-50"
+  },
+  {
+   "titel": "Gastroback Vital Mixer Basic (Standmixer)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Haushalt & Küche",
+   "unterkategorie": "Küchengeräte",
+   "shop": "Gastroback",
+   "link": "https://monsterdealz.de/goto/deal/888092",
+   "preis_jetzt": 51.99,
+   "preis_vorher": 72.58,
+   "rabatt_prozent": 28,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf verfügbar; Geizhals-Vergleichspreis 72,58 € inkl. Versand (Stand 18.11.2026, monsterdealz) stützt den Rabatt",
+   "gilt_bis": "30.11.2026 (laut Aktionsseite, solange der Vorrat reicht)",
+   "kurz": "Standmixer deutlich unter dem Geizhals-Vergleichspreis, auch mit Versandkosten.",
+   "quelle": "monsterdealz-Magazin (Gastroback Black Friday, 18.11.2026); Geizhals-Vergleich über monsterdealz",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T09:42",
+   "bild": "bilder/9a91d7912e.webp",
+   "neu_seit": "2026-11-27T09:04",
+   "stufe": "25-50"
+  },
+  {
+   "titel": "Lowe Alpine AirZone Trek ND26 Damen-Trekkingrucksack (Rot)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Sport & Fahrrad",
+   "unterkategorie": "Outdoor",
+   "shop": "Bergfreunde",
+   "link": "https://dealdoktor.de/goto/deal/627548",
+   "preis_jetzt": 72.33,
+   "preis_vorher": 101.0,
+   "rabatt_prozent": 28,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf geprüft; Vergleichspreis laut DealDoktor 101 €, Herkunft nicht genannt; Shopseite nicht geprüft",
+   "gilt_bis": "unbekannt",
+   "kurz": "Wanderrucksack inklusive 3,95 € Versand rund ein Viertel günstiger.",
+   "quelle": "https://www.dealdoktor.de/bergfreunde-black-week/",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T09:42",
+   "bild": "bilder/c1c05f345a.webp",
+   "neu_seit": "2026-11-27T08:46",
    "stufe": "25-50"
   },
   {
@@ -1494,6 +1830,48 @@
    "preis_geprueft": "2026-11-27T09:06",
    "bild": "bilder/392dfcd33a.webp",
    "neu_seit": "2026-11-27T08:50",
+   "stufe": "25-50"
+  },
+  {
+   "titel": "Mammut Sender MOC Low Women Stiefel (sablun-black)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Mode",
+   "unterkategorie": "Schuhe",
+   "shop": "Zalando",
+   "link": "https://zalando.de/mammut-sender-moc-low-women-hikingschuh-sablun-black-m7341c00k-b11.html",
+   "preis_jetzt": 104.95,
+   "preis_vorher": 139.95,
+   "rabatt_prozent": 25,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - Zalando-Artikelseite: \"Medianpreis des Artikels im letzten Monat unter Ausschluss von Aktionspreisen\"",
+   "gilt_bis": "unbekannt",
+   "kurz": "Damen-Stiefel, 25 % unter dem Monatsmedianpreis.",
+   "quelle": "Zalando Black-Friday-Übersicht Schuhe, Artikelseite geprüft",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T09:42",
+   "bild": "bilder/238ce59533.webp",
+   "neu_seit": "2026-11-27T09:04",
+   "stufe": "25-50"
+  },
+  {
+   "titel": "Mammut Sender MOC Low Women Stiefel (paloja-dark paloja)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Mode",
+   "unterkategorie": "Schuhe",
+   "shop": "Zalando",
+   "link": "https://zalando.de/mammut-sender-moc-low-women-hikingschuh-paloja-dark-paloja-m7341c00k-i11.html",
+   "preis_jetzt": 105.0,
+   "preis_vorher": 140.0,
+   "rabatt_prozent": 25,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - Zalando-Artikelseite: \"Niedrigster Preis in 30 Tagen vor der Preissenkung\"",
+   "gilt_bis": "unbekannt",
+   "kurz": "Damen-Stiefel, 25 % unter dem niedrigsten Preis der letzten 30 Tage vor der Preissenkung.",
+   "quelle": "Zalando Black-Friday-Übersicht Schuhe, Artikelseite geprüft",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T09:42",
+   "bild": "bilder/6750a4afac.webp",
+   "neu_seit": "2026-11-27T09:04",
    "stufe": "25-50"
   },
   {
@@ -1791,6 +2169,48 @@
    "stufe": "15-25"
   },
   {
+   "titel": "Heide Park Jahreskarte Gold, Saison 2027",
+   "kategorie": "Sonstiges",
+   "abteilung": "Freizeit & Spielzeug",
+   "unterkategorie": "Erlebnisse & Tickets",
+   "shop": "Heide Park Resort",
+   "link": "https://heide-park.de/jahreskarten",
+   "preis_jetzt": 69.0,
+   "preis_vorher": 89.0,
+   "rabatt_prozent": 22,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf und kein Shopvergleich möglich; regulärer Preis 89 € laut Anbieterseite",
+   "gilt_bis": "30.11.2026",
+   "kurz": "Jahreskarte mit nur zwei Sperrtagen 20 € unter dem regulären Preis.",
+   "quelle": "https://www.freizeitparkinfos.de/ratgeber/black-friday-freizeitpark",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T09:42",
+   "bild": "bilder/cfa8b7bb15.webp",
+   "neu_seit": "2026-11-27T08:46",
+   "stufe": "15-25"
+  },
+  {
+   "titel": "Mammut Glacier Glow Daunenmantel (dark marsh, Damen)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Mode",
+   "unterkategorie": "Damen",
+   "shop": "Zalando",
+   "link": "https://zalando.de/mammut-daunenmantel-dark-marsh-m7341f06v-m11.html",
+   "preis_jetzt": 245.0,
+   "preis_vorher": 315.0,
+   "rabatt_prozent": 22,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - Zalando-Artikelseite: \"Niedrigster Preis in 30 Tagen vor der Preissenkung\" (315 €); regulärer Preis 350 € nicht als Vergleich genutzt",
+   "gilt_bis": "unbekannt",
+   "kurz": "Daunenmantel, 22 % unter dem niedrigsten Preis der 30 Tage vor der Preissenkung; Verkauf durch Mammut selbst.",
+   "quelle": "Zalando Black-Friday-Übersicht Damen, Artikelseite geprüft",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T09:42",
+   "bild": "bilder/eb84bd843f.webp",
+   "neu_seit": "2026-11-27T09:04",
+   "stufe": "15-25"
+  },
+  {
    "titel": "Corsair HS80 Max Wireless Gaming-Headset (stahlgrau)",
    "kategorie": "Sonstiges",
    "abteilung": "Gaming",
@@ -1959,6 +2379,48 @@
    "stufe": "15-25"
   },
   {
+   "titel": "Gastroback Design Espresso Piccolo",
+   "kategorie": "Sonstiges",
+   "abteilung": "Haushalt & Küche",
+   "unterkategorie": "Küchengeräte",
+   "shop": "Gastroback",
+   "link": "https://monsterdealz.de/goto/deal/888077",
+   "preis_jetzt": 133.99,
+   "preis_vorher": 169.9,
+   "rabatt_prozent": 21,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Chart abrufbar; monsterdealz verweist auf idealo-Preise ab 169,90 € (älterer Deal)",
+   "gilt_bis": "30.11.2026, 23:59 Uhr, solange Vorrat reicht",
+   "kurz": "Espressomaschine, rund 21 % unter dem idealo-Preis aus dem Vergleich.",
+   "quelle": "monsterdealz.de Gastroback-Aktion; check24/idealo-Vergleich",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T09:42",
+   "bild": "",
+   "neu_seit": "2026-11-27T09:04",
+   "stufe": "15-25"
+  },
+  {
+   "titel": "ASUS VivoBook 16 M1605NAQ, Ryzen 5 150, 16 GB RAM, 512 GB SSD, 16\" WUXGA, Windows 11",
+   "kategorie": "Sonstiges",
+   "abteilung": "Elektronik & Technik",
+   "unterkategorie": "Computer & Zubehör",
+   "shop": "MediaMarkt",
+   "link": "https://mydealz.de/deals/asus-vivobook-16-m1605naq-ryzen-5-150-16-gb-512-gb-16-wuxga-win-11-fur-549-eur-mediamarkt-2866667",
+   "preis_jetzt": 549.0,
+   "preis_vorher": 699.0,
+   "rabatt_prozent": 21,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - Mydealz-Kommentar zitiert Geizhals-Verlauf seit Juli 2026 für die 512-GB-Variante: Tiefstpreis 549 €, Median 699 €, Höchstpreis 699 €. Nicht selbst bei Geizhals geprüft.",
+   "gilt_bis": "unbekannt",
+   "kurz": "Laut zitiertem Geizhals-Verlauf war das Gerät seit Juli 2026 nie unter 549 € und sonst bei 699 €; Mydealz warnt, dass der Deal eventuell nicht mehr verfügbar ist.",
+   "quelle": "Mydealz (Deal-Seite und Black-Friday-Notebook-Übersicht)",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T09:42",
+   "bild": "bilder/7073e1f9b5.webp",
+   "neu_seit": "2026-11-27T09:10",
+   "stufe": "15-25"
+  },
+  {
    "titel": "Sonos Beam (Gen. 2) Soundbar Schwarz",
    "kategorie": "Sonstiges",
    "abteilung": "Elektronik & Technik",
@@ -2082,6 +2544,90 @@
    "preis_geprueft": "2026-11-27T09:06",
    "bild": "bilder/b69c7185df.webp",
    "neu_seit": "2026-11-27T08:39",
+   "stufe": "15-25"
+  },
+  {
+   "titel": "Crocs Classic Cozzzy Slipper Unisex (mushroom)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Mode",
+   "unterkategorie": "Schuhe",
+   "shop": "Zalando",
+   "link": "https://zalando.de/crocs-classic-cozzzy-unisex-hausschuh-mushroom-cr415i00h-o11.html",
+   "preis_jetzt": 39.99,
+   "preis_vorher": 49.99,
+   "rabatt_prozent": 20,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - Zalando-Produktseite, Omnibus-Angabe Medianpreis im letzten Monat ohne Aktionspreise",
+   "gilt_bis": "unbekannt",
+   "kurz": "Hausschuh 20 % unter dem Medianpreis des letzten Monats.",
+   "quelle": "Zalando Black-Friday-Schuhe-Seite, Produktseite",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T09:42",
+   "bild": "bilder/070bce552a.webp",
+   "neu_seit": "2026-11-27T09:04",
+   "stufe": "15-25"
+  },
+  {
+   "titel": "Nike Sportswear Air Force 1 '07 (white/black)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Mode",
+   "unterkategorie": "Schuhe",
+   "shop": "Zalando",
+   "link": "https://zalando.de/nike-sportswear-air-force-1-sneaker-low-whiteblack-ni112o0h3-a11.html",
+   "preis_jetzt": 95.95,
+   "preis_vorher": 119.95,
+   "rabatt_prozent": 20,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - Zalando-Artikelseite: \"Medianpreis des Artikels im letzten Monat unter Ausschluss von Aktionspreisen\"",
+   "gilt_bis": "unbekannt",
+   "kurz": "Air Force 1 in Weiß/Schwarz, 20 % unter dem Monatsmedianpreis.",
+   "quelle": "Zalando Black-Friday-Übersicht Schuhe, Artikelseite geprüft",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T09:42",
+   "bild": "bilder/52537cd205.webp",
+   "neu_seit": "2026-11-27T09:04",
+   "stufe": "15-25"
+  },
+  {
+   "titel": "Mammut Sender IN Hooded Winterjacke (black, Damen)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Mode",
+   "unterkategorie": "Damen",
+   "shop": "Zalando",
+   "link": "https://zalando.de/mammut-winterjacke-black-m7341f05j-q11.html",
+   "preis_jetzt": 200.0,
+   "preis_vorher": 250.0,
+   "rabatt_prozent": 20,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - Zalando-Artikelseite: \"Niedrigster Preis in 30 Tagen vor der Preissenkung\"",
+   "gilt_bis": "unbekannt",
+   "kurz": "Winterjacke, 20 % unter dem niedrigsten Preis der 30 Tage vor der Preissenkung; Verkauf durch Mammut selbst.",
+   "quelle": "Zalando Black-Friday-Übersicht Damen, Artikelseite geprüft",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T09:42",
+   "bild": "bilder/5efa071615.webp",
+   "neu_seit": "2026-11-27T09:04",
+   "stufe": "15-25"
+  },
+  {
+   "titel": "Mammut Falera Pro ML Hooded Fleecejacke (black, Damen)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Mode",
+   "unterkategorie": "Damen",
+   "shop": "Zalando",
+   "link": "https://zalando.de/mammut-fleecejacke-black-m7341g02a-q11.html",
+   "preis_jetzt": 128.0,
+   "preis_vorher": 160.0,
+   "rabatt_prozent": 20,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - Zalando-Artikelseite: \"Niedrigster Preis in 30 Tagen vor der Preissenkung\"",
+   "gilt_bis": "unbekannt",
+   "kurz": "Fleecejacke, 20 % unter dem niedrigsten Preis der 30 Tage vor der Preissenkung; Verkauf durch Mammut selbst.",
+   "quelle": "Zalando Black-Friday-Übersicht Damen, Artikelseite geprüft",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T09:42",
+   "bild": "bilder/6c337a0e66.webp",
+   "neu_seit": "2026-11-27T09:04",
    "stufe": "15-25"
   },
   {
@@ -2274,6 +2820,27 @@
    "stufe": "15-25"
   },
   {
+   "titel": "Gastroback Design Kaffeemühle Advanced Plus",
+   "kategorie": "Sonstiges",
+   "abteilung": "Haushalt & Küche",
+   "unterkategorie": "Küchengeräte",
+   "shop": "Gastroback (gastroback.de)",
+   "link": "https://monsterdealz.de/goto/deal/888079",
+   "preis_jetzt": 117.99,
+   "preis_vorher": 143.79,
+   "rabatt_prozent": 18,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Preisverlauf verfügbar; Vergleich mit Geizhals stützt den Rabatt",
+   "gilt_bis": "30.11.2026 (solange der Vorrat reicht)",
+   "kurz": "Kaffeemühle beim Hersteller rund 18 % unter dem Geizhals-Vergleichspreis.",
+   "quelle": "MonsterDealz-Artikel zur Gastroback Black Friday & Cyberweek (Stand 18.11.2026)",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T09:42",
+   "bild": "bilder/c767e3c145.webp",
+   "neu_seit": "2026-11-27T09:04",
+   "stufe": "15-25"
+  },
+  {
    "titel": "Bowers & Wilkins Px7 S3 Over-Ear-Kopfhörer, Indigo Blue",
    "kategorie": "Sonstiges",
    "abteilung": "Elektronik & Technik",
@@ -2334,6 +2901,27 @@
    "preis_geprueft": "2026-11-27T09:03",
    "bild": "bilder/abf06f404e.webp",
    "neu_seit": "2026-11-27T08:50",
+   "stufe": "15-25"
+  },
+  {
+   "titel": "Gastroback Vital Mixer Pro",
+   "kategorie": "Sonstiges",
+   "abteilung": "Haushalt & Küche",
+   "unterkategorie": "Küchengeräte",
+   "shop": "Gastroback (gastroback.de)",
+   "link": "https://monsterdealz.de/goto/deal/888091",
+   "preis_jetzt": 79.99,
+   "preis_vorher": 96.33,
+   "rabatt_prozent": 17,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Preisverlauf verfügbar; Vergleich mit Geizhals stützt den Rabatt",
+   "gilt_bis": "30.11.2026 (solange der Vorrat reicht)",
+   "kurz": "Standmixer beim Hersteller rund 17 % unter dem Geizhals-Vergleichspreis.",
+   "quelle": "MonsterDealz-Artikel zur Gastroback Black Friday & Cyberweek (Stand 18.11.2026)",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T09:42",
+   "bild": "bilder/367a9ac47b.webp",
+   "neu_seit": "2026-11-27T09:04",
    "stufe": "15-25"
   },
   {
@@ -2507,8 +3095,8 @@
   {
    "titel": "Mega SIM Allnet Flat 200 GB Black Week (Telefónica-Netz)",
    "kategorie": "Sonstiges",
-   "abteilung": "Sonstiges",
-   "unterkategorie": "",
+   "abteilung": "Handy-Verträge & Tarife",
+   "unterkategorie": "SIM-only-Tarife",
    "shop": "Mega SIM (direkt bzw. über tariffuxx.de)",
    "link": "https://tariffuxx.de/bestellen/handytarif/59726?product_config=9626277&fc_content_id=599",
    "preis_jetzt": 14.99,
@@ -2544,6 +3132,27 @@
    "preis_geprueft": "2026-11-27T09:03",
    "bild": "bilder/cfc512e2c7.webp",
    "neu_seit": "2026-11-27T08:46",
+   "stufe": "15-25"
+  },
+  {
+   "titel": "Azul Grundspiel (Brett- und Gesellschaftsspiel für 2–4 Spieler)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Freizeit & Spielzeug",
+   "unterkategorie": "Spielzeug",
+   "shop": "Amazon.de",
+   "link": "https://preisvergleich.check24.de/ul/brettspiele/6AF5A8Q05JTWH-asmodee-azul.html",
+   "preis_jetzt": 25.45,
+   "preis_vorher": 30.3,
+   "rabatt_prozent": 16,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - CHECK24 weist 16 % unter dem Ø-Bestpreis der letzten 90 Tage aus. Vergleich: heise-Preisvergleich nennt bei Amazon.de 29,44 € inkl. 3,99 € Versand.",
+   "gilt_bis": "unbekannt",
+   "kurz": "Bestpreis des Amazon-Angebots liegt deutlich unter dem Dreimonatsdurchschnitt, und die Versandkosten entfallen bei Prime.",
+   "quelle": "mydealz-Deal (Amazon, Prime) und CHECK24-Preisvergleich; Vergleichspreis aus heise-Preisvergleich",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T09:42",
+   "bild": "bilder/a03253697c.webp",
+   "neu_seit": "2026-11-27T09:07",
    "stufe": "15-25"
   },
   {
@@ -2736,6 +3345,69 @@
    "stufe": "15-25"
   },
   {
+   "titel": "Philips Sonicare 4100 HX4042/46 Schallzahnbürste",
+   "kategorie": "Sonstiges",
+   "abteilung": "Drogerie & Gesundheit",
+   "unterkategorie": "Körperpflege",
+   "shop": "Amazon",
+   "link": "https://testbericht.de/produkte/philips-sonicare-4100-hx4042-46",
+   "preis_jetzt": 55.3,
+   "preis_vorher": 65.29,
+   "rabatt_prozent": 15,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - testbericht.de-Preisverlauf 30 Tage (Stand 27.11.2026, 09:09): Tiefst 54,60 € (24.11.), Höchst 69,99 € (28.10.), Schnitt 65,29 €; Amazon 55,30 € inkl. Versand",
+   "gilt_bis": "unbekannt",
+   "kurz": "Schallzahnbürste rund 15 % unter dem 30-Tage-Schnitt, knapp über dem Tiefstpreis der letzten Woche, Versand kostenfrei.",
+   "quelle": "testbericht.de (Preisverlauf)",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T09:42",
+   "bild": "",
+   "neu_seit": "2026-11-27T09:04",
+   "stufe": "15-25"
+  },
+  {
+   "titel": "Roborock Qrevo S Pro Set Saug-Wischroboter",
+   "kategorie": "Sonstiges",
+   "abteilung": "Haushalt & Küche",
+   "unterkategorie": "Haushaltsgeräte",
+   "shop": "Roborock-Shop",
+   "link": "https://netzwelt.de/schnaeppchen/260561-black-friday-saug-wischroboter-kaufen-will-roborock-startet-angebote.html",
+   "preis_jetzt": 329.99,
+   "preis_vorher": 389.99,
+   "rabatt_prozent": 15,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf abrufbar; nächstbester Preis bei einem anderen Händler (Galaxus) 389,99 € laut Vergleichsartikel",
+   "gilt_bis": "30.11.2026",
+   "kurz": "Saug-Wischroboter, knapp 15 % unter dem Vergleichspreis.",
+   "quelle": "netzwelt.de Roborock-Aktionsübersicht; mydealz-Magazin",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T09:42",
+   "bild": "bilder/18c7e42fd0.webp",
+   "neu_seit": "2026-11-27T09:04",
+   "stufe": "15-25"
+  },
+  {
+   "titel": "New Balance 740 (sea salt/arid stone/silver)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Mode",
+   "unterkategorie": "Schuhe",
+   "shop": "Zalando",
+   "link": "https://zalando.de/new-balance-740-unisex-sneaker-low-silver-coloured-ne215p05r-d11.html",
+   "preis_jetzt": 101.95,
+   "preis_vorher": 119.95,
+   "rabatt_prozent": 15,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - Zalando-Artikelseite: \"Medianpreis des Artikels im letzten Monat unter Ausschluss von Aktionspreisen\"",
+   "gilt_bis": "unbekannt",
+   "kurz": "Unisex-Sneaker, knapp die Mindestschwelle von 15 % unter dem Monatsmedianpreis.",
+   "quelle": "Zalando Black-Friday-Übersicht Schuhe, Artikelseite geprüft",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T09:42",
+   "bild": "bilder/44bc325a32.webp",
+   "neu_seit": "2026-11-27T09:04",
+   "stufe": "15-25"
+  },
+  {
    "titel": "JBL Live Pro 2 True-Wireless-Kopfhörer mit ANC, schwarz",
    "kategorie": "Sonstiges",
    "abteilung": "Elektronik & Technik",
@@ -2910,24 +3582,24 @@
   {
    "kurz": "15-25",
    "name": "15–25 %",
-   "anzahl": 60
+   "anzahl": 74
   },
   {
    "kurz": "25-50",
    "name": "25–50 %",
-   "anzahl": 52
+   "anzahl": 69
   },
   {
    "kurz": "ueber-50",
    "name": "über 50 %",
-   "anzahl": 26
+   "anzahl": 27
   }
  ],
  "abteilungen": [
   {
    "name": "Elektronik & Technik",
    "kurz": "elektronik",
-   "anzahl": 39,
+   "anzahl": 40,
    "unter": [
     {
      "name": "Smartphones & Tablets",
@@ -2937,7 +3609,7 @@
     {
      "name": "Computer & Zubehör",
      "kurz": "computer-zubehoer",
-     "anzahl": 7
+     "anzahl": 8
     },
     {
      "name": "TV & Heimkino",
@@ -2958,6 +3630,23 @@
      "name": "Kameras",
      "kurz": "kameras",
      "anzahl": 2
+    }
+   ]
+  },
+  {
+   "name": "Handy-Verträge & Tarife",
+   "kurz": "tarife",
+   "anzahl": 6,
+   "unter": [
+    {
+     "name": "Handy mit Vertrag",
+     "kurz": "handy-mit-vertrag",
+     "anzahl": 1
+    },
+    {
+     "name": "SIM-only-Tarife",
+     "kurz": "sim-only-tarife",
+     "anzahl": 5
     }
    ]
   },
@@ -2991,17 +3680,17 @@
   {
    "name": "Haushalt & Küche",
    "kurz": "haushalt",
-   "anzahl": 17,
+   "anzahl": 22,
    "unter": [
     {
      "name": "Küchengeräte",
      "kurz": "kuechengeraete",
-     "anzahl": 8
+     "anzahl": 12
     },
     {
      "name": "Haushaltsgeräte",
      "kurz": "haushaltsgeraete",
-     "anzahl": 9
+     "anzahl": 10
     }
    ]
   },
@@ -3037,11 +3726,16 @@
   {
    "name": "Sport & Fahrrad",
    "kurz": "sport",
-   "anzahl": 1,
+   "anzahl": 2,
    "unter": [
     {
      "name": "Fahrrad",
      "kurz": "fahrrad",
+     "anzahl": 1
+    },
+    {
+     "name": "Outdoor",
+     "kurz": "outdoor",
      "anzahl": 1
     }
    ]
@@ -3049,16 +3743,33 @@
   {
    "name": "Mode",
    "kurz": "mode",
-   "anzahl": 2,
+   "anzahl": 23,
    "unter": [
     {
      "name": "Schuhe",
      "kurz": "schuhe",
-     "anzahl": 1
+     "anzahl": 18
     },
     {
      "name": "Uhren & Accessoires",
      "kurz": "uhren-accessoires",
+     "anzahl": 1
+    },
+    {
+     "name": "Damen",
+     "kurz": "damen",
+     "anzahl": 4
+    }
+   ]
+  },
+  {
+   "name": "Drogerie & Gesundheit",
+   "kurz": "drogerie",
+   "anzahl": 1,
+   "unter": [
+    {
+     "name": "Körperpflege",
+     "kurz": "koerperpflege",
      "anzahl": 1
     }
    ]
@@ -3066,12 +3777,17 @@
   {
    "name": "Freizeit & Spielzeug",
    "kurz": "freizeit",
-   "anzahl": 4,
+   "anzahl": 6,
    "unter": [
+    {
+     "name": "Spielzeug",
+     "kurz": "spielzeug",
+     "anzahl": 1
+    },
     {
      "name": "Erlebnisse & Tickets",
      "kurz": "erlebnisse-tickets",
-     "anzahl": 4
+     "anzahl": 5
     }
    ]
   },
@@ -3086,12 +3802,6 @@
      "anzahl": 1
     }
    ]
-  },
-  {
-   "name": "Sonstiges",
-   "kurz": "sonstiges",
-   "anzahl": 5,
-   "unter": []
   }
  ]
 }
