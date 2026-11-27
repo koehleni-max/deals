@@ -1,6 +1,6 @@
 {
  "stand": "2026-11-27T09:42",
- "fingerabdruck": "d357aa6b71ed2b93",
+ "fingerabdruck": "255f5195d9077e30",
  "mindest": 15,
  "black_week": true,
  "preise_in_pruefung": false,
@@ -2169,6 +2169,27 @@
    "stufe": "15-25"
   },
   {
+   "titel": "Samsung Galaxy Tab S10 FE+ Wi-Fi, 128 GB, 13,1 Zoll, Gray",
+   "kategorie": "Sonstiges",
+   "abteilung": "Elektronik & Technik",
+   "unterkategorie": "Smartphones & Tablets",
+   "shop": "Saturn",
+   "link": "https://saturn.de/de/product/_samsung-galaxy-tab-s10-fe-wi-fi-tablet-128-gb-131-zoll-gray-2985170.html",
+   "preis_jetzt": 529.0,
+   "preis_vorher": 678.0,
+   "rabatt_prozent": 22,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - PCWelt (19.11.2026): dasselbe Modell bei Amazon zuvor zwischen 678 und 799 €, jetzt 599 € als neuer Tiefstpreis; Saturn liegt darunter",
+   "gilt_bis": "unbekannt",
+   "kurz": "13,1-Zoll-Samsung-Tablet 22 % unter dem niedrigsten bisherigen Amazon-Preis und unter dem Amazon-Tiefstpreis von 599 €.",
+   "quelle": "Saturn-Black-Friday-Liste für Samsung-Tablets, Produktseite; Preisverlauf aus PCWelt",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T09:06",
+   "bild": "bilder/57ccf57799.webp",
+   "neu_seit": "2026-11-27T08:58",
+   "stufe": "15-25"
+  },
+  {
    "titel": "Heide Park Jahreskarte Gold, Saison 2027",
    "kategorie": "Sonstiges",
    "abteilung": "Freizeit & Spielzeug",
@@ -2355,27 +2376,6 @@
    "preis_geprueft": "2026-11-27T09:06",
    "bild": "bilder/8317502151.webp",
    "neu_seit": "2026-11-27T08:50",
-   "stufe": "15-25"
-  },
-  {
-   "titel": "Samsung Galaxy Tab S10 FE+ Wi-Fi, 128 GB, 13,1 Zoll, Gray",
-   "kategorie": "Sonstiges",
-   "abteilung": "Elektronik & Technik",
-   "unterkategorie": "Smartphones & Tablets",
-   "shop": "Saturn",
-   "link": "https://saturn.de/de/product/_samsung-galaxy-tab-s10-fe-wi-fi-tablet-128-gb-131-zoll-gray-2985170.html",
-   "preis_jetzt": 529.0,
-   "preis_vorher": 678.0,
-   "rabatt_prozent": 22,
-   "preisverlauf_geprueft": true,
-   "beleg_preisverlauf": "ja - PCWelt (19.11.2026) nennt für das Tab S10 FE+ vor dem Amazon-Preis von 599 € eine Spanne von 678 bis 799 €; Zeitraum und Variante im Artikel nicht genannt",
-   "gilt_bis": "30.11.2026",
-   "kurz": "13,1-Zoll-Samsung-Tablet mit 128 GB für 529 € statt zuvor mindestens 678 €, versandkostenfrei, Lieferung 28.11. bis 30.11.2026, ohne Vertrag kaufbar.",
-   "quelle": "Saturn-Black-Week-Tablet-Liste (Produktseite geprüft); PCWelt-Preisbericht vom 19.11.2026",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T09:06",
-   "bild": "bilder/57ccf57799.webp",
-   "neu_seit": "2026-11-27T08:58",
    "stufe": "15-25"
   },
   {
