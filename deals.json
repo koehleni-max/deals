@@ -1,6 +1,6 @@
 {
  "stand": "2026-11-27T13:07",
- "fingerabdruck": "b19eb184c240bc60",
+ "fingerabdruck": "befff9d132dec7ff",
  "mindest": 15,
  "black_week": true,
  "preise_in_pruefung": false,
@@ -2061,27 +2061,6 @@
    "preis_geprueft": "2026-11-27T13:55",
    "bild": "",
    "neu_seit": "2026-11-27T13:45",
-   "stufe": "ueber-50"
-  },
-  {
-   "titel": "M-net Internet 1000 (Black Friday, Netzgebiet M-net)",
-   "kategorie": "Sonstiges",
-   "abteilung": "Handy-Verträge & Tarife",
-   "unterkategorie": "Internet & DSL",
-   "shop": "M-net",
-   "link": "https://m-net.de/privatkunden/black-friday",
-   "preis_jetzt": 867.5,
-   "preis_vorher": 1737.5,
-   "rabatt_prozent": 50,
-   "preisverlauf_geprueft": false,
-   "beleg_preisverlauf": "nein - Vergleich mit dem Regulärpreis des Anbieters (69,90 €)",
-   "gilt_bis": "02.12.2026",
-   "kurz": "9,90 €/Monat für 6 Monate, dann 49,90 €, 24 Monate, 1.000 Mbit/s im M-net-Netz; inkl. 29,90 € Bereitstellung, abzüglich 120 € Online-Vorteil, nur Neukunden.",
-   "quelle": "m-net.de",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
-   "neu_seit": "2026-11-27T09:57",
    "stufe": "ueber-50"
   },
   {
@@ -29936,6 +29915,28 @@
    "grund": "Angebot beendet"
   },
   {
+   "titel": "M-net Internet 1000 (Black Friday, Netzgebiet M-net)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Handy-Verträge & Tarife",
+   "unterkategorie": "Internet & DSL",
+   "shop": "M-net",
+   "link": "https://m-net.de/privatkunden/black-friday",
+   "preis_jetzt": 867.5,
+   "preis_vorher": 1737.5,
+   "rabatt_prozent": 50,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - Vergleich mit dem Regulärpreis des Anbieters (69,90 €)",
+   "gilt_bis": "02.12.2026",
+   "kurz": "9,90 €/Monat für 6 Monate, dann 49,90 €, 24 Monate, 1.000 Mbit/s im M-net-Netz; inkl. 29,90 € Bereitstellung, abzüglich 120 € Online-Vorteil, nur Neukunden.",
+   "quelle": "m-net.de",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:07",
+   "bild": "",
+   "neu_seit": "2026-11-27T09:57",
+   "stufe": "ueber-50",
+   "grund": "Preis nicht mehr bestätigt"
+  },
+  {
    "titel": "LEGO Blazes Pferderanch (43304)",
    "kategorie": "Sonstiges",
    "abteilung": "Freizeit & Spielzeug",
@@ -36639,7 +36640,7 @@
   {
    "kurz": "ueber-50",
    "name": "über 50 %",
-   "anzahl": 224
+   "anzahl": 223
   }
  ],
  "abteilungen": [
@@ -36705,16 +36706,11 @@
   {
    "name": "Handy-Verträge & Tarife",
    "kurz": "tarife",
-   "anzahl": 2,
+   "anzahl": 1,
    "unter": [
     {
      "name": "SIM-only-Tarife",
      "kurz": "sim-only-tarife",
-     "anzahl": 1
-    },
-    {
-     "name": "Internet & DSL",
-     "kurz": "internet-dsl",
      "anzahl": 1
     }
    ]
