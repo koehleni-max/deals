@@ -1,6 +1,6 @@
 {
- "stand": "2026-11-27T11:14",
- "fingerabdruck": "9241cfbd9b9055eb",
+ "stand": "2026-11-27T11:05",
+ "fingerabdruck": "27aa4a9ac1f2ebd4",
  "mindest": 15,
  "black_week": true,
  "preise_in_pruefung": false,
@@ -972,27 +972,6 @@
    "stufe": "ueber-50"
   },
   {
-   "titel": "Ultimea Poseidon D80 Boom 7.1 Soundsystem mit Dolby Atmos",
-   "kategorie": "Sonstiges",
-   "abteilung": "Elektronik & Technik",
-   "unterkategorie": "TV & Heimkino",
-   "shop": "Saturn (Marktplatz, Verkäufer Ultimea GmbH)",
-   "link": "https://saturn.de/de/product/_ultimea-poseidon-d80-soundbar-schwarz-142493366.html",
-   "preis_jetzt": 229.99,
-   "preis_vorher": 499.99,
-   "rabatt_prozent": 54,
-   "preisverlauf_geprueft": true,
-   "beleg_preisverlauf": "ja - Saturn-Seite zeigt \"Tiefstpreis (30 Tage): 499,99 €\" (Stand 27.11.2026); Saturn-Seite selbst geprüft.",
-   "gilt_bis": "unbekannt",
-   "kurz": "7.1-Soundsystem mit Dolby Atmos und Subwoofer; Preis liegt weit unter dem 30-Tage-Tiefstpreis. Die Angabe ist vom Händler selbst, nicht von unabhängiger Preisverlaufs-Seite.",
-   "quelle": "Saturn-Black-Friday-Soundbar-Liste (geprüft), Saturn-Produktseite",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T09:50",
-   "bild": "bilder/4d4e24f7e4.webp",
-   "neu_seit": "2026-11-27T09:11",
-   "stufe": "ueber-50"
-  },
-  {
    "titel": "Ghost of Tsushima Director's Cut (PC, Steam-Key)",
    "kategorie": "Gaming – PC",
    "abteilung": "Gaming",
@@ -1518,27 +1497,6 @@
    "stufe": "25-50"
   },
   {
-   "titel": "Nike Sportswear Air Force 1 '07 LX (sail/metallic gold)",
-   "kategorie": "Sonstiges",
-   "abteilung": "Mode",
-   "unterkategorie": "Schuhe",
-   "shop": "Zalando",
-   "link": "https://zalando.de/nike-sportswear-air-force-1-07-sneaker-low-carryover-ni111a1e6-a11.html",
-   "preis_jetzt": 71.95,
-   "preis_vorher": 129.95,
-   "rabatt_prozent": 45,
-   "preisverlauf_geprueft": true,
-   "beleg_preisverlauf": "ja - Zalando-Artikelseite: \"Medianpreis des Artikels im letzten Monat unter Ausschluss von Aktionspreisen\"",
-   "gilt_bis": "unbekannt",
-   "kurz": "Air Force 1 LX, Startpreis 45 % unter dem Monatsmedianpreis.",
-   "quelle": "Zalando Black-Friday-Übersicht Schuhe, Artikelseite geprüft",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T09:50",
-   "bild": "bilder/3c9da58365.webp",
-   "neu_seit": "2026-11-27T09:04",
-   "stufe": "25-50"
-  },
-  {
    "titel": "Lapierre Overvolt TR 4.6 2026 (600 Wh, 29 Zoll, Diamant)",
    "kategorie": "Sonstiges",
    "abteilung": "Sport & Fahrrad",
@@ -1875,48 +1833,6 @@
    "stufe": "25-50"
   },
   {
-   "titel": "Turtle Beach Kone II Gaming-Maus (kabelgebunden), Schwarz",
-   "kategorie": "Sonstiges",
-   "abteilung": "Gaming",
-   "unterkategorie": "Gaming-Zubehör",
-   "shop": "MediaMarkt",
-   "link": "https://mediamarkt.de/de/product/_turtle-beach-kone-ii-gaming-maus-schwarz-2955816.html",
-   "preis_jetzt": 33.0,
-   "preis_vorher": 54.99,
-   "rabatt_prozent": 40,
-   "preisverlauf_geprueft": false,
-   "beleg_preisverlauf": "nein - kein vollständiger Verlauf; ein älterer Stand der MediaMarkt-Seite zeigte 54,99 €, mydealz nennt 33 € Bestpreis",
-   "gilt_bis": "unbekannt",
-   "kurz": "Ergonomische RGB-Maus für 33 € ohne Versandkosten.",
-   "quelle": "mydealz",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T09:50",
-   "bild": "bilder/c99074046e.webp",
-   "neu_seit": "2026-11-27T08:39",
-   "stufe": "25-50"
-  },
-  {
-   "titel": "Converse Chuck Taylor All Star Schnürstiefelette (schwarz)",
-   "kategorie": "Sonstiges",
-   "abteilung": "Mode",
-   "unterkategorie": "Schuhe",
-   "shop": "Zalando",
-   "link": "https://zalando.de/converse-chuck-taylor-all-star-unisex-sneaker-high-black-co415p0c2-q11.html",
-   "preis_jetzt": 47.95,
-   "preis_vorher": 79.95,
-   "rabatt_prozent": 40,
-   "preisverlauf_geprueft": true,
-   "beleg_preisverlauf": "ja - Zalando-Artikelseite: \"Medianpreis des Artikels im letzten Monat unter Ausschluss von Aktionspreisen\"",
-   "gilt_bis": "unbekannt",
-   "kurz": "Unisex-Schnürstiefelette, Startpreis 40 % unter dem Monatsmedianpreis.",
-   "quelle": "Zalando Black-Friday-Übersicht Schuhe, Artikelseite geprüft",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T09:50",
-   "bild": "bilder/a3fb8f1fe9.webp",
-   "neu_seit": "2026-11-27T09:04",
-   "stufe": "25-50"
-  },
-  {
    "titel": "Puma Karmen II (Alpine Snow)",
    "kategorie": "Sonstiges",
    "abteilung": "Mode",
@@ -1977,27 +1893,6 @@
    "preis_geprueft": "2026-11-27T10:10",
    "bild": "bilder/809a313654.webp",
    "neu_seit": "2026-11-27T09:11",
-   "stufe": "25-50"
-  },
-  {
-   "titel": "Braun Series 7 72-N1000s Elektrorasierer (360° SkinFlex, nass/trocken)",
-   "kategorie": "Sonstiges",
-   "abteilung": "Drogerie & Gesundheit",
-   "unterkategorie": "Körperpflege",
-   "shop": "Saturn",
-   "link": "https://saturn.de/de/product/_braun-72-n1000s-rasierer-series-7-schwarz-sensoflex-3063382.html",
-   "preis_jetzt": 79.0,
-   "preis_vorher": 129.96,
-   "rabatt_prozent": 39,
-   "preisverlauf_geprueft": true,
-   "beleg_preisverlauf": "ja - billiger.de zeigt 79 € für die Variante 72-N1000SF1 als besten Preis seit einem Jahr; Heise-Vergleich 129,96 € (Momentaufnahme, ohne Verlauf). Keine Daten zum genauen Modell 72-N1000s ohne Variantenzusatz.",
-   "gilt_bis": "unbekannt",
-   "kurz": "Elektrorasierer der Series 7 mit kostenlosem Versand, laut billiger.de ein Jahrestief.",
-   "quelle": "Saturn-Black-Friday-Rasiererliste, Vergleich mit Heise und billiger.de, Deal-Eintrag mydealz",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T09:50",
-   "bild": "bilder/ab3cba3fdd.webp",
-   "neu_seit": "2026-11-27T09:18",
    "stufe": "25-50"
   },
   {
@@ -2481,48 +2376,6 @@
    "preis_geprueft": "2026-11-27T10:10",
    "bild": "bilder/b47b5c21e6.webp",
    "neu_seit": "2026-11-27T08:46",
-   "stufe": "25-50"
-  },
-  {
-   "titel": "Nike Sportswear Air Force 1 '07 (mink brown/black)",
-   "kategorie": "Sonstiges",
-   "abteilung": "Mode",
-   "unterkategorie": "Schuhe",
-   "shop": "Zalando",
-   "link": "https://zalando.de/nike-sportswear-air-force-1-sneaker-low-mink-brownblack-ni111a1pb-o11.html",
-   "preis_jetzt": 77.95,
-   "preis_vorher": 119.95,
-   "rabatt_prozent": 35,
-   "preisverlauf_geprueft": true,
-   "beleg_preisverlauf": "ja - Zalando-Artikelseite: \"Medianpreis des Artikels im letzten Monat unter Ausschluss von Aktionspreisen\"",
-   "gilt_bis": "unbekannt",
-   "kurz": "Air Force 1 in Braun/Schwarz, 35 % unter dem Monatsmedianpreis.",
-   "quelle": "Zalando Black-Friday-Übersicht Schuhe, Artikelseite geprüft",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T09:50",
-   "bild": "bilder/71577a4e2b.webp",
-   "neu_seit": "2026-11-27T09:04",
-   "stufe": "25-50"
-  },
-  {
-   "titel": "New Balance MR530 (white silver)",
-   "kategorie": "Sonstiges",
-   "abteilung": "Mode",
-   "unterkategorie": "Schuhe",
-   "shop": "Zalando",
-   "link": "https://zalando.de/new-balance-530-sneaker-low-whitesilver-118-ne211a0d8-a11.html",
-   "preis_jetzt": 77.95,
-   "preis_vorher": 119.95,
-   "rabatt_prozent": 35,
-   "preisverlauf_geprueft": true,
-   "beleg_preisverlauf": "ja - Zalando-Artikelseite: \"Medianpreis des Artikels im letzten Monat unter Ausschluss von Aktionspreisen\"",
-   "gilt_bis": "unbekannt",
-   "kurz": "Unisex-Sneaker, Startpreis 35 % unter dem Monatsmedianpreis.",
-   "quelle": "Zalando Black-Friday-Übersicht Schuhe, Artikelseite geprüft",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T09:50",
-   "bild": "bilder/8610735b81.webp",
-   "neu_seit": "2026-11-27T09:04",
    "stufe": "25-50"
   },
   {
@@ -3072,27 +2925,6 @@
    "stufe": "25-50"
   },
   {
-   "titel": "Panasonic Series 900s ES-PV6B-W803 Nass-/Trockenrasierer (5-Klingen-Folie, Weiß)",
-   "kategorie": "Sonstiges",
-   "abteilung": "Drogerie & Gesundheit",
-   "unterkategorie": "Körperpflege",
-   "shop": "Saturn",
-   "link": "https://saturn.de/de/product/_panasonic-es-pv-6b-w803-weiss-nass-trockenrasierer-weiss-mit-nagoritm-marmorierung-5-klingen-folienrasierer-144481008.html",
-   "preis_jetzt": 199.99,
-   "preis_vorher": 292.23,
-   "rabatt_prozent": 32,
-   "preisverlauf_geprueft": false,
-   "beleg_preisverlauf": "nein - kein Verlauf abrufbar; Vergleich: 292,23 € (guenstiger.de), 292,37 € (Amazon Marketplace, Stand 29.07.2026, testbericht.de), 299,90 € (Kaufland). UVP 389,99 € nicht verwendet.",
-   "gilt_bis": "30.11.2026 (Shop-Angabe; Vorrat begrenzt)",
-   "kurz": "Panasonic-Series-900s mit kostenfreiem Versand, rund 90 € unter den Preisen anderer Händler.",
-   "quelle": "Saturn-Black-Friday-Liste Panasonic; Vergleich über guenstiger.de und testbericht.de",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T09:50",
-   "bild": "bilder/49cf0c9d4b.webp",
-   "neu_seit": "2026-11-27T09:18",
-   "stufe": "25-50"
-  },
-  {
    "titel": "Teufel CAGE ONE kabelgebundenes Gaming-Headset",
    "kategorie": "Sonstiges",
    "abteilung": "Elektronik & Technik",
@@ -3195,27 +3027,6 @@
    "preis_geprueft": "2026-11-27T10:31",
    "bild": "bilder/d098c1380a.webp",
    "neu_seit": "2026-11-27T09:25",
-   "stufe": "25-50"
-  },
-  {
-   "titel": "BEASTCOM Q5 Gaming-PC, Ryzen 5 4500, 32 GB RAM, 1 TB SSD, RTX 3050",
-   "kategorie": "Sonstiges",
-   "abteilung": "Elektronik & Technik",
-   "unterkategorie": "Computer & Zubehör",
-   "shop": "MediaMarkt",
-   "link": "https://mediamarkt.de/de/product/_beastcom-q5-or-pro-gaming-gaming-pc-mit-amd-ryzentm-5-32-gb-ram-1-tb-ssd-nvidia-nvidia-geforce-rtxtm-3050-windows-11-pro-173069397.html",
-   "preis_jetzt": 999.99,
-   "preis_vorher": 1439.99,
-   "rabatt_prozent": 31,
-   "preisverlauf_geprueft": true,
-   "beleg_preisverlauf": "ja - MediaMarkt-Referenz: niedrigster Preis der letzten 30 Tage 1.439,99 €; kein unabhängiger Verlauf gefunden",
-   "gilt_bis": "unbekannt",
-   "kurz": "Günstiger Einstieg mit 32 GB RAM und 1 TB SSD, die Grafikkarte ist aber älter.",
-   "quelle": "MediaMarkt-Black-Friday-Liste Gaming-PCs (Listenansicht, Produkt nicht einzeln geöffnet)",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T09:50",
-   "bild": "bilder/ba54db4482.webp",
-   "neu_seit": "2026-11-27T09:24",
    "stufe": "25-50"
   },
   {
@@ -3384,90 +3195,6 @@
    "preis_geprueft": "2026-11-27T10:31",
    "bild": "bilder/9886e8cb2c.webp",
    "neu_seit": "2026-11-27T09:25",
-   "stufe": "25-50"
-  },
-  {
-   "titel": "Nike Air Force 1 '07 Low (white)",
-   "kategorie": "Sonstiges",
-   "abteilung": "Mode",
-   "unterkategorie": "Schuhe",
-   "shop": "Zalando",
-   "link": "https://zalando.de/nike-sportswear-air-force-1-07-sneaker-low-white-ni112n022-a11.html",
-   "preis_jetzt": 83.95,
-   "preis_vorher": 119.95,
-   "rabatt_prozent": 30,
-   "preisverlauf_geprueft": true,
-   "beleg_preisverlauf": "ja - Zalando-Produktseite, Omnibus-Angabe Medianpreis des letzten Monats ohne Aktionspreise",
-   "gilt_bis": "unbekannt",
-   "kurz": "Sneaker 30 % unter dem Medianpreis des letzten Monats (Preis je Größe unterschiedlich).",
-   "quelle": "Zalando Black-Friday-Schuhe-Seite, Produktseite",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T09:50",
-   "bild": "bilder/260e1d1518.webp",
-   "neu_seit": "2026-11-27T09:04",
-   "stufe": "25-50"
-  },
-  {
-   "titel": "New Balance MR530 Unisex (white/natural indigo)",
-   "kategorie": "Sonstiges",
-   "abteilung": "Mode",
-   "unterkategorie": "Schuhe",
-   "shop": "Zalando",
-   "link": "https://zalando.de/new-balance-mr530-sneaker-low-white-ne215o04g-a11.html",
-   "preis_jetzt": 83.95,
-   "preis_vorher": 119.95,
-   "rabatt_prozent": 30,
-   "preisverlauf_geprueft": true,
-   "beleg_preisverlauf": "ja - Zalando-Produktseite, Omnibus-Angabe Medianpreis des letzten Monats ohne Aktionspreise",
-   "gilt_bis": "unbekannt",
-   "kurz": "Sneaker 30 % unter dem Medianpreis des letzten Monats (Preis je Größe unterschiedlich).",
-   "quelle": "Zalando Black-Friday-Schuhe-Seite, Produktseite",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T09:50",
-   "bild": "bilder/360e4481cd.webp",
-   "neu_seit": "2026-11-27T09:04",
-   "stufe": "25-50"
-  },
-  {
-   "titel": "Mammut Blackfin III Mid Snowboot (black, Damen)",
-   "kategorie": "Sonstiges",
-   "abteilung": "Mode",
-   "unterkategorie": "Schuhe",
-   "shop": "Zalando",
-   "link": "https://zalando.de/mammut-blackfin-iii-mid-women-hikingschuh-black-black-m7341a032-q11.html",
-   "preis_jetzt": 125.95,
-   "preis_vorher": 179.95,
-   "rabatt_prozent": 30,
-   "preisverlauf_geprueft": true,
-   "beleg_preisverlauf": "ja - Zalando-Artikelseite: \"Medianpreis des Artikels im letzten Monat unter Ausschluss von Aktionspreisen\"",
-   "gilt_bis": "unbekannt",
-   "kurz": "Damen-Winterstiefel, Startpreis 30 % unter dem Monatsmedianpreis.",
-   "quelle": "Zalando Black-Friday-Übersicht Schuhe, Artikelseite geprüft",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T09:50",
-   "bild": "bilder/d830a1957a.webp",
-   "neu_seit": "2026-11-27T09:04",
-   "stufe": "25-50"
-  },
-  {
-   "titel": "LEGO Maersk-Containerschiff mit Zweistoffantrieb (40955)",
-   "kategorie": "Sonstiges",
-   "abteilung": "Freizeit & Spielzeug",
-   "unterkategorie": "Spielzeug",
-   "shop": "LEGO.com",
-   "link": "https://lego.com/de-de/product/maersk-dual-fuel-container-vessel-40955",
-   "preis_jetzt": 104.99,
-   "preis_vorher": 149.97,
-   "rabatt_prozent": 30,
-   "preisverlauf_geprueft": false,
-   "beleg_preisverlauf": "nein - kein Preisverlauf abrufbar (idealo, Geizhals, Keepa nicht erreichbar); Vergleich: andere Anbieter bei billiger.de ab 149,97 €, UVP 149,99 €",
-   "gilt_bis": "30.11.2026 oder solange Vorrat",
-   "kurz": "Das Set ist mit 30 % unter dem günstigsten Vergleichsangebot das deutlichste Preisminus unter den LEGO-Black-Friday-Sets.",
-   "quelle": "LEGO.de Black-Friday-Seite (Aktionszeitraum 27.–30.11.)",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T09:50",
-   "bild": "",
-   "neu_seit": "2026-11-27T09:18",
    "stufe": "25-50"
   },
   {
@@ -4269,27 +3996,6 @@
    "stufe": "25-50"
   },
   {
-   "titel": "BEASTCOM Q5 Pro Gaming-PC, Ryzen 7 5700X, 32 GB RAM, 1 TB SSD, RTX 5060 Ti, Windows 11 Pro",
-   "kategorie": "Sonstiges",
-   "abteilung": "Elektronik & Technik",
-   "unterkategorie": "Computer & Zubehör",
-   "shop": "MediaMarkt (Verkäufer: BEASTCOM, Marktplatz)",
-   "link": "https://mediamarkt.de/de/product/_beastcom-q5-pro-gaming-gaming-pc-mit-amd-ryzentm-7-5700x-prozessor-32-gb-ram-1-tb-ssd-nvidia-nvidia-geforce-rtxtm-5060-ti-windows-11-pro-176855495.html",
-   "preis_jetzt": 1399.0,
-   "preis_vorher": 1919.99,
-   "rabatt_prozent": 27,
-   "preisverlauf_geprueft": true,
-   "beleg_preisverlauf": "ja - MediaMarkt-Seite zeigt als Streichpreis den niedrigsten Preis der letzten 30 Tage (1.919,99 €). Geizhals und idealo waren nicht abrufbar.",
-   "gilt_bis": "unbekannt",
-   "kurz": "Der Preis liegt 27 % unter dem niedrigsten Preis der letzten 30 Tage; für einen RTX-5060-Ti-Desktop mit 32 GB ist das ein guter Preis, wenn der Verkäufer seriös ist.",
-   "quelle": "MediaMarkt Gaming-PC-Cyber-Monday-Liste (Produktseite)",
-   "aktion": "Cyber Monday",
-   "preis_geprueft": "2026-11-27T09:50",
-   "bild": "bilder/c6d774517a.webp",
-   "neu_seit": "2026-11-27T09:24",
-   "stufe": "25-50"
-  },
-  {
    "titel": "Flanellhemd KEZIA Medium Fit, ALLSAINTS",
    "kategorie": "Sonstiges",
    "abteilung": "Mode",
@@ -4983,48 +4689,6 @@
    "stufe": "25-50"
   },
   {
-   "titel": "Mammut Sender MOC Low Women Stiefel (sablun-black)",
-   "kategorie": "Sonstiges",
-   "abteilung": "Mode",
-   "unterkategorie": "Schuhe",
-   "shop": "Zalando",
-   "link": "https://zalando.de/mammut-sender-moc-low-women-hikingschuh-sablun-black-m7341c00k-b11.html",
-   "preis_jetzt": 104.95,
-   "preis_vorher": 139.95,
-   "rabatt_prozent": 25,
-   "preisverlauf_geprueft": true,
-   "beleg_preisverlauf": "ja - Zalando-Artikelseite: \"Medianpreis des Artikels im letzten Monat unter Ausschluss von Aktionspreisen\"",
-   "gilt_bis": "unbekannt",
-   "kurz": "Damen-Stiefel, 25 % unter dem Monatsmedianpreis.",
-   "quelle": "Zalando Black-Friday-Übersicht Schuhe, Artikelseite geprüft",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T09:50",
-   "bild": "bilder/238ce59533.webp",
-   "neu_seit": "2026-11-27T09:04",
-   "stufe": "25-50"
-  },
-  {
-   "titel": "Mammut Sender MOC Low Women Stiefel (paloja-dark paloja)",
-   "kategorie": "Sonstiges",
-   "abteilung": "Mode",
-   "unterkategorie": "Schuhe",
-   "shop": "Zalando",
-   "link": "https://zalando.de/mammut-sender-moc-low-women-hikingschuh-paloja-dark-paloja-m7341c00k-i11.html",
-   "preis_jetzt": 105.0,
-   "preis_vorher": 140.0,
-   "rabatt_prozent": 25,
-   "preisverlauf_geprueft": true,
-   "beleg_preisverlauf": "ja - Zalando-Artikelseite: \"Niedrigster Preis in 30 Tagen vor der Preissenkung\"",
-   "gilt_bis": "unbekannt",
-   "kurz": "Damen-Stiefel, 25 % unter dem niedrigsten Preis der letzten 30 Tage vor der Preissenkung.",
-   "quelle": "Zalando Black-Friday-Übersicht Schuhe, Artikelseite geprüft",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T09:50",
-   "bild": "bilder/6750a4afac.webp",
-   "neu_seit": "2026-11-27T09:04",
-   "stufe": "25-50"
-  },
-  {
    "titel": "Bambu Lab AMS 2 Pro Mehrfarbsystem",
    "kategorie": "Sonstiges",
    "abteilung": "3D-Druck",
@@ -5361,27 +5025,6 @@
    "stufe": "15-25"
   },
   {
-   "titel": "Panasonic Series 900s ES-PV3B-K803 Nass-/Trockenrasierer (Anthrazit)",
-   "kategorie": "Sonstiges",
-   "abteilung": "Drogerie & Gesundheit",
-   "unterkategorie": "Körperpflege",
-   "shop": "Saturn",
-   "link": "https://saturn.de/de/product/_panasonic-es-pv-3b-k803-anthrazit-nass-trockenrasierer-anthrazit-5-klingen-folienrasierer-144480727.html",
-   "preis_jetzt": 189.99,
-   "preis_vorher": 249.99,
-   "rabatt_prozent": 24,
-   "preisverlauf_geprueft": false,
-   "beleg_preisverlauf": "nein - kein Verlauf abrufbar; Vergleich: 249,99 € (Otto, BAUR, Amazon laut testsieger.de); guenstiger.de-Spanne 280,96–378 €. UVP 329,99 € nicht verwendet.",
-   "gilt_bis": "30.11.2026 (Shop-Angabe; Vorrat begrenzt)",
-   "kurz": "Anthrazit-Variante der Series 900s mit kostenfreiem Versand, deutlich unter den Händlerpreisen bei Otto und Amazon.",
-   "quelle": "Saturn-Black-Friday-Liste Panasonic; Vergleich über Otto, BAUR, testsieger.de",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T09:50",
-   "bild": "bilder/bf6857d021.webp",
-   "neu_seit": "2026-11-27T09:18",
-   "stufe": "15-25"
-  },
-  {
    "titel": "De'Longhi Verticale Edge HFS50D22 Heizlüfter",
    "kategorie": "Sonstiges",
    "abteilung": "Haushalt & Küche",
@@ -5694,27 +5337,6 @@
    "preis_geprueft": "2026-11-27T10:10",
    "bild": "bilder/79da8903a5.webp",
    "neu_seit": "2026-11-27T09:25",
-   "stufe": "15-25"
-  },
-  {
-   "titel": "Samsung HW-QS95GH 7.1.2 All-in-One Q-Soundbar (2026)",
-   "kategorie": "Sonstiges",
-   "abteilung": "Elektronik & Technik",
-   "unterkategorie": "TV & Heimkino",
-   "shop": "Saturn",
-   "link": "https://saturn.de/de/product/_samsung-q-serie-soundbar-hw-qs95gh-712-all-in-one-sound-2026-soundbar-titan-schwarz-3047657.html",
-   "preis_jetzt": 499.0,
-   "preis_vorher": 639.0,
-   "rabatt_prozent": 22,
-   "preisverlauf_geprueft": true,
-   "beleg_preisverlauf": "ja - Vergleichspreis 639 € (mydealz/Monsterdealz) und Amazon-Deal 569,91 €; knapp am Schwellenwert, da kein Geizhals-Verlauf abrufbar. Saturn-Seite (499 €) geprüft.",
-   "gilt_bis": "unbekannt",
-   "kurz": "Samsung-Soundbar mit 7.1.2 und Dolby Atmos, derzeit günstiger als Amazon-Deal; Lieferung kostenlos.",
-   "quelle": "Saturn-Black-Friday-Soundbar-Liste (geprüft), Monsterdealz/mydealz (Vergleichspreis)",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T09:50",
-   "bild": "bilder/35d60bbb1b.webp",
-   "neu_seit": "2026-11-27T09:11",
    "stufe": "15-25"
   },
   {
@@ -6369,27 +5991,6 @@
    "stufe": "15-25"
   },
   {
-   "titel": "Crocs Classic Cozzzy Slipper Unisex (mushroom)",
-   "kategorie": "Sonstiges",
-   "abteilung": "Mode",
-   "unterkategorie": "Schuhe",
-   "shop": "Zalando",
-   "link": "https://zalando.de/crocs-classic-cozzzy-unisex-hausschuh-mushroom-cr415i00h-o11.html",
-   "preis_jetzt": 39.99,
-   "preis_vorher": 49.99,
-   "rabatt_prozent": 20,
-   "preisverlauf_geprueft": true,
-   "beleg_preisverlauf": "ja - Zalando-Produktseite, Omnibus-Angabe Medianpreis im letzten Monat ohne Aktionspreise",
-   "gilt_bis": "unbekannt",
-   "kurz": "Hausschuh 20 % unter dem Medianpreis des letzten Monats.",
-   "quelle": "Zalando Black-Friday-Schuhe-Seite, Produktseite",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T09:50",
-   "bild": "bilder/070bce552a.webp",
-   "neu_seit": "2026-11-27T09:04",
-   "stufe": "15-25"
-  },
-  {
    "titel": "Marshall Bromley 750 Party-Lautsprecher, schwarz/messing",
    "kategorie": "Sonstiges",
    "abteilung": "Elektronik & Technik",
@@ -6450,48 +6051,6 @@
    "preis_geprueft": "2026-11-27T10:10",
    "bild": "bilder/0451740c38.webp",
    "neu_seit": "2026-11-27T09:17",
-   "stufe": "15-25"
-  },
-  {
-   "titel": "Nike Sportswear Air Force 1 '07 (white/black)",
-   "kategorie": "Sonstiges",
-   "abteilung": "Mode",
-   "unterkategorie": "Schuhe",
-   "shop": "Zalando",
-   "link": "https://zalando.de/nike-sportswear-air-force-1-sneaker-low-whiteblack-ni112o0h3-a11.html",
-   "preis_jetzt": 95.95,
-   "preis_vorher": 119.95,
-   "rabatt_prozent": 20,
-   "preisverlauf_geprueft": true,
-   "beleg_preisverlauf": "ja - Zalando-Artikelseite: \"Medianpreis des Artikels im letzten Monat unter Ausschluss von Aktionspreisen\"",
-   "gilt_bis": "unbekannt",
-   "kurz": "Air Force 1 in Weiß/Schwarz, 20 % unter dem Monatsmedianpreis.",
-   "quelle": "Zalando Black-Friday-Übersicht Schuhe, Artikelseite geprüft",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T09:50",
-   "bild": "bilder/52537cd205.webp",
-   "neu_seit": "2026-11-27T09:04",
-   "stufe": "15-25"
-  },
-  {
-   "titel": "Essentials Wattierte Kapuzenjacke Damen",
-   "kategorie": "Sonstiges",
-   "abteilung": "Mode",
-   "unterkategorie": "Damen",
-   "shop": "PUMA",
-   "link": "https://eu.puma.com/at/de/pd/essentials-wattierte-kapuzenjacke-damen/685231",
-   "preis_jetzt": 50.9,
-   "preis_vorher": 63.95,
-   "rabatt_prozent": 20,
-   "preisverlauf_geprueft": true,
-   "beleg_preisverlauf": "ja - Puma-Produktseite, Omnibus-Angabe \"30 Tage Bestpreis\"",
-   "gilt_bis": "unbekannt",
-   "kurz": "Wattierte Jacke 28 % unter dem 30-Tage-Bestpreis.",
-   "quelle": "Puma Black-Friday-Seite, Produktseite",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T09:50",
-   "bild": "bilder/cb8b2e07d4.webp",
-   "neu_seit": "2026-11-27T09:31",
    "stufe": "15-25"
   },
   {
@@ -6933,27 +6492,6 @@
    "preis_geprueft": "2026-11-27T10:31",
    "bild": "bilder/53cb15dc3a.webp",
    "neu_seit": "2026-11-27T10:00",
-   "stufe": "15-25"
-  },
-  {
-   "titel": "Gastroback Design Kaffeemühle Advanced Plus",
-   "kategorie": "Sonstiges",
-   "abteilung": "Haushalt & Küche",
-   "unterkategorie": "Küchengeräte",
-   "shop": "Gastroback (Aktion, verlinkt über Monsterdealz)",
-   "link": "https://monsterdealz.de/goto/deal/888079",
-   "preis_jetzt": 117.99,
-   "preis_vorher": 143.79,
-   "rabatt_prozent": 18,
-   "preisverlauf_geprueft": false,
-   "beleg_preisverlauf": "nein - kein Verlauf; Vergleichswert: Geizhals-Preis 143,79 € laut Monsterdealz-Aktionsseite. Ein zweiter Monsterdealz-Text nennt nur rund 18 € Abstand zum nächsten Händler, die Angaben widersprechen sich.",
-   "gilt_bis": "30.11.2026, 23:59 Uhr, solange Vorrat",
-   "kurz": "Kaffeemühle rund 18 % unter dem Geizhals-Vergleichspreis; der Vergleichswert ist weniger gesichert als bei den Mixern.",
-   "quelle": "monsterdealz.de (Gastroback-Aktionsseite, Stand 18.11.2026)",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T09:50",
-   "bild": "bilder/c767e3c145.webp",
-   "neu_seit": "2026-11-27T09:04",
    "stufe": "15-25"
   },
   {
@@ -7797,27 +7335,6 @@
    "stufe": "15-25"
   },
   {
-   "titel": "Essentials Relaxed No. 1 Logo Hose Herren",
-   "kategorie": "Sonstiges",
-   "abteilung": "Mode",
-   "unterkategorie": "Herren",
-   "shop": "PUMA",
-   "link": "https://eu.puma.com/at/de/pd/essentials-relaxed-no-1-logo-hose-herren/694797",
-   "preis_jetzt": 25.9,
-   "preis_vorher": 30.95,
-   "rabatt_prozent": 16,
-   "preisverlauf_geprueft": true,
-   "beleg_preisverlauf": "ja - Puma-Produktseite, Omnibus-Angabe \"30 Tage Bestpreis\"",
-   "gilt_bis": "unbekannt",
-   "kurz": "Logo-Hose 32 % unter dem 30-Tage-Bestpreis.",
-   "quelle": "Puma Black-Friday-Seite, Produktseite",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T09:50",
-   "bild": "",
-   "neu_seit": "2026-11-27T09:31",
-   "stufe": "15-25"
-  },
-  {
    "titel": "Call of Duty: Modern Warfare 4 (Standard, PS5)",
    "kategorie": "Sonstiges",
    "abteilung": "Gaming",
@@ -8130,27 +7647,6 @@
    "preis_geprueft": "2026-11-27T10:10",
    "bild": "bilder/ddc7602a81.webp",
    "neu_seit": "2026-11-27T09:25",
-   "stufe": "15-25"
-  },
-  {
-   "titel": "New Balance 740 (sea salt/arid stone/silver)",
-   "kategorie": "Sonstiges",
-   "abteilung": "Mode",
-   "unterkategorie": "Schuhe",
-   "shop": "Zalando",
-   "link": "https://zalando.de/new-balance-740-unisex-sneaker-low-silver-coloured-ne215p05r-d11.html",
-   "preis_jetzt": 101.95,
-   "preis_vorher": 119.95,
-   "rabatt_prozent": 15,
-   "preisverlauf_geprueft": true,
-   "beleg_preisverlauf": "ja - Zalando-Artikelseite: \"Medianpreis des Artikels im letzten Monat unter Ausschluss von Aktionspreisen\"",
-   "gilt_bis": "unbekannt",
-   "kurz": "Unisex-Sneaker, knapp die Mindestschwelle von 15 % unter dem Monatsmedianpreis.",
-   "quelle": "Zalando Black-Friday-Übersicht Schuhe, Artikelseite geprüft",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T09:50",
-   "bild": "bilder/44bc325a32.webp",
-   "neu_seit": "2026-11-27T09:04",
    "stufe": "15-25"
   }
  ],
@@ -9294,24 +8790,24 @@
   {
    "kurz": "15-25",
    "name": "15–25 %",
-   "anzahl": 154
+   "anzahl": 146
   },
   {
    "kurz": "25-50",
    "name": "25–50 %",
-   "anzahl": 179
+   "anzahl": 164
   },
   {
    "kurz": "ueber-50",
    "name": "über 50 %",
-   "anzahl": 109
+   "anzahl": 108
   }
  ],
  "abteilungen": [
   {
    "name": "Elektronik & Technik",
    "kurz": "elektronik",
-   "anzahl": 83,
+   "anzahl": 79,
    "unter": [
     {
      "name": "Smartphones & Tablets",
@@ -9321,12 +8817,12 @@
     {
      "name": "Computer & Zubehör",
      "kurz": "computer-zubehoer",
-     "anzahl": 13
+     "anzahl": 11
     },
     {
      "name": "TV & Heimkino",
      "kurz": "tv-heimkino",
-     "anzahl": 12
+     "anzahl": 10
     },
     {
      "name": "Audio & Kopfhörer",
@@ -9392,12 +8888,12 @@
   {
    "name": "Gaming",
    "kurz": "gaming",
-   "anzahl": 63,
+   "anzahl": 62,
    "unter": [
     {
      "name": "Gaming-Zubehör",
      "kurz": "gaming-zubehoer",
-     "anzahl": 3
+     "anzahl": 2
     },
     {
      "name": "PlayStation",
@@ -9419,12 +8915,12 @@
   {
    "name": "Haushalt & Küche",
    "kurz": "haushalt",
-   "anzahl": 46,
+   "anzahl": 45,
    "unter": [
     {
      "name": "Küchengeräte",
      "kurz": "kuechengeraete",
-     "anzahl": 21
+     "anzahl": 20
     },
     {
      "name": "Haushaltsgeräte",
@@ -9487,12 +8983,12 @@
   {
    "name": "Mode",
    "kurz": "mode",
-   "anzahl": 100,
+   "anzahl": 86,
    "unter": [
     {
      "name": "Schuhe",
      "kurz": "schuhe",
-     "anzahl": 57
+     "anzahl": 45
     },
     {
      "name": "Uhren & Accessoires",
@@ -9502,36 +8998,24 @@
     {
      "name": "Damen",
      "kurz": "damen",
-     "anzahl": 4
+     "anzahl": 3
     },
     {
      "name": "Herren",
      "kurz": "herren",
-     "anzahl": 28
-    }
-   ]
-  },
-  {
-   "name": "Drogerie & Gesundheit",
-   "kurz": "drogerie",
-   "anzahl": 3,
-   "unter": [
-    {
-     "name": "Körperpflege",
-     "kurz": "koerperpflege",
-     "anzahl": 3
+     "anzahl": 27
     }
    ]
   },
   {
    "name": "Freizeit & Spielzeug",
    "kurz": "freizeit",
-   "anzahl": 14,
+   "anzahl": 13,
    "unter": [
     {
      "name": "Spielzeug",
      "kurz": "spielzeug",
-     "anzahl": 10
+     "anzahl": 9
     },
     {
      "name": "Erlebnisse & Tickets",
