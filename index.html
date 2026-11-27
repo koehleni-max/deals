@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; script-src 'unsafe-inline'; img-src data:; base-uri 'none'; form-action 'none'">
+<meta name="referrer" content="no-referrer">
+<meta name="robots" content="noindex">
+<meta name="theme-color" content="#0b0b0f">
+<meta name="description" content="Echte Rabatte ab 50 %, gemessen am Preisverlauf statt an der UVP.">
+<title>Deals ab 50 %</title>
+<style>
+:root{
+  --bg:#0b0b0f; --s1:#121217; --s2:#17171e; --s3:#1c1c24; --s4:#262630;
+  --line:rgba(255,255,255,.07); --line2:rgba(255,255,255,.13);
+  --text:#eceae6; --body:#cbc7c0; --mute:#9f9b94;
+  --acc:#f0a052; --acc-h:#f5ad63; --on:#1a0e02; --acc-soft:rgba(240,160,82,.14); --acc-line:rgba(240,160,82,.38);
+  --pos:#7fcf9e; --neg:#e8776e; --neg-soft:rgba(232,119,110,.12); --pos-soft:rgba(127,207,158,.12); --warn:#f2c063;
+  --r1:6px; --r2:10px; --r3:14px;
+  --font:'Inter','Segoe UI Variable Text','Segoe UI',Roboto,system-ui,sans-serif;
+  --gross:'Inter','Segoe UI Variable Display','Segoe UI',Roboto,system-ui,sans-serif;
+  --mono:'Cascadia Mono',Consolas,'Roboto Mono',ui-monospace,monospace;
+  --unten:env(safe-area-inset-bottom,0px);
+  color-scheme:dark;
+}
+*{box-sizing:border-box}[hidden]{display:none!important}
+html,body{margin:0}body{background:var(--bg);color:var(--body);font:400 15px/1.5 var(--font);-webkit-font-smoothing:antialiased}
+button{font:inherit;color:inherit;cursor:pointer;background:none;border:0;padding:0}a{color:inherit;text-decoration:none}
+h1,h2,h3,p,ul{margin:0;padding:0}ul{list-style:none}:focus-visible{outline:2px solid var(--acc);outline-offset:2px;border-radius:var(--r1)}
+.ic{width:19px;height:19px;flex:none;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}
+.num{font-variant-numeric:tabular-nums}
+.seite{max-width:1120px;margin:0 auto;padding:34px 36px 56px}
+.kopf{margin-bottom:18px}.kopf h1{font:600 26px/1.2 var(--gross);color:var(--text)}.kopf p{color:var(--mute);margin-top:6px}
+.abs{display:flex;gap:11px;align-items:center;color:var(--text);font:500 17px var(--gross);margin:26px 0 10px;overflow-wrap:anywhere}
+.abs .ic{color:var(--acc)}.lag{color:var(--mute);padding:20px 4px;overflow-wrap:anywhere}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:8px}
+.chip{min-height:32px;padding:3px 13px;border-radius:16px;border:1px solid var(--line2);color:var(--body);font-size:13.5px;display:inline-flex;align-items:center;max-width:100%;overflow-wrap:anywhere}
+.chip.an{background:var(--acc-soft);color:var(--acc-h);border-color:var(--acc-line)}
+.kn{min-height:38px;padding:6px 14px;border-radius:var(--r2);font-weight:500;background:var(--s3);border:1px solid var(--line2);color:var(--text);display:inline-flex;gap:8px;align-items:center;justify-content:center;text-align:center}
+.kn:hover{background:var(--s4)}
+.fuss{color:var(--mute);font-size:13px;border-top:1px solid var(--line);margin-top:30px;padding-top:14px;overflow-wrap:anywhere}
+.fuss p+p{margin-top:4px}
+@media(min-width:640px) and (max-width:999px){.seite{max-width:720px}}
+@media(max-width:640px){.seite{padding:16px 14px 28px}.kopf h1{font-size:22px}.chip{min-height:40px;font-size:15px}.dl-unten .kn{min-height:46px}}
+
+.dl-raster{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(300px,100%),1fr));gap:14px}
+.dl-k{background:var(--s1);border:1px solid var(--line);border-radius:var(--r3);padding:16px 18px;display:flex;flex-direction:column;gap:8px;min-width:0;overflow-wrap:anywhere}
+.dl-oben{display:flex;justify-content:space-between;align-items:center;gap:10px;min-width:0}
+.dl-rabatt{background:var(--acc);color:var(--on);font-weight:700;border-radius:var(--r1);padding:2px 9px;font-size:15px;flex:none}
+.dl-shop{color:var(--mute);font-size:13px;text-align:right;min-width:0;overflow-wrap:anywhere}
+.dl-k h3{font:500 15.5px/1.35 var(--gross);color:var(--text);margin:0}
+.dl-preis{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
+.dl-preis b{color:var(--pos);font-size:20px;font-weight:600}
+.dl-preis s{color:var(--mute);font-size:14px}
+.dl-kurz{color:var(--body);font-size:13.5px;margin:0}
+.dl-fakt{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:13px;color:var(--mute)}
+.dl-fakt li{display:inline-flex;align-items:center;gap:5px;min-width:0}
+.dl-fakt .ic{width:15px;height:15px}
+.dl-fakt .gut{color:var(--pos)}
+.dl-fakt .offen{color:var(--warn)}
+.dl-beleg{color:var(--mute);font-size:12.5px;margin:0;border-left:2px solid var(--line2);padding-left:8px}
+.dl-unten{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap;margin-top:auto;padding-top:4px}
+.dl-unten small{color:var(--mute);font-size:12px;min-width:0;overflow-wrap:anywhere}
+.dl-zahl{color:var(--mute);font-size:14px;font-weight:400}
+.dl-chips{margin:0 0 4px}
+@media (max-width:640px){.dl-k{padding:14px}.dl-preis b{font-size:19px}.dl-unten .kn{width:100%}}
+
+</style>
+</head>
+<body>
+<main class="seite dl-seite">
+<div class="kopf"><h1>Deals ab 50 %</h1><p>Nur echte Rabatte, gemessen am Preisverlauf statt an der UVP.</p></div>
+
+<p class="lag" id="veraltet" hidden>Einige Preise sind nicht mehr frisch geprüft und werden gerade im Shop nachgesehen.</p>
+<section data-abschnitt="pruefung"><h2 class="abs"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.500"/><path d="M12 7v5l3.500 2"/></svg>Preise werden gerade geprüft</h2><p class="lag">Hier stehen nur Preise, die vor Kurzem im Shop nachgesehen wurden. Gleich wieder da.</p></section>
+<footer class="fuss">
+<p>Zuletzt aktualisiert: 27.11.2026, 06:30 Uhr. Abgelaufene Angebote verschwinden von selbst.</p>
+<p>Jeder Preis wurde kurz vorher im Shop nachgesehen (Uhrzeit am Angebot); ältere blendet die Seite von selbst aus.</p>
+<p>Preise ohne Gewähr – gesammelt von einer KI, vor dem Kauf bitte selbst prüfen. Keine Werbelinks, keine Tracker.</p>
+</footer>
+</main>
+<script>(function(){var k='';var chips=document.querySelectorAll('[data-dealkat]');
+function alt(c){var b=+c.getAttribute('data-bis');return b>0&&b<Date.now()}
+function zeig(){var weg=0;document.querySelectorAll('.dl-k').forEach(function(c){var a=alt(c);if(a)weg++;c.hidden=a||(!!k&&c.getAttribute('data-kat')!==k)});
+var h=document.getElementById('veraltet');if(h)h.hidden=weg===0;
+document.querySelectorAll('[data-abschnitt]').forEach(function(a){var n=a.querySelectorAll('.dl-k:not([hidden])').length;
+var z=a.querySelector('.dl-zahl');if(z)z.textContent=n;var l=a.querySelector('.dl-leer');if(l)l.hidden=n>0;
+var r=a.querySelector('.dl-raster');if(r)r.hidden=n===0});
+chips.forEach(function(c){c.classList.toggle('an',c.getAttribute('data-dealkat')===k);c.setAttribute('aria-pressed',c.getAttribute('data-dealkat')===k)})}
+chips.forEach(function(c){c.addEventListener('click',function(){k=c.getAttribute('data-dealkat');zeig()})});zeig();setInterval(zeig,60000)})();</script>
+</body>
+</html>
