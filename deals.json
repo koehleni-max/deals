@@ -1,7 +1,7 @@
 {
  "stand": "2026-11-27T08:01",
- "fingerabdruck": "c8d77b3519e475a1",
- "mindest": 50,
+ "fingerabdruck": "bf1b4cfffd2722c8",
+ "mindest": 15,
  "black_week": true,
  "preise_in_pruefung": false,
  "oben": [
@@ -23,7 +23,8 @@
    "aktion": "",
    "preis_geprueft": "2026-11-27T07:23",
    "bild": "bilder/7e7ee96d11.webp",
-   "neu_seit": "2026-11-27T06:29"
+   "neu_seit": "2026-11-27T06:29",
+   "stufe": "ueber-50"
   },
   {
    "titel": "Need for Speed Heat (PC)",
@@ -43,7 +44,8 @@
    "aktion": "",
    "preis_geprueft": "2026-11-27T08:01",
    "bild": "bilder/32fb5f3985.webp",
-   "neu_seit": "2026-11-27T06:29"
+   "neu_seit": "2026-11-27T06:29",
+   "stufe": "ueber-50"
   },
   {
    "titel": "Battlefield 1 (PC)",
@@ -63,7 +65,8 @@
    "aktion": "",
    "preis_geprueft": "2026-11-27T08:01",
    "bild": "bilder/93d831bbb5.webp",
-   "neu_seit": "2026-11-27T06:29"
+   "neu_seit": "2026-11-27T06:29",
+   "stufe": "ueber-50"
   },
   {
    "titel": "Battlefield 4 (PC)",
@@ -83,7 +86,8 @@
    "aktion": "",
    "preis_geprueft": "2026-11-27T08:01",
    "bild": "bilder/ba53a5f71c.webp",
-   "neu_seit": "2026-11-27T06:29"
+   "neu_seit": "2026-11-27T06:29",
+   "stufe": "ueber-50"
   },
   {
    "titel": "Green Hell (PC)",
@@ -103,7 +107,8 @@
    "aktion": "",
    "preis_geprueft": "2026-11-27T07:23",
    "bild": "bilder/c4c14e5bb1.webp",
-   "neu_seit": "2026-11-27T06:29"
+   "neu_seit": "2026-11-27T06:29",
+   "stufe": "ueber-50"
   },
   {
    "titel": "Dead Space (Remake 2023, PC)",
@@ -123,7 +128,8 @@
    "aktion": "",
    "preis_geprueft": "2026-11-27T08:01",
    "bild": "bilder/cdce4e0f9b.webp",
-   "neu_seit": "2026-11-27T06:29"
+   "neu_seit": "2026-11-27T06:29",
+   "stufe": "ueber-50"
   },
   {
    "titel": "Metro Exodus (PC)",
@@ -143,7 +149,8 @@
    "aktion": "",
    "preis_geprueft": "2026-11-27T08:01",
    "bild": "bilder/7a41e917ae.webp",
-   "neu_seit": "2026-11-27T06:29"
+   "neu_seit": "2026-11-27T06:29",
+   "stufe": "ueber-50"
   },
   {
    "titel": "Hotline Miami 2: Wrong Number (PC)",
@@ -163,7 +170,8 @@
    "aktion": "",
    "preis_geprueft": "2026-11-27T08:01",
    "bild": "bilder/a483a3e410.webp",
-   "neu_seit": "2026-11-27T06:29"
+   "neu_seit": "2026-11-27T06:29",
+   "stufe": "ueber-50"
   },
   {
    "titel": "Titanfall 2 (PC)",
@@ -183,7 +191,8 @@
    "aktion": "",
    "preis_geprueft": "2026-11-27T08:01",
    "bild": "bilder/403220fde0.webp",
-   "neu_seit": "2026-11-27T06:29"
+   "neu_seit": "2026-11-27T06:29",
+   "stufe": "ueber-50"
   },
   {
    "titel": "Saints Row IV: Re-Elected (PC)",
@@ -203,7 +212,8 @@
    "aktion": "",
    "preis_geprueft": "2026-11-27T08:01",
    "bild": "bilder/d0fcd2c9a4.webp",
-   "neu_seit": "2026-11-27T06:29"
+   "neu_seit": "2026-11-27T06:29",
+   "stufe": "ueber-50"
   },
   {
    "titel": "Just Cause 3 (PC)",
@@ -223,7 +233,8 @@
    "aktion": "",
    "preis_geprueft": "2026-11-27T08:01",
    "bild": "bilder/25b4c82ce8.webp",
-   "neu_seit": "2026-11-27T06:29"
+   "neu_seit": "2026-11-27T06:29",
+   "stufe": "ueber-50"
   },
   {
    "titel": "It Takes Two (PC)",
@@ -243,7 +254,8 @@
    "aktion": "",
    "preis_geprueft": "2026-11-27T08:01",
    "bild": "bilder/8330f41554.webp",
-   "neu_seit": "2026-11-27T06:29"
+   "neu_seit": "2026-11-27T06:29",
+   "stufe": "ueber-50"
   },
   {
    "titel": "Star Wars Outlaws (PC)",
@@ -263,7 +275,8 @@
    "aktion": "",
    "preis_geprueft": "2026-11-27T08:01",
    "bild": "bilder/b4601b0c3d.webp",
-   "neu_seit": "2026-11-27T06:29"
+   "neu_seit": "2026-11-27T06:29",
+   "stufe": "ueber-50"
   },
   {
    "titel": "SPORE (PC)",
@@ -283,7 +296,8 @@
    "aktion": "",
    "preis_geprueft": "2026-11-27T08:01",
    "bild": "bilder/3d2032459c.webp",
-   "neu_seit": "2026-11-27T06:29"
+   "neu_seit": "2026-11-27T06:29",
+   "stufe": "ueber-50"
   },
   {
    "titel": "Halo: The Master Chief Collection (PC)",
@@ -303,7 +317,8 @@
    "aktion": "",
    "preis_geprueft": "2026-11-27T08:01",
    "bild": "bilder/1402222e27.webp",
-   "neu_seit": "2026-11-27T06:29"
+   "neu_seit": "2026-11-27T06:29",
+   "stufe": "ueber-50"
   },
   {
    "titel": "Battlefield 6 (PC)",
@@ -323,7 +338,8 @@
    "aktion": "",
    "preis_geprueft": "2026-11-27T08:01",
    "bild": "bilder/5e0cdc2ad2.webp",
-   "neu_seit": "2026-11-27T06:29"
+   "neu_seit": "2026-11-27T06:29",
+   "stufe": "ueber-50"
   },
   {
    "titel": "Liebeskind Berlin Uhr (Damen)",
@@ -343,7 +359,8 @@
    "aktion": "",
    "preis_geprueft": "2026-11-27T07:03",
    "bild": "",
-   "neu_seit": "2026-11-27T06:30"
+   "neu_seit": "2026-11-27T06:30",
+   "stufe": "ueber-50"
   },
   {
    "titel": "Ghost of Tsushima Director's Cut (PC, Steam-Key)",
@@ -363,7 +380,8 @@
    "aktion": "",
    "preis_geprueft": "2026-11-27T06:58",
    "bild": "bilder/68f4d148cc.webp",
-   "neu_seit": "2026-11-27T06:29"
+   "neu_seit": "2026-11-27T06:29",
+   "stufe": "ueber-50"
   },
   {
    "titel": "Lidl Experiences Gutschein 100 € für 50 €",
@@ -383,10 +401,28 @@
    "aktion": "",
    "preis_geprueft": "2026-11-27T08:01",
    "bild": "bilder/7177e4fc42.webp",
-   "neu_seit": "2026-11-27T06:30"
+   "neu_seit": "2026-11-27T06:30",
+   "stufe": "ueber-50"
   }
  ],
  "alle": [],
+ "stufen": [
+  {
+   "kurz": "15-25",
+   "name": "15–25 %",
+   "anzahl": 0
+  },
+  {
+   "kurz": "25-50",
+   "name": "25–50 %",
+   "anzahl": 0
+  },
+  {
+   "kurz": "ueber-50",
+   "name": "über 50 %",
+   "anzahl": 19
+  }
+ ],
  "abteilungen": [
   {
    "name": "Gaming",
