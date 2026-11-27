@@ -1,6 +1,6 @@
 {
  "stand": "2026-11-27T07:23",
- "fingerabdruck": "1c7d3237bd2f4412",
+ "fingerabdruck": "633160c17e9c3050",
  "mindest": 50,
  "black_week": true,
  "preise_in_pruefung": false,
@@ -8,6 +8,8 @@
   {
    "titel": "EDITED Kleid „Mailien“",
    "kategorie": "Kleidung",
+   "abteilung": "Mode",
+   "unterkategorie": "Damen",
    "shop": "About You",
    "link": "https://en.aboutyou.de/p/edited/knitted-dress-mailien-12559899",
    "preis_jetzt": 25.87,
@@ -19,11 +21,15 @@
    "kurz": "Die −70 % auf der About-You-Übersicht sind falsch berechnet; real ist es ein normaler Rabatt.",
    "quelle": "",
    "aktion": "",
-   "preis_geprueft": "2026-11-27T07:03"
+   "preis_geprueft": "2026-11-27T07:03",
+   "bild": "",
+   "neu_seit": "2026-11-27T06:30"
   },
   {
    "titel": "Battlefield 6 Standard Edition (Xbox Series X, Disc)",
    "kategorie": "Freizeit/Spiele",
+   "abteilung": "Gaming",
+   "unterkategorie": "Xbox",
    "shop": "MediaMarkt / Saturn",
    "link": "https://monsterdealz.de/elektronik-computer/konsolen/battlefield-6-xbox-series-x-standard-edition/1626184",
    "preis_jetzt": 24.98,
@@ -35,11 +41,15 @@
    "kurz": "Du brauchst ein EA-Konto und Internet, auch für die Kampagne.",
    "quelle": "",
    "aktion": "",
-   "preis_geprueft": "2026-11-27T07:23"
+   "preis_geprueft": "2026-11-27T07:23",
+   "bild": "",
+   "neu_seit": "2026-11-27T06:30"
   },
   {
    "titel": "Sid Meier's Civilization VI (PC, Steam-Key)",
    "kategorie": "Gaming – PC",
+   "abteilung": "Gaming",
+   "unterkategorie": "PC-Spiele",
    "shop": "WinGameStore (Steam-Key); bei Steam selbst 5,99 €",
    "link": "https://store.steampowered.com/app/289070",
    "preis_jetzt": 2.09,
@@ -51,11 +61,15 @@
    "kurz": "Strategie-Klassiker für rund 2 €. Es war aber schon einmal gratis.",
    "quelle": "",
    "aktion": "",
-   "preis_geprueft": "2026-11-27T07:23"
+   "preis_geprueft": "2026-11-27T07:23",
+   "bild": "bilder/7e7ee96d11.webp",
+   "neu_seit": "2026-11-27T06:29"
   },
   {
    "titel": "Need for Speed Heat (PC)",
    "kategorie": "Gaming – EA/Steam",
+   "abteilung": "Gaming",
+   "unterkategorie": "PC-Spiele",
    "shop": "EA.com (Standard 2,99 €); Steam nur als Deluxe für 3,49 €",
    "link": "https://store.steampowered.com/app/1222680",
    "preis_jetzt": 2.99,
@@ -67,11 +81,15 @@
    "kurz": "Arcade-Rennspiel zum Tiefstpreis.",
    "quelle": "",
    "aktion": "",
-   "preis_geprueft": "2026-11-27T07:23"
+   "preis_geprueft": "2026-11-27T07:23",
+   "bild": "bilder/32fb5f3985.webp",
+   "neu_seit": "2026-11-27T06:29"
   },
   {
    "titel": "Battlefield 1 (PC)",
    "kategorie": "Gaming – EA/Steam",
+   "abteilung": "Gaming",
+   "unterkategorie": "PC-Spiele",
    "shop": "EA.com (Grundspiel 0,99 €); Steam als Revolution Edition für",
    "link": "https://store.steampowered.com/app/1238840",
    "preis_jetzt": 0.99,
@@ -83,13 +101,17 @@
    "kurz": "Shooter im Ersten Weltkrieg für unter 1 €.",
    "quelle": "",
    "aktion": "",
-   "preis_geprueft": "2026-11-27T07:23"
+   "preis_geprueft": "2026-11-27T07:23",
+   "bild": "bilder/93d831bbb5.webp",
+   "neu_seit": "2026-11-27T06:29"
   },
   {
    "titel": "Battlefield 4 (PC)",
    "kategorie": "Gaming – EA/Steam",
+   "abteilung": "Gaming",
+   "unterkategorie": "PC-Spiele",
    "shop": "EA.com (Grundspiel 0,99 €); Steam als Premium Edition für 1,",
-   "link": "https://store.steampowered.com/app/1238860/ (Seite lud nicht)",
+   "link": "https://store.steampowered.com/app/1238860",
    "preis_jetzt": 0.99,
    "preis_vorher": 19.99,
    "rabatt_prozent": 95,
@@ -99,11 +121,15 @@
    "kurz": "Die Premium Edition mit allen Erweiterungen kostet 1,99 €.",
    "quelle": "",
    "aktion": "",
-   "preis_geprueft": "2026-11-27T07:23"
+   "preis_geprueft": "2026-11-27T07:23",
+   "bild": "bilder/ba53a5f71c.webp",
+   "neu_seit": "2026-11-27T06:29"
   },
   {
    "titel": "Green Hell (PC)",
    "kategorie": "Gaming – Steam",
+   "abteilung": "Gaming",
+   "unterkategorie": "PC-Spiele",
    "shop": "GamersGate (Steam-Key) 1,89 €; Steam selbst 2,39 €",
    "link": "https://store.steampowered.com/app/815370",
    "preis_jetzt": 2.1,
@@ -115,11 +141,15 @@
    "kurz": "Survival-Spiel im Dschungel, auch im Koop.",
    "quelle": "",
    "aktion": "",
-   "preis_geprueft": "2026-11-27T07:23"
+   "preis_geprueft": "2026-11-27T07:23",
+   "bild": "",
+   "neu_seit": "2026-11-27T06:29"
   },
   {
    "titel": "Dead Space (Remake 2023, PC)",
    "kategorie": "Gaming – Steam",
+   "abteilung": "Gaming",
+   "unterkategorie": "PC-Spiele",
    "shop": "Steam / EA.com",
    "link": "https://store.steampowered.com/app/1693980",
    "preis_jetzt": 5.99,
@@ -131,11 +161,15 @@
    "kurz": "Sehr gutes Horror-Remake zum Tiefstpreis.",
    "quelle": "",
    "aktion": "",
-   "preis_geprueft": "2026-11-27T07:23"
+   "preis_geprueft": "2026-11-27T07:23",
+   "bild": "bilder/cdce4e0f9b.webp",
+   "neu_seit": "2026-11-27T06:29"
   },
   {
    "titel": "Metro Exodus (PC)",
    "kategorie": "Gaming – Steam/GOG",
+   "abteilung": "Gaming",
+   "unterkategorie": "PC-Spiele",
    "shop": "Steam / GOG / Microsoft Store",
    "link": "https://store.steampowered.com/app/412020",
    "preis_jetzt": 2.99,
@@ -147,13 +181,17 @@
    "kurz": "Story-Shooter zum Tiefstpreis, bei GOG ohne Kopierschutz.",
    "quelle": "",
    "aktion": "",
-   "preis_geprueft": "2026-11-27T07:23"
+   "preis_geprueft": "2026-11-27T07:23",
+   "bild": "bilder/7a41e917ae.webp",
+   "neu_seit": "2026-11-27T06:29"
   },
   {
    "titel": "Hotline Miami 2: Wrong Number (PC)",
    "kategorie": "Gaming – Steam",
+   "abteilung": "Gaming",
+   "unterkategorie": "PC-Spiele",
    "shop": "Steam 2,21 € (Gamesplanet ca. 2,05 €)",
-   "link": "https://store.steampowered.com/app/274170/ (Seite lud nicht)",
+   "link": "https://store.steampowered.com/app/274170",
    "preis_jetzt": 2.21,
    "preis_vorher": 14.79,
    "rabatt_prozent": 85,
@@ -163,13 +201,17 @@
    "kurz": "Kult-Action, fast auf dem Tiefstpreis von 1,91 €.",
    "quelle": "",
    "aktion": "",
-   "preis_geprueft": "2026-11-27T07:23"
+   "preis_geprueft": "2026-11-27T07:23",
+   "bild": "bilder/a483a3e410.webp",
+   "neu_seit": "2026-11-27T06:29"
   },
   {
    "titel": "Titanfall 2 (PC)",
    "kategorie": "Gaming – Steam",
+   "abteilung": "Gaming",
+   "unterkategorie": "PC-Spiele",
    "shop": "Steam / EA.com / Epic",
-   "link": "https://store.steampowered.com/app/1237970/ (Seite lud nicht)",
+   "link": "https://store.steampowered.com/app/1237970",
    "preis_jetzt": 4.49,
    "preis_vorher": 29.99,
    "rabatt_prozent": 85,
@@ -179,11 +221,15 @@
    "kurz": "Starke Shooter-Kampagne, braucht die EA-App.",
    "quelle": "",
    "aktion": "",
-   "preis_geprueft": "2026-11-27T07:23"
+   "preis_geprueft": "2026-11-27T07:23",
+   "bild": "",
+   "neu_seit": "2026-11-27T06:29"
   },
   {
    "titel": "Saints Row IV: Re-Elected (PC)",
    "kategorie": "Gaming – Steam",
+   "abteilung": "Gaming",
+   "unterkategorie": "PC-Spiele",
    "shop": "Steam",
    "link": "https://store.steampowered.com/app/206420",
    "preis_jetzt": 2.99,
@@ -195,13 +241,17 @@
    "kurz": "Verrücktes Open-World-Spiel, Steam ist hier der günstigste Shop.",
    "quelle": "",
    "aktion": "",
-   "preis_geprueft": "2026-11-27T07:23"
+   "preis_geprueft": "2026-11-27T07:23",
+   "bild": "",
+   "neu_seit": "2026-11-27T06:29"
   },
   {
    "titel": "Just Cause 3 (PC)",
    "kategorie": "Gaming – Steam",
+   "abteilung": "Gaming",
+   "unterkategorie": "PC-Spiele",
    "shop": "Steam",
-   "link": "https://store.steampowered.com/app/225540/ (Seite lud nicht)",
+   "link": "https://store.steampowered.com/app/225540",
    "preis_jetzt": 2.99,
    "preis_vorher": 19.99,
    "rabatt_prozent": 85,
@@ -211,11 +261,15 @@
    "kurz": "Open-World-Action mit viel Zerstörung.",
    "quelle": "",
    "aktion": "",
-   "preis_geprueft": "2026-11-27T07:23"
+   "preis_geprueft": "2026-11-27T07:23",
+   "bild": "",
+   "neu_seit": "2026-11-27T06:29"
   },
   {
    "titel": "It Takes Two (PC)",
    "kategorie": "Gaming – Steam",
+   "abteilung": "Gaming",
+   "unterkategorie": "PC-Spiele",
    "shop": "Steam / EA.com",
    "link": "https://store.steampowered.com/app/1426210",
    "preis_jetzt": 7.99,
@@ -227,11 +281,15 @@
    "kurz": "Koop-Spiel des Jahres 2021 zum Tiefstpreis. Nur einer muss es kaufen.",
    "quelle": "",
    "aktion": "",
-   "preis_geprueft": "2026-11-27T07:23"
+   "preis_geprueft": "2026-11-27T07:23",
+   "bild": "bilder/8330f41554.webp",
+   "neu_seit": "2026-11-27T06:29"
   },
   {
    "titel": "Star Wars Outlaws (PC)",
    "kategorie": "Gaming – Steam",
+   "abteilung": "Gaming",
+   "unterkategorie": "PC-Spiele",
    "shop": "Steam (Ubisoft Store mit Code HOLIDAY20 noch etwas billiger)",
    "link": "https://store.steampowered.com/app/2842040",
    "preis_jetzt": 13.99,
@@ -243,11 +301,15 @@
    "kurz": "Open-World-Star-Wars-Spiel, braucht Ubisoft Connect.",
    "quelle": "",
    "aktion": "",
-   "preis_geprueft": "2026-11-27T07:23"
+   "preis_geprueft": "2026-11-27T07:23",
+   "bild": "bilder/b4601b0c3d.webp",
+   "neu_seit": "2026-11-27T06:29"
   },
   {
    "titel": "SPORE (PC)",
    "kategorie": "Gaming – Steam",
+   "abteilung": "Gaming",
+   "unterkategorie": "PC-Spiele",
    "shop": "Steam / EA.com",
    "link": "https://store.steampowered.com/app/17390",
    "preis_jetzt": 3.99,
@@ -259,11 +321,15 @@
    "kurz": "Evolutions-Simulation, ein Klassiker.",
    "quelle": "",
    "aktion": "",
-   "preis_geprueft": "2026-11-27T07:23"
+   "preis_geprueft": "2026-11-27T07:23",
+   "bild": "",
+   "neu_seit": "2026-11-27T06:29"
   },
   {
    "titel": "Halo: The Master Chief Collection (PC)",
    "kategorie": "Gaming – Steam",
+   "abteilung": "Gaming",
+   "unterkategorie": "PC-Spiele",
    "shop": "Steam / Microsoft Store",
    "link": "https://store.steampowered.com/app/976730",
    "preis_jetzt": 9.99,
@@ -275,11 +341,15 @@
    "kurz": "Sechs Halo-Spiele zum Tiefstpreis.",
    "quelle": "",
    "aktion": "",
-   "preis_geprueft": "2026-11-27T07:23"
+   "preis_geprueft": "2026-11-27T07:23",
+   "bild": "bilder/1402222e27.webp",
+   "neu_seit": "2026-11-27T06:29"
   },
   {
    "titel": "Battlefield 6 (PC)",
    "kategorie": "Gaming – Steam",
+   "abteilung": "Gaming",
+   "unterkategorie": "PC-Spiele",
    "shop": "Steam (gleicher Preis bei EA.com)",
    "link": "https://store.steampowered.com/app/2807960",
    "preis_jetzt": 23.09,
@@ -291,11 +361,15 @@
    "kurz": "Shooter von 2025 zum Tiefstpreis im offiziellen Store. Braucht ein EA-Konto, Secure Boot und TPM 2.0.",
    "quelle": "",
    "aktion": "",
-   "preis_geprueft": "2026-11-27T07:23"
+   "preis_geprueft": "2026-11-27T07:23",
+   "bild": "bilder/5e0cdc2ad2.webp",
+   "neu_seit": "2026-11-27T06:29"
   },
   {
    "titel": "Dead Space (2008, PC)",
    "kategorie": "Gaming – Steam/EA/GOG",
+   "abteilung": "Gaming",
+   "unterkategorie": "PC-Spiele",
    "shop": "GOG 7,29 € (Steam und EA je 7,99 €)",
    "link": "https://store.steampowered.com/app/17470",
    "preis_jetzt": 7.29,
@@ -307,11 +381,15 @@
    "kurz": "Das Original, nötig für den VR-Mod.",
    "quelle": "",
    "aktion": "",
-   "preis_geprueft": "2026-11-27T07:23"
+   "preis_geprueft": "2026-11-27T07:23",
+   "bild": "",
+   "neu_seit": "2026-11-27T06:29"
   },
   {
    "titel": "Liebeskind Berlin Uhr (Damen)",
    "kategorie": "Kleidung/Accessoires",
+   "abteilung": "Mode",
+   "unterkategorie": "Uhren & Accessoires",
    "shop": "About You",
    "link": "https://aboutyou.de/c/frauen/black-friday-341495",
    "preis_jetzt": 67.96,
@@ -323,11 +401,15 @@
    "kurz": "Ohne Modellnummer ist kein Marktvergleich möglich.",
    "quelle": "",
    "aktion": "",
-   "preis_geprueft": "2026-11-27T07:03"
+   "preis_geprueft": "2026-11-27T07:03",
+   "bild": "",
+   "neu_seit": "2026-11-27T06:30"
   },
   {
    "titel": "Call of Duty: Black Ops 7 (PS5, Disc, USK 18, Amazon-Edition)",
    "kategorie": "Gaming",
+   "abteilung": "Gaming",
+   "unterkategorie": "PlayStation",
    "shop": "Amazon.de (Verkauf und Versand Amazon)",
    "link": "https://amazon.de/dp/B0FNN9TB9M",
    "preis_jetzt": 14.99,
@@ -339,11 +421,15 @@
    "kurz": "Klar günstigster Preis, aber nur bis höchstens 15,99 € Endbetrag an der Kasse ein 50-%-Deal (Versandangaben widersprechen sich, laut Presse kann eine USK-18-Gebühr von 5 € anfallen; Ausweiskontrolle und Inhalts-Download nötig).",
    "quelle": "https://www.mydealz.de/magazin/black-friday-deal-ticker-beste-angebote-77109",
    "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T06:58"
+   "preis_geprueft": "2026-11-27T06:58",
+   "bild": "",
+   "neu_seit": "2026-11-27T06:29"
   },
   {
    "titel": "Ghost of Tsushima Director's Cut (PC, Steam-Key)",
    "kategorie": "Gaming – PC",
+   "abteilung": "Gaming",
+   "unterkategorie": "PC-Spiele",
    "shop": "Gamesplanet DE (Steam-Key)",
    "link": "https://store.steampowered.com/app/2215430",
    "preis_jetzt": 27.95,
@@ -355,19 +441,51 @@
    "kurz": "Samurai-Open-World mit GameStar-Wertung 90.",
    "quelle": "",
    "aktion": "",
-   "preis_geprueft": "2026-11-27T06:58"
+   "preis_geprueft": "2026-11-27T06:58",
+   "bild": "bilder/68f4d148cc.webp",
+   "neu_seit": "2026-11-27T06:29"
   }
  ],
  "alle": [],
- "kategorien": [
-  "Freizeit/Spiele",
-  "Gaming",
-  "Gaming – EA/Steam",
-  "Gaming – PC",
-  "Gaming – Steam",
-  "Gaming – Steam/EA/GOG",
-  "Gaming – Steam/GOG",
-  "Kleidung",
-  "Kleidung/Accessoires"
+ "abteilungen": [
+  {
+   "name": "Gaming",
+   "kurz": "gaming",
+   "anzahl": 20,
+   "unter": [
+    {
+     "name": "PlayStation",
+     "kurz": "playstation",
+     "anzahl": 1
+    },
+    {
+     "name": "Xbox",
+     "kurz": "xbox",
+     "anzahl": 1
+    },
+    {
+     "name": "PC-Spiele",
+     "kurz": "pc-spiele",
+     "anzahl": 18
+    }
+   ]
+  },
+  {
+   "name": "Mode",
+   "kurz": "mode",
+   "anzahl": 2,
+   "unter": [
+    {
+     "name": "Uhren & Accessoires",
+     "kurz": "uhren-accessoires",
+     "anzahl": 1
+    },
+    {
+     "name": "Damen",
+     "kurz": "damen",
+     "anzahl": 1
+    }
+   ]
+  }
  ]
 }
