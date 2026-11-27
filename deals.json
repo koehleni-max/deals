@@ -1,6 +1,6 @@
 {
  "stand": "2026-11-27T14:42",
- "fingerabdruck": "9ae4a98c32954e5d",
+ "fingerabdruck": "d39e0009addb1d02",
  "mindest": 15,
  "black_week": true,
  "preise_in_pruefung": false,
@@ -776,6 +776,28 @@
    "versand_offen": null
   },
   {
+   "titel": "Converse Chuck Taylor All Star Lift Hi",
+   "kategorie": "Sonstiges",
+   "abteilung": "Mode",
+   "unterkategorie": "Schuhe",
+   "shop": "SportSpar",
+   "link": "https://sportspar.de/converse-chuck-taylor-all-star-lift-hi-unisex-sneaker-560845c",
+   "preis_jetzt": 14.94,
+   "preis_vorher": 45.99,
+   "rabatt_prozent": 68,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - nur Preisvergleich 45,99 € (idealo-Verweis im mydealz-Beitrag)",
+   "gilt_bis": "solange Vorrat",
+   "kurz": "Sehr niedriger Preis, Größenverfügbarkeit prüfen; zzgl. 4,95 € Versand laut mydealz, frei ab 60 €.",
+   "quelle": "https://www.mydealz.de/deals/black-week-sale-zb-converse-sneaker-fur-999eur-fila-hoodie-fur-999eur-puma-boxershorts-6er-",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T15:25",
+   "bild": "bilder/ba5836318c.webp",
+   "neu_seit": "2026-11-27T12:28",
+   "stufe": "ueber-50",
+   "versand_offen": null
+  },
+  {
    "titel": "Battlefield 6 (PC)",
    "kategorie": "Gaming – Steam",
    "abteilung": "Gaming",
@@ -1414,6 +1436,28 @@
    "versand_offen": null
   },
   {
+   "titel": "Battlefield 6 Standard Edition (PlayStation 5)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gaming",
+   "unterkategorie": "PlayStation",
+   "shop": "Saturn",
+   "link": "https://saturn.de/de/product/_ps5-battlefield-5-playstation-5-3007111.html",
+   "preis_jetzt": 24.98,
+   "preis_vorher": 54.99,
+   "rabatt_prozent": 55,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - Dealdoktor-Kommentar nennt 54,99 € (Vergleichspreis 68 €, Datum unklar); heise: 39,99 € (AT, undatiert); kein Verlaufsdiagramm",
+   "gilt_bis": "30.11.2026, solange Vorrat",
+   "kurz": "Shooter-Hit weit unter den üblichen Preisen, Multiplayer braucht Abo.",
+   "quelle": "saturn.de Black-Friday-Liste (PS5-Spiele, geprüft); dealdoktor.de; heise Preisvergleich",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T15:25",
+   "bild": "bilder/2aa74dfdec.webp",
+   "neu_seit": "2026-11-27T09:28",
+   "stufe": "ueber-50",
+   "versand_offen": null
+  },
+  {
    "titel": "adidas Originals PARIS W Low-Top-Sneaker (team victory red/off white)",
    "kategorie": "Sonstiges",
    "abteilung": "Mode",
@@ -1982,6 +2026,28 @@
    "preis_geprueft": "2026-11-27T15:25",
    "bild": "bilder/8dab418bff.webp",
    "neu_seit": "2026-11-27T09:14",
+   "stufe": "ueber-50",
+   "versand_offen": null
+  },
+  {
+   "titel": "God of War Ragnarök (PlayStation 4)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gaming",
+   "unterkategorie": "PlayStation",
+   "shop": "Saturn",
+   "link": "https://saturn.de/de/product/_god-of-war-ragnarok-playstation-4-2845687.html",
+   "preis_jetzt": 14.99,
+   "preis_vorher": 29.9,
+   "rabatt_prozent": 50,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlaufsdiagramm; Vergleich: CHECK24 PS4-Version ab 29,90 € (undatiert); Kaufland 85,80 € (Neuware), Drittanbieter-Importe ab 37,16 €",
+   "gilt_bis": "unbekannt",
+   "kurz": "Action-Adventure für PS4 mit kostenlosem PS5-Upgrade-Hinweis, Einzelspieler.",
+   "quelle": "saturn.de Black-Friday-Liste (PS4-Spiele, geprüft); check24.de; kaufland.de",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T15:25",
+   "bild": "bilder/4a69efebcc.webp",
+   "neu_seit": "2026-11-27T09:28",
    "stufe": "ueber-50",
    "versand_offen": null
   },
@@ -2690,6 +2756,28 @@
    "versand_offen": null
   },
   {
+   "titel": "TAMBU Nala 3D Comfort selbstaufblasende Matte, 7,5 cm",
+   "kategorie": "Sonstiges",
+   "abteilung": "Sport & Fahrrad",
+   "unterkategorie": "Outdoor",
+   "shop": "Lidl",
+   "link": "https://camperstyle.de/black-friday-bei-lidl-die-camping-schnaeppchen-der-black-weeks-im-ueberblick-424009",
+   "preis_jetzt": 78.94,
+   "preis_vorher": 149.9,
+   "rabatt_prozent": 47,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - nur Shopvergleich laut camperstyle (Fritz Berger, OBI, Decathlon 149,90 €); Lidl-Seite nicht selbst geprüft",
+   "gilt_bis": "30.11.2026",
+   "kurz": "Dicke Campingmatte etwa zum halben Preis anderer Shops; Versandkosten beachten.",
+   "quelle": "https://camperstyle.de/black-friday-bei-lidl-die-camping-schnaeppchen-der-black-weeks-im-ueberblick-424009",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T15:25",
+   "bild": "bilder/d8526b57d4.webp",
+   "neu_seit": "2026-11-27T11:59",
+   "stufe": "25-50",
+   "versand_offen": null
+  },
+  {
    "titel": "Didriksons Benno USX Fullzip Jacke Herren, Ochre Red",
    "kategorie": "Sonstiges",
    "abteilung": "Sport & Fahrrad",
@@ -2734,6 +2822,28 @@
    "versand_offen": null
   },
   {
+   "titel": "Gran Turismo 7 (PlayStation 5)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gaming",
+   "unterkategorie": "PlayStation",
+   "shop": "Saturn",
+   "link": "https://saturn.de/de/product/_gran-turismo-7-playstation-5-2765838.html",
+   "preis_jetzt": 19.99,
+   "preis_vorher": 37.0,
+   "rabatt_prozent": 46,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - Check24-Vergleich: 19,99 € (MediaMarkt günstigster Preis), laut Seite 46 % unter dem Ø-Bestpreis der letzten 90 Tage",
+   "gilt_bis": "30.11.2026, solange Vorrat",
+   "kurz": "Ein Jahr nach Release fast die Hälfte unter dem üblichen Preis, Vollspiel auf PS5.",
+   "quelle": "saturn.de Black-Friday-Liste (PS5-Spiele, geprüft); check24.de Preisvergleich",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T15:25",
+   "bild": "bilder/a5929895e0.webp",
+   "neu_seit": "2026-11-27T09:28",
+   "stufe": "25-50",
+   "versand_offen": null
+  },
+  {
    "titel": "Kreidler Vitality Eco 7 Sport CX 2022 (50 cm, Bronze matt)",
    "kategorie": "Sonstiges",
    "abteilung": "Sport & Fahrrad",
@@ -2774,6 +2884,28 @@
    "preis_geprueft": "2026-11-27T15:25",
    "bild": "bilder/f9e6c60eb3.webp",
    "neu_seit": "2026-11-27T10:07",
+   "stufe": "25-50",
+   "versand_offen": null
+  },
+  {
+   "titel": "Puma x BMW MMS Drift Cat Decima Sneaker",
+   "kategorie": "Sonstiges",
+   "abteilung": "Mode",
+   "unterkategorie": "Schuhe",
+   "shop": "SportSpar",
+   "link": "https://sportspar.de/puma-x-bmw-mms-drift-cat-decima-sneaker-307304-03",
+   "preis_jetzt": 32.94,
+   "preis_vorher": 60.77,
+   "rabatt_prozent": 46,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - nur Preisvergleich 60,77 € laut mydealz",
+   "gilt_bis": "solange Vorrat",
+   "kurz": "Weniger als halb so teuer wie im Vergleich; zzgl. 4,95 € Versand laut mydealz, frei ab 60 €.",
+   "quelle": "https://www.mydealz.de/deals/black-week-sale-zb-converse-sneaker-fur-999eur-fila-hoodie-fur-999eur-puma-boxershorts-6er-",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T15:25",
+   "bild": "bilder/5a6f4de74a.webp",
+   "neu_seit": "2026-11-27T12:28",
    "stufe": "25-50",
    "versand_offen": null
   },
@@ -3170,6 +3302,28 @@
    "preis_geprueft": "2026-11-27T15:25",
    "bild": "bilder/c3762e7fbb.webp",
    "neu_seit": "2026-11-27T13:45",
+   "stufe": "25-50",
+   "versand_offen": null
+  },
+  {
+   "titel": "God of War Ragnarök (PlayStation 5)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gaming",
+   "unterkategorie": "PlayStation",
+   "shop": "Saturn",
+   "link": "https://saturn.de/de/product/_god-of-war-ragnarok-playstation-5-2845686.html",
+   "preis_jetzt": 19.99,
+   "preis_vorher": 35.0,
+   "rabatt_prozent": 43,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlaufsdiagramm abrufbar; Vergleich: billiger.de/Check24 ab 34,99–35,00 €, Discounto-Beobachtung 44,99 € (01.10.2026)",
+   "gilt_bis": "30.11.2026, solange Vorrat",
+   "kurz": "Solides Action-Adventure für PS5 deutlich unter dem Preis der anderen Shops.",
+   "quelle": "saturn.de Black-Friday-Liste (PS5-Spiele, geprüft); billiger.de; discounto.de",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T15:25",
+   "bild": "bilder/77d369e458.webp",
+   "neu_seit": "2026-11-27T09:28",
    "stufe": "25-50",
    "versand_offen": null
   },
@@ -3763,6 +3917,28 @@
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T15:25",
    "bild": "",
+   "neu_seit": "2026-11-27T11:59",
+   "stufe": "25-50",
+   "versand_offen": null
+  },
+  {
+   "titel": "adidas Superstar EG4957 schwarz (wenige Größen)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Mode",
+   "unterkategorie": "Schuhe",
+   "shop": "Outlet46",
+   "link": "https://schnaeppchenfuchs.com/angebote/adidas-originals-superstar",
+   "preis_jetzt": 46.98,
+   "preis_vorher": 79.95,
+   "rabatt_prozent": 41,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - nur Preisvergleich laut Schnäppchenfuchs; Shopseite nicht geprüft",
+   "gilt_bis": "solange Vorrat",
+   "kurz": "Klassiker inklusive 6,99 € Versand, nur noch Größen 37⅓ bis 38⅔.",
+   "quelle": "Schnäppchenfuchs",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T15:25",
+   "bild": "bilder/8818116028.webp",
    "neu_seit": "2026-11-27T11:59",
    "stufe": "25-50",
    "versand_offen": null
@@ -5220,6 +5396,28 @@
    "versand_offen": null
   },
   {
+   "titel": "Ratchet & Clank: Rift Apart (PlayStation 5)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gaming",
+   "unterkategorie": "PlayStation",
+   "shop": "Saturn",
+   "link": "https://saturn.de/de/product/_studio-insomniac-games-ratchet-clank-rift-apart-2718446.html",
+   "preis_jetzt": 24.99,
+   "preis_vorher": 39.99,
+   "rabatt_prozent": 37,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlaufsdiagramm; Vergleich: Discounto 39,99 € (beobachtet 08.07.2026), Check24 ab 31,99 €, billiger.de 48,30–58,12 €",
+   "gilt_bis": "30.11.2026, solange Vorrat",
+   "kurz": "Exklusiv-Action für PS5, sichtbar günstiger als bei den Vergleichsshops.",
+   "quelle": "saturn.de Black-Friday-Liste (PS5-Spiele, Seite 2, geprüft); discounto.de; check24.de; billiger.de",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T15:25",
+   "bild": "bilder/82db59dd37.webp",
+   "neu_seit": "2026-11-27T09:28",
+   "stufe": "25-50",
+   "versand_offen": null
+  },
+  {
    "titel": "Centurion Accordo 2000 EQ Tour HP1 2023 (28 Zoll, E-Bike)",
    "kategorie": "Sonstiges",
    "abteilung": "Sport & Fahrrad",
@@ -6496,6 +6694,28 @@
    "versand_offen": null
   },
   {
+   "titel": "The Last of Us Part I (PlayStation 5)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gaming",
+   "unterkategorie": "PlayStation",
+   "shop": "Saturn",
+   "link": "https://saturn.de/de/product/_ps5-the-last-of-us-part-i-playstation-5-2814155.html",
+   "preis_jetzt": 29.99,
+   "preis_vorher": 45.79,
+   "rabatt_prozent": 35,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - monsterdealz (31.10.2026): MediaMarkt 29,99 € gegen Vergleichspreis 45,79 €; billiger.de ab 50,39 €",
+   "gilt_bis": "30.11.2026, solange Vorrat",
+   "kurz": "Story-Klassiker zum bisher niedrigsten Preis, Einzelspieler.",
+   "quelle": "saturn.de Black-Friday-Liste (PS5-Spiele, geprüft); monsterdealz; billiger.de",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T15:25",
+   "bild": "bilder/a569bd73f2.webp",
+   "neu_seit": "2026-11-27T09:28",
+   "stufe": "25-50",
+   "versand_offen": null
+  },
+  {
    "titel": "WMF Touch Messerset 2-teilig",
    "kategorie": "Sonstiges",
    "abteilung": "Haushalt & Küche",
@@ -7394,6 +7614,28 @@
    "preis_geprueft": "2026-11-27T15:25",
    "bild": "bilder/e9491ec141.webp",
    "neu_seit": "2026-11-27T08:46",
+   "stufe": "25-50",
+   "versand_offen": null
+  },
+  {
+   "titel": "Ghost of Yōtei (PlayStation 5)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gaming",
+   "unterkategorie": "PlayStation",
+   "shop": "Saturn",
+   "link": "https://saturn.de/de/product/_ps5-ghost-of-yotei-playstation-5-2992918.html",
+   "preis_jetzt": 29.98,
+   "preis_vorher": 44.99,
+   "rabatt_prozent": 33,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - Geizhals-Verlauf laut PCGH (27.05.2026): 44,99 € bei Amazon/MediaMarkt, Ende Feb. 49,99 €; kein aktueller Tagesverlauf. Vergleich: Netgames 35,85 € inkl. Versand (mydealz)",
+   "gilt_bis": "30.11.2026, solange Vorrat",
+   "kurz": "Neuer Open-World-Hit deutlich unter den Preisen der anderen Händler.",
+   "quelle": "saturn.de Black-Friday-Liste (PS5-Spiele, geprüft); pcgames.de (Geizhals-Verlauf); mydealz",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T15:25",
+   "bild": "bilder/d41db55d2d.webp",
+   "neu_seit": "2026-11-27T09:28",
    "stufe": "25-50",
    "versand_offen": null
   },
@@ -9774,6 +10016,28 @@
    "versand_offen": null
   },
   {
+   "titel": "Marvel's Spider-Man 2 (PlayStation 5)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gaming",
+   "unterkategorie": "PlayStation",
+   "shop": "Saturn",
+   "link": "https://saturn.de/de/product/_ps5-marvels-spider-man-2-playstation-5-2882142.html",
+   "preis_jetzt": 27.98,
+   "preis_vorher": 39.99,
+   "rabatt_prozent": 30,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf abrufbar; Vergleich: joybuy 39,99 € (Check24), billiger.de ab 43,89 €, Amazon 29,99 € laut PCGH (ohne Datum)",
+   "gilt_bis": "30.11.2026, solange Vorrat",
+   "kurz": "Open-World-Klassiker zu einem Preis, den die Vergleichsshops nicht halten.",
+   "quelle": "saturn.de Black-Friday-Liste (PS5-Spiele, geprüft); check24.de; billiger.de; pcgames.de",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T15:25",
+   "bild": "bilder/6cdd8ef753.webp",
+   "neu_seit": "2026-11-27T09:28",
+   "stufe": "25-50",
+   "versand_offen": null
+  },
+  {
    "titel": "Kindle Scribe Colorsoft (2026), 32 GB, Graphite",
    "kategorie": "Sonstiges",
    "abteilung": "Elektronik & Technik",
@@ -10038,6 +10302,28 @@
    "versand_offen": null
   },
   {
+   "titel": "Slagharen Saisonpass Platinum 2027 (Niederlande)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Freizeit & Spielzeug",
+   "unterkategorie": "Erlebnisse & Tickets",
+   "shop": "Slagharen",
+   "link": "https://slagharen.com/de/black-friday",
+   "preis_jetzt": 82.53,
+   "preis_vorher": 117.9,
+   "rabatt_prozent": 30,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Preisverlauf; Vergleich mit dem regulären Preis des Anbieters",
+   "gilt_bis": "04.12.2026",
+   "kurz": "30 % auf den größten Saisonpass, gültig bis 09.01.2028.",
+   "quelle": "Anbieterseite",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T15:25",
+   "bild": "bilder/f70a005ecf.webp",
+   "neu_seit": "2026-11-27T11:59",
+   "stufe": "25-50",
+   "versand_offen": null
+  },
+  {
    "titel": "Tangle Teezer Ultimate Detangler Haarbürste",
    "kategorie": "Sonstiges",
    "abteilung": "Drogerie & Gesundheit",
@@ -10122,6 +10408,28 @@
    "preis_geprueft": "2026-11-27T15:25",
    "bild": "bilder/bba09b515b.webp",
    "neu_seit": "2026-11-27T12:15",
+   "stufe": "25-50",
+   "versand_offen": null
+  },
+  {
+   "titel": "Oakley Sutro Sportbrille, Prizm 24K / Pacific Glass",
+   "kategorie": "Sonstiges",
+   "abteilung": "Sport & Fahrrad",
+   "unterkategorie": "Fahrrad",
+   "shop": "bike-components",
+   "link": "https://bike-components.de/de/Oakley/Sutro-Brille-p70301?v=51358-prizm-24k-pacific-glass",
+   "preis_jetzt": 98.98,
+   "preis_vorher": 142.4,
+   "rabatt_prozent": 30,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf abrufbar; Vergleich laut Suchtreffer: Galaxus 142,40 €, Blue Tomato 174,95 €",
+   "gilt_bis": "solange Vorrat",
+   "kurz": "Diese Farbvariante liegt klar unter anderen Händlern; zzgl. Versand.",
+   "quelle": "TOUR Magazin Black-Friday-Übersicht",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T15:25",
+   "bild": "bilder/a0d5024e17.webp",
+   "neu_seit": "2026-11-27T12:28",
    "stufe": "25-50",
    "versand_offen": null
   },
@@ -11222,6 +11530,28 @@
    "preis_geprueft": "2026-11-27T15:25",
    "bild": "bilder/6d383b39b1.webp",
    "neu_seit": "2026-11-27T12:16",
+   "stufe": "25-50",
+   "versand_offen": null
+  },
+  {
+   "titel": "Fizik Terra Artica X2 MTB-Winterschuhe (Gr. 40,5)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Sport & Fahrrad",
+   "unterkategorie": "Fahrrad",
+   "shop": "bike-components",
+   "link": "https://bike-components.de/de/Fizik/Terra-Artica-X2-MTB-Schuhe-p74421",
+   "preis_jetzt": 129.98,
+   "preis_vorher": 182.0,
+   "rabatt_prozent": 29,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf abrufbar; Vergleich laut Suchtreffer: fizik.com ab 182 €",
+   "gilt_bis": "solange Vorrat",
+   "kurz": "Winterschuh deutlich unter dem Herstellershop-Preis; nur Gr. 40 (127,99 €) und 40,5, zzgl. Versand.",
+   "quelle": "TOUR Magazin Black-Friday-Übersicht",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T15:25",
+   "bild": "bilder/fce994f699.webp",
+   "neu_seit": "2026-11-27T12:28",
    "stufe": "25-50",
    "versand_offen": null
   },
@@ -15120,6 +15450,50 @@
    "versand_offen": null
   },
   {
+   "titel": "Amazon Echo Show 8 (2025), Graphit",
+   "kategorie": "Sonstiges",
+   "abteilung": "Elektronik & Technik",
+   "unterkategorie": "Smart Home",
+   "shop": "MediaMarkt",
+   "link": "https://mediamarkt.de/de/product/_amazon-echo-show-8-2025-release-smart-speaker-graphite-3019482.html",
+   "preis_jetzt": 109.99,
+   "preis_vorher": 147.0,
+   "rabatt_prozent": 25,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - testbericht.de, Stand 27.11.: 30-Tage-Schnitt ca. 147 €, Hoch 167 €",
+   "gilt_bis": "unbekannt",
+   "kurz": "Smart Display mit integrierter Smart-Home-Zentrale, Lieferung nach Hause kostenlos.",
+   "quelle": "heise Black-Week-Übersicht, testbericht.de",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T15:25",
+   "bild": "bilder/fa13a34623.webp",
+   "neu_seit": "2026-11-27T09:57",
+   "stufe": "25-50",
+   "versand_offen": null
+  },
+  {
+   "titel": "Govee Smart Ceiling Light 15 Zoll (H60A6) Deckenleuchte",
+   "kategorie": "Sonstiges",
+   "abteilung": "Elektronik & Technik",
+   "unterkategorie": "Smart Home",
+   "shop": "MediaMarkt",
+   "link": "https://mediamarkt.de/de/product/_govee-h60a6c01-15-zoll-round-smart-ceiling-light-3027108.html",
+   "preis_jetzt": 74.99,
+   "preis_vorher": 100.0,
+   "rabatt_prozent": 25,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - heise-Deal-Check zum Modell H60A6: 70 € bei -30 % (üblich also rund 100 €)",
+   "gilt_bis": "unbekannt",
+   "kurz": "Farbige Smart-Deckenleuchte ein Viertel günstiger, anderswo laut heise sogar rund 70 €; Versand nicht geprüft.",
+   "quelle": "https://www.heise.de/bestenlisten/deals/ueber-400-black-friday-deals-im-check-diese-angebote-lohnen-sich/1sv4gfy",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T15:25",
+   "bild": "bilder/c60fd64c7d.webp",
+   "neu_seit": "2026-11-27T09:57",
+   "stufe": "25-50",
+   "versand_offen": null
+  },
+  {
    "titel": "Tribit StormBox Blast Bluetooth-Lautsprecher (mit Prime)",
    "kategorie": "Sonstiges",
    "abteilung": "Elektronik & Technik",
@@ -15291,6 +15665,28 @@
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T15:25",
    "bild": "bilder/4d4e3468c7.webp",
+   "neu_seit": "2026-11-27T11:59",
+   "stufe": "25-50",
+   "versand_offen": null
+  },
+  {
+   "titel": "Heide Park Übernachtungspaket mit Parkeintritt (ab, pro Person)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Freizeit & Spielzeug",
+   "unterkategorie": "Erlebnisse & Tickets",
+   "shop": "Heide Park",
+   "link": "https://heide-park.de/black-friday",
+   "preis_jetzt": 60.0,
+   "preis_vorher": 80.0,
+   "rabatt_prozent": 25,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - tagesabhängige Preise; Vergleichspreis laut Anbieterseite ab 80 €",
+   "gilt_bis": "30.11.2026",
+   "kurz": "Mit zwei Tagestickets, Frühstück und Abendbuffet; Anreise bis 30.06.2027 mit Sperrterminen.",
+   "quelle": "heide-park.de",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T15:25",
+   "bild": "bilder/ef51a13882.webp",
    "neu_seit": "2026-11-27T11:59",
    "stufe": "25-50",
    "versand_offen": null
@@ -16858,6 +17254,28 @@
    "versand_offen": null
   },
   {
+   "titel": "Specialized Torch 3.0 Rennradschuhe (oak green)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Sport & Fahrrad",
+   "unterkategorie": "Fahrrad",
+   "shop": "bike-components",
+   "link": "https://bike-components.de/de/Specialized/Torch-3-0-Rennradschuhe-p94036",
+   "preis_jetzt": 129.98,
+   "preis_vorher": 169.95,
+   "rabatt_prozent": 24,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf abrufbar; Vergleich laut billiger.de-Suchtreffer: 169,95 € (Gr. 45 weiß), Spanne ab 137 €",
+   "gilt_bis": "solange Vorrat",
+   "kurz": "Der Preis gilt für oak green in Gr. 40, 42, 44 und 45; andere Farben kosten meist 172,99 €, zzgl. Versand.",
+   "quelle": "TOUR Magazin Black-Friday-Übersicht",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T15:25",
+   "bild": "bilder/659cef54ef.webp",
+   "neu_seit": "2026-11-27T12:28",
+   "stufe": "15-25",
+   "versand_offen": null
+  },
+  {
    "titel": "Ridley Grifn A Gravelbike",
    "kategorie": "Sonstiges",
    "abteilung": "Sport & Fahrrad",
@@ -17782,6 +18200,28 @@
    "versand_offen": null
   },
   {
+   "titel": "EA Sports FC 27 Standard Edition (PlayStation 5)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gaming",
+   "unterkategorie": "PlayStation",
+   "shop": "Saturn",
+   "link": "https://saturn.de/de/product/_ps5-ea-sports-fc-27-3063284.html",
+   "preis_jetzt": 42.98,
+   "preis_vorher": 55.99,
+   "rabatt_prozent": 23,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlaufsdiagramm; Vergleich: Amazon 55,99 € inkl. Versand (mydealz-Angabe, undatiert), billiger.de ab 69,00 €",
+   "gilt_bis": "30.11.2026, solange Vorrat",
+   "kurz": "Sportspiel-Neuheit deutlich günstiger als bei Amazon, Standard-Edition auf PS5.",
+   "quelle": "saturn.de Black-Friday-Liste (PS5-Spiele, geprüft); mydealz; billiger.de",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T15:25",
+   "bild": "bilder/37494d75a0.webp",
+   "neu_seit": "2026-11-27T09:28",
+   "stufe": "15-25",
+   "versand_offen": null
+  },
+  {
    "titel": "Canon EOS R8 mit RF 24-50 mm IS STM",
    "kategorie": "Sonstiges",
    "abteilung": "Elektronik & Technik",
@@ -18063,6 +18503,28 @@
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T15:25",
    "bild": "bilder/a1dfbbc7e5.webp",
+   "neu_seit": "2026-11-27T11:59",
+   "stufe": "15-25",
+   "versand_offen": null
+  },
+  {
+   "titel": "Thermomix Gemüse Styler für TM6/TM5",
+   "kategorie": "Sonstiges",
+   "abteilung": "Haushalt & Küche",
+   "unterkategorie": "Küchengeräte",
+   "shop": "Vorwerk",
+   "link": "https://vorwerk.com/de/de/shop/kategorien/black-week",
+   "preis_jetzt": 99.0,
+   "preis_vorher": 129.0,
+   "rabatt_prozent": 23,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - mydealz-Magazin nennt 129 € als 30-Tage-Tiefstpreis bei Vorwerk; Produktseite nicht selbst geöffnet",
+   "gilt_bis": "30.11.2026",
+   "kurz": "Schneidaufsatz selten reduziert, versandkostenfrei ab 39 €.",
+   "quelle": "mydealz-Magazin zu Thermomix",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T15:25",
+   "bild": "bilder/517e6964a2.webp",
    "neu_seit": "2026-11-27T11:59",
    "stufe": "15-25",
    "versand_offen": null
@@ -19564,6 +20026,28 @@
    "versand_offen": null
   },
   {
+   "titel": "Heide Park Jahreskarte Gold",
+   "kategorie": "Sonstiges",
+   "abteilung": "Freizeit & Spielzeug",
+   "unterkategorie": "Erlebnisse & Tickets",
+   "shop": "Heide Park",
+   "link": "https://heide-park.de/tickets-paesse/jahreskarten",
+   "preis_jetzt": 69.0,
+   "preis_vorher": 89.0,
+   "rabatt_prozent": 22,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Preisverlauf für Tickets; Vergleich mit dem regulären Preis auf der Anbieterseite",
+   "gilt_bis": "30.11.2026",
+   "kurz": "Jahreskarte in der Black-Friday-Aktion 20 € günstiger, Parken kostet 35 € extra.",
+   "quelle": "freizeitparkinfos.de",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T15:25",
+   "bild": "bilder/8317502151c9.webp",
+   "neu_seit": "2026-11-27T12:28",
+   "stufe": "15-25",
+   "versand_offen": null
+  },
+  {
    "titel": "adidas Handball Spezial Sneaker, cardboard/alumina",
    "kategorie": "Sonstiges",
    "abteilung": "Mode",
@@ -20285,6 +20769,28 @@
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T15:25",
    "bild": "bilder/cabca19a71.webp",
+   "neu_seit": "2026-11-27T09:57",
+   "stufe": "15-25",
+   "versand_offen": null
+  },
+  {
+   "titel": "TCL 65C7L SQD-Mini-LED-TV, 65 Zoll",
+   "kategorie": "Sonstiges",
+   "abteilung": "Elektronik & Technik",
+   "unterkategorie": "TV & Heimkino",
+   "shop": "MediaMarkt",
+   "link": "https://mediamarkt.de/de/product/_tcl-65c7l-mini-led-tv-flat-65-zoll-1639-cm-hdr-4k-3042105.html",
+   "preis_jetzt": 849.0,
+   "preis_vorher": 1072.99,
+   "rabatt_prozent": 21,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf abrufbar (Geizhals nur Momentaufnahmen); der Rabatt wird durch den Shop-Vergleich gestützt: heise 1.072,99 €, MediaMarkt AT 1.199 €, Alternate 949 €.",
+   "gilt_bis": "unbekannt (Black-Friday-Fußnoten bis 30.11.2026)",
+   "kurz": "65-Zoll-Mini-LED mit kostenloser Lieferung nach Hause, rund ein Fünftel unter den Preisen anderer Shops.",
+   "quelle": "MediaMarkt-Produktseite (selbst geöffnet), Geizhals, heise Preisvergleich",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T15:25",
+   "bild": "bilder/d5a0a9a09a.webp",
    "neu_seit": "2026-11-27T09:57",
    "stufe": "15-25",
    "versand_offen": null
@@ -21874,6 +22380,28 @@
    "versand_offen": null
   },
   {
+   "titel": "Tripsdrill Natur-Resort Übernachtung Wintersaison (ab, 2 Erwachsene)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Freizeit & Spielzeug",
+   "unterkategorie": "Erlebnisse & Tickets",
+   "shop": "Tripsdrill",
+   "link": "https://tripsdrill.de/de/informationen/tickets-gutscheine/aktionen/schwaben-schnaeppchen",
+   "preis_jetzt": 119.2,
+   "preis_vorher": 149.0,
+   "rabatt_prozent": 20,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - 20 % auf den Tagespreis laut Anbieter; Vergleichspreis daraus errechnet",
+   "gilt_bis": "29.11.2026",
+   "kurz": "Mit Frühstück und Wildparadies-Besuch, nur online, Aufenthalt in der Wintersaison bis 18.03.2027.",
+   "quelle": "tripsdrill.de, freizeitpark-welt.de",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T15:25",
+   "bild": "bilder/80c914fbce.webp",
+   "neu_seit": "2026-11-27T11:59",
+   "stufe": "15-25",
+   "versand_offen": null
+  },
+  {
    "titel": "Braun Haarschneider Series 7 HC7590",
    "kategorie": "Sonstiges",
    "abteilung": "Drogerie & Gesundheit",
@@ -22067,6 +22595,28 @@
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T15:25",
    "bild": "bilder/a3989f6ef4.webp",
+   "neu_seit": "2026-11-27T12:25",
+   "stufe": "15-25",
+   "versand_offen": null
+  },
+  {
+   "titel": "Gastroback Vital Mixer Basic Standmixer (40898)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Haushalt & Küche",
+   "unterkategorie": "Küchengeräte",
+   "shop": "Gastroback",
+   "link": "https://gastroback.de/produkte/saft-smoothies/mixer-standmixer-hochleistungsmixer-smoothie-to-go-mixer/142/vital-mixer-basic",
+   "preis_jetzt": 57.94,
+   "preis_vorher": 72.58,
+   "rabatt_prozent": 20,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - nur Shopvergleich: laut Geizhals (18.11.2026) sonst 72,58 € inkl. Versand; 51,99 € im Shop geprüft, plus 5,95 € Versand laut Deal-Quelle (Shopseite dazu uneindeutig)",
+   "gilt_bis": "30.11.2026",
+   "kurz": "Standmixer beim Hersteller günstiger als im Preisvergleich.",
+   "quelle": "MonsterDealz",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T15:25",
+   "bild": "bilder/6c5530b154.webp",
    "neu_seit": "2026-11-27T12:25",
    "stufe": "15-25",
    "versand_offen": null
@@ -23634,6 +24184,28 @@
    "versand_offen": null
   },
   {
+   "titel": "eufy Indoor Cam S350",
+   "kategorie": "Sonstiges",
+   "abteilung": "Elektronik & Technik",
+   "unterkategorie": "Smart Home",
+   "shop": "MediaMarkt",
+   "link": "https://mediamarkt.de/de/product/_eufy-innenkamera-s350-uberwachungskamera-2954663.html",
+   "preis_jetzt": 69.0,
+   "preis_vorher": 85.0,
+   "rabatt_prozent": 19,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - heise-Deal-Check: 69 € bei -19 % (Vergleichspreis daraus errechnet)",
+   "gilt_bis": "unbekannt",
+   "kurz": "Innenkamera unter dem üblichen Preis; Versand nicht geprüft.",
+   "quelle": "https://www.heise.de/bestenlisten/deals/ueber-400-black-friday-deals-im-check-diese-angebote-lohnen-sich/1sv4gfy",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T15:25",
+   "bild": "bilder/8eccae27f7.webp",
+   "neu_seit": "2026-11-27T09:57",
+   "stufe": "15-25",
+   "versand_offen": null
+  },
+  {
    "titel": "Apple AirPods Pro 3",
    "kategorie": "Sonstiges",
    "abteilung": "Elektronik & Technik",
@@ -23894,6 +24466,28 @@
    "preis_geprueft": "2026-11-27T15:25",
    "bild": "bilder/7969c4654a.webp",
    "neu_seit": "2026-11-27T11:59",
+   "stufe": "15-25",
+   "versand_offen": null
+  },
+  {
+   "titel": "DJI Neo 2 Motion Fly More Combo (Brille, Controller, 3 Akkus)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Elektronik & Technik",
+   "unterkategorie": "Kameras",
+   "shop": "Joybuy",
+   "link": "https://joybuy.de/lp/100034825470179",
+   "preis_jetzt": 398.99,
+   "preis_vorher": 493.0,
+   "rabatt_prozent": 19,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - PCGH (11.11.): nächstbestes Angebot ca. 493 €, bisheriger Geizhals-Tiefstpreis 466,65 €; Preis heute auf der Shopseite bestätigt, Vergleichswerte vom 11.11.",
+   "gilt_bis": "unbekannt",
+   "kurz": "FPV-Komplettpaket deutlich unter dem früheren Tiefstpreis; Versandkosten im Warenkorb prüfen.",
+   "quelle": "pcgameshardware.de",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T15:25",
+   "bild": "bilder/77de6d6dc5.webp",
+   "neu_seit": "2026-11-27T12:15",
    "stufe": "15-25",
    "versand_offen": null
   },
@@ -24840,6 +25434,50 @@
    "preis_geprueft": "2026-11-27T15:25",
    "bild": "bilder/1063d1eeea.webp",
    "neu_seit": "2026-11-27T09:57",
+   "stufe": "15-25",
+   "versand_offen": null
+  },
+  {
+   "titel": "eufy SoloCam S340 Solar-Überwachungskamera",
+   "kategorie": "Sonstiges",
+   "abteilung": "Elektronik & Technik",
+   "unterkategorie": "Smart Home",
+   "shop": "MediaMarkt",
+   "link": "https://mediamarkt.de/de/product/_eufy-eufycam-solo-s340-uberwachungskamera-2954662.html",
+   "preis_jetzt": 114.99,
+   "preis_vorher": 140.0,
+   "rabatt_prozent": 18,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - heise Preischeck: -22 % (Bezug ca. 140 €, errechnet); SmarthomeAssistent stuft 109 € nur als fairen Preis ein",
+   "gilt_bis": "30.11.2026",
+   "kurz": "Solarkamera mit lokaler Speicherung ohne Abo; Versandkosten auf der Seite widersprüchlich (0 € oder 5,99 €).",
+   "quelle": "heise, SmarthomeAssistent, MediaMarkt",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T15:25",
+   "bild": "bilder/96fa801d8b.webp",
+   "neu_seit": "2026-11-27T09:57",
+   "stufe": "15-25",
+   "versand_offen": null
+  },
+  {
+   "titel": "LG OLED evo C6 65 Zoll (OLED65C67LA)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Elektronik & Technik",
+   "unterkategorie": "TV & Heimkino",
+   "shop": "MediaMarkt",
+   "link": "https://mediamarkt.de/de/product/_lg-oled65c67la-lg-oled-evo-tv-c6-flat-65-zoll-165-cm-oled-4k-smart-tv-3038883.html",
+   "preis_jetzt": 1399.0,
+   "preis_vorher": 1699.0,
+   "rabatt_prozent": 18,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - mydealz nennt den MediaMarkt-Vorpreis 1.699 €; netzwelt meldet laut Geizhals den bisher niedrigsten Stand (1.399 €). idealo-Verlauf nicht abrufbar.",
+   "gilt_bis": "unbekannt",
+   "kurz": "65-Zoll-OLED auf dem laut Geizhals niedrigsten Stand, versandkostenfrei.",
+   "quelle": "MediaMarkt-Produktseite (geprüft), mydealz, netzwelt",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T15:25",
+   "bild": "bilder/a325cc0960.webp",
+   "neu_seit": "2026-11-27T10:00",
    "stufe": "15-25",
    "versand_offen": null
   },
@@ -26428,6 +27066,28 @@
    "versand_offen": null
   },
   {
+   "titel": "Walibi Holland Experience Pass 2027",
+   "kategorie": "Sonstiges",
+   "abteilung": "Freizeit & Spielzeug",
+   "unterkategorie": "Erlebnisse & Tickets",
+   "shop": "Walibi Holland",
+   "link": "https://walibi.nl/nl/tickets/abonnementen",
+   "preis_jetzt": 95.0,
+   "preis_vorher": 115.0,
+   "rabatt_prozent": 17,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Preisverlauf; regulärer Preis 2027 laut Anbieterseite 115 €",
+   "gilt_bis": "30.11.2026 (Anbieterseite nennt 2027, vermutlich ein Tippfeh",
+   "kurz": "Saisonpass inklusive zwei Besuchen der Halloween Fright Nights.",
+   "quelle": "walibi.nl, freizeitpark-welt.de",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T15:25",
+   "bild": "bilder/bd193688ca.webp",
+   "neu_seit": "2026-11-27T11:59",
+   "stufe": "15-25",
+   "versand_offen": null
+  },
+  {
    "titel": "Amazon Kindle Paperwhite 16 GB (2024)",
    "kategorie": "Sonstiges",
    "abteilung": "Elektronik & Technik",
@@ -27374,6 +28034,28 @@
    "versand_offen": null
   },
   {
+   "titel": "Sony Bravia Theatre Bar 6 mit Subwoofer (3.1.2)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Elektronik & Technik",
+   "unterkategorie": "TV & Heimkino",
+   "shop": "MediaMarkt",
+   "link": "https://mediamarkt.de/de/product/_sony-bravia-ht-b-600-theatre-bar-6-soundbar-schwarz-2986182.html",
+   "preis_jetzt": 299.0,
+   "preis_vorher": 358.0,
+   "rabatt_prozent": 16,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - idealo und Geizhals nicht abrufbar; Vergleich: guenstiger.de-Spanne 358–460 € (undatiert), Händler-Angebote 317–499 €. Der Rabatt ist nur gegen die Untergrenze der undatierten Spanne belegt.",
+   "gilt_bis": "unbekannt (Lieferung laut Shop 28.11.–30.11.2026)",
+   "kurz": "3.1.2-Set mit Dolby Atmos und Subwoofer, bei MediaMarkt versandkostenfrei.",
+   "quelle": "MediaMarkt- und Saturn-Produktseiten (geprüft), guenstiger.de",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T15:25",
+   "bild": "bilder/d4039c5296.webp",
+   "neu_seit": "2026-11-27T10:00",
+   "stufe": "15-25",
+   "versand_offen": null
+  },
+  {
    "titel": "Puma Ferrari Suede OG Sneakers Unisex (Rosso Corsa/Weiß)",
    "kategorie": "Sonstiges",
    "abteilung": "Mode",
@@ -27589,6 +28271,28 @@
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T15:25",
    "bild": "bilder/6c440cb839.webp",
+   "neu_seit": "2026-11-27T11:59",
+   "stufe": "15-25",
+   "versand_offen": null
+  },
+  {
+   "titel": "One Word Away (Partyspiel)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Freizeit & Spielzeug",
+   "unterkategorie": "Spielzeug",
+   "shop": "Milan-Spiele",
+   "link": "https://milan-spiele.de/one-word-away-p-40501.html",
+   "preis_jetzt": 19.8,
+   "preis_vorher": 23.7,
+   "rabatt_prozent": 16,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - boardgamez.de: niedrigster Händlerpreis vom 17.10. bis 15.11. war 23,70 €",
+   "gilt_bis": "solange Vorrat",
+   "kurz": "Fast halber Preis gegenüber dem bisherigen Tiefstand, vorrätig, zuzüglich Versand.",
+   "quelle": "boardgamez.de",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T15:25",
+   "bild": "bilder/2585ea7a50.webp",
    "neu_seit": "2026-11-27T11:59",
    "stufe": "15-25",
    "versand_offen": null
@@ -28360,6 +29064,28 @@
    "preis_geprueft": "2026-11-27T15:25",
    "bild": "bilder/c42409fb53.webp",
    "neu_seit": "2026-11-27T09:57",
+   "stufe": "15-25",
+   "versand_offen": null
+  },
+  {
+   "titel": "Philips Ambilight OLED811 65 Zoll (65OLED811/12)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Elektronik & Technik",
+   "unterkategorie": "TV & Heimkino",
+   "shop": "MediaMarkt",
+   "link": "https://mediamarkt.de/de/product/_philips-ambilight-tv-65oled81112-oled-tv-flat-65-zoll-164-cm-uhd-4k-smart-tv-ambilight-3058574.html",
+   "preis_jetzt": 1449.0,
+   "preis_vorher": 1699.0,
+   "rabatt_prozent": 15,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - idealo und Geizhals nicht abrufbar; Vergleich: Alternate 1.699 € (heute), Coolblue 2.099 € (heute, dort 31 % mehr). mein-mmo nennt 1.549 € als Tiefstpreis (Datum unklar). Die UVP von 3.199 € wurde nicht als Vergleich verwendet.",
+   "gilt_bis": "unbekannt",
+   "kurz": "OLED mit Ambilight; bei MediaMarkt günstiger als bei Alternate und Coolblue, versandkostenfrei.",
+   "quelle": "MediaMarkt-, Alternate-Produktseiten (geprüft), Coolblue, mein-mmo",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T15:25",
+   "bild": "bilder/44278b9163.webp",
+   "neu_seit": "2026-11-27T10:00",
    "stufe": "15-25",
    "versand_offen": null
   },
@@ -31490,6 +32216,28 @@
    "versand_offen": null
   },
   {
+   "titel": "Décorum (Brettspiel, deutsch)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Freizeit & Spielzeug",
+   "unterkategorie": "Spielzeug",
+   "shop": "Milan-Spiele",
+   "link": "https://milan-spiele.de/dcorum-deutsch-p-34676.html",
+   "preis_jetzt": 24.8,
+   "preis_vorher": 43.91,
+   "rabatt_prozent": 44,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf abrufbar; laut brettspielpreise.de kosten lieferbare Angebote ab 43,91 € (ein deutscher Shop listet 19,99 €, aber nicht auf Lager)",
+   "gilt_bis": "solange Vorrat",
+   "kurz": "Kooperatives Einrichtungs-Knobelspiel weit unter den meisten Shops, zuzüglich Versand.",
+   "quelle": "brettspiel-news.de, brettspielpreise.de",
+   "aktion": "",
+   "preis_geprueft": "2026-11-27T15:25",
+   "bild": "bilder/f4cb3b187b.webp",
+   "neu_seit": "2026-11-27T12:28",
+   "stufe": "25-50",
+   "versand_offen": null
+  },
+  {
    "titel": "New Balance 2000 Sneaker, schwarz (U20007KT)",
    "kategorie": "Sonstiges",
    "abteilung": "Mode",
@@ -31886,6 +32634,28 @@
    "versand_offen": null
   },
   {
+   "titel": "Braun Series 9 9325s Rasierer mit Ladestation",
+   "kategorie": "Sonstiges",
+   "abteilung": "Drogerie & Gesundheit",
+   "unterkategorie": "Körperpflege",
+   "shop": "Joybuy",
+   "link": "https://snipz.de/gotoshop/Zum_Deal/589307",
+   "preis_jetzt": 187.99,
+   "preis_vorher": 249.0,
+   "rabatt_prozent": 25,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - nur idealo-Vergleich (nächster Shop 249 €); Preis und Versand im Shop nicht bestätigt",
+   "gilt_bis": "unbekannt",
+   "kurz": "Blitzangebot rund 60 € unter dem nächstgünstigen Händler.",
+   "quelle": "https://snipz.de/2026/braun-series-9-9325s-joybuy-blitzangebot/",
+   "aktion": "",
+   "preis_geprueft": "2026-11-27T15:25",
+   "bild": "bilder/113a5c335e.webp",
+   "neu_seit": "2026-11-27T11:59",
+   "stufe": "25-50",
+   "versand_offen": null
+  },
+  {
    "titel": "GL.iNet Beryl 7 (GL-MT3600BE) WLAN-7-Reiserouter",
    "kategorie": "Sonstiges",
    "abteilung": "Elektronik & Technik",
@@ -32124,6 +32894,28 @@
    "preis_geprueft": "2026-11-27T15:25",
    "bild": "bilder/489bbcb4c9.webp",
    "neu_seit": "2026-11-27T13:14",
+   "stufe": "15-25",
+   "versand_offen": null
+  },
+  {
+   "titel": "Brettspiel Zug um Zug Legacy: Legenden des Westens",
+   "kategorie": "Sonstiges",
+   "abteilung": "Freizeit & Spielzeug",
+   "unterkategorie": "Spielzeug",
+   "shop": "Milan-Spiele",
+   "link": "https://milan-spiele.de/zug-um-zug-legacy-legenden-des-westens-p-34635.html",
+   "preis_jetzt": 69.9,
+   "preis_vorher": 87.99,
+   "rabatt_prozent": 21,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - boardgamez.de nennt üblich etwa 87,99 €, niedrigster Händlerpreis davor 79,95 €",
+   "gilt_bis": "solange Vorrat",
+   "kurz": "Vorrätig und versandkostenfrei; Amazon wurde zuletzt mit 67,89 € noch etwas günstiger gelistet.",
+   "quelle": "boardgamez.de, Preis auf der Shopseite geprüft",
+   "aktion": "",
+   "preis_geprueft": "2026-11-27T15:25",
+   "bild": "bilder/6e06dfde19.webp",
+   "neu_seit": "2026-11-27T11:59",
    "stufe": "15-25",
    "versand_offen": null
   },
@@ -32454,6 +33246,28 @@
    "preis_geprueft": "2026-11-27T14:42",
    "bild": "bilder/b36d15c50b.webp",
    "neu_seit": "2026-11-27T13:14",
+   "stufe": "15-25",
+   "versand_offen": null
+  },
+  {
+   "titel": "Rabanne Invictus Victory Elixir 200 ml (Code EM08LB)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Drogerie & Gesundheit",
+   "unterkategorie": "Körperpflege",
+   "shop": "Joybuy",
+   "link": "https://snipz.de/gotoshop/Zum_Deal/589920",
+   "preis_jetzt": 88.99,
+   "preis_vorher": 105.7,
+   "rabatt_prozent": 16,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - nur idealo-Vergleich (cosmeticexpress.com 105,70 €, Stand 22.11.); Shop und Code nicht geprüft",
+   "gilt_bis": "unbekannt",
+   "kurz": "Mit 5-€-Code (ohne ihn 88,99 €) gut 20 € unter dem nächsten Angebot.",
+   "quelle": "https://snipz.de/2026/rabanne-invictus-victory-elixir-200ml-joybuy/",
+   "aktion": "",
+   "preis_geprueft": "2026-11-27T15:25",
+   "bild": "bilder/cb4676e236.webp",
+   "neu_seit": "2026-11-27T11:59",
    "stufe": "15-25",
    "versand_offen": null
   },
@@ -41770,29 +42584,29 @@
    "grund": "Preis nicht mehr bestätigt"
   }
  ],
- "bisher_gezeigt": 2055,
+ "bisher_gezeigt": 2091,
  "stufen": [
   {
    "kurz": "15-25",
    "name": "15–25 %",
-   "anzahl": 614
+   "anzahl": 631
   },
   {
    "kurz": "25-50",
    "name": "25–50 %",
-   "anzahl": 649
+   "anzahl": 666
   },
   {
    "kurz": "ueber-50",
    "name": "über 50 %",
-   "anzahl": 217
+   "anzahl": 220
   }
  ],
  "abteilungen": [
   {
    "name": "Elektronik & Technik",
    "kurz": "elektronik",
-   "anzahl": 223,
+   "anzahl": 232,
    "unter": [
     {
      "name": "Smartphones & Tablets",
@@ -41807,7 +42621,7 @@
     {
      "name": "TV & Heimkino",
      "kurz": "tv-heimkino",
-     "anzahl": 25
+     "anzahl": 29
     },
     {
      "name": "Audio & Kopfhörer",
@@ -41817,12 +42631,12 @@
     {
      "name": "Smart Home",
      "kurz": "smart-home",
-     "anzahl": 30
+     "anzahl": 34
     },
     {
      "name": "Kameras",
      "kurz": "kameras",
-     "anzahl": 22
+     "anzahl": 23
     }
    ]
   },
@@ -41878,7 +42692,7 @@
   {
    "name": "Gaming",
    "kurz": "gaming",
-   "anzahl": 96,
+   "anzahl": 105,
    "unter": [
     {
      "name": "Gaming-Zubehör",
@@ -41888,7 +42702,7 @@
     {
      "name": "PlayStation",
      "kurz": "playstation",
-     "anzahl": 36
+     "anzahl": 45
     },
     {
      "name": "Xbox",
@@ -41910,12 +42724,12 @@
   {
    "name": "Haushalt & Küche",
    "kurz": "haushalt",
-   "anzahl": 208,
+   "anzahl": 210,
    "unter": [
     {
      "name": "Küchengeräte",
      "kurz": "kuechengeraete",
-     "anzahl": 85
+     "anzahl": 87
     },
     {
      "name": "Haushaltsgeräte",
@@ -41971,12 +42785,12 @@
   {
    "name": "Sport & Fahrrad",
    "kurz": "sport",
-   "anzahl": 199,
+   "anzahl": 203,
    "unter": [
     {
      "name": "Fahrrad",
      "kurz": "fahrrad",
-     "anzahl": 50
+     "anzahl": 53
     },
     {
      "name": "Fitness & Gym",
@@ -41986,19 +42800,19 @@
     {
      "name": "Outdoor",
      "kurz": "outdoor",
-     "anzahl": 12
+     "anzahl": 13
     }
    ]
   },
   {
    "name": "Mode",
    "kurz": "mode",
-   "anzahl": 285,
+   "anzahl": 288,
    "unter": [
     {
      "name": "Schuhe",
      "kurz": "schuhe",
-     "anzahl": 116
+     "anzahl": 119
     },
     {
      "name": "Uhren & Accessoires",
@@ -42025,12 +42839,12 @@
   {
    "name": "Drogerie & Gesundheit",
    "kurz": "drogerie",
-   "anzahl": 88,
+   "anzahl": 90,
    "unter": [
     {
      "name": "Körperpflege",
      "kurz": "koerperpflege",
-     "anzahl": 58
+     "anzahl": 60
     },
     {
      "name": "Gesundheit",
@@ -42042,17 +42856,17 @@
   {
    "name": "Freizeit & Spielzeug",
    "kurz": "freizeit",
-   "anzahl": 183,
+   "anzahl": 191,
    "unter": [
     {
      "name": "Spielzeug",
      "kurz": "spielzeug",
-     "anzahl": 128
+     "anzahl": 131
     },
     {
      "name": "Erlebnisse & Tickets",
      "kurz": "erlebnisse-tickets",
-     "anzahl": 9
+     "anzahl": 14
     },
     {
      "name": "Bücher & Filme",
