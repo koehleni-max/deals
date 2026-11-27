@@ -1,6 +1,6 @@
 {
  "stand": "2026-11-27T20:15",
- "fingerabdruck": "8cd3265acaf2672c",
+ "fingerabdruck": "91a0a3e7ad5b9fec",
  "mindest": 15,
  "black_week": true,
  "preise_in_pruefung": false,
@@ -18504,6 +18504,28 @@
    "preis_geprueft": "2026-11-27T19:40",
    "bild": "bilder/a19e72c28a.webp",
    "neu_seit": "2026-11-27T13:45",
+   "stufe": "15-25",
+   "versand_offen": null
+  },
+  {
+   "titel": "Alpina GTH-003 Raclette-Set",
+   "kategorie": "Sonstiges",
+   "abteilung": "Haushalt & Küche",
+   "unterkategorie": "Küchengeräte",
+   "shop": "Poco",
+   "link": "https://dealdoktor.de/goto/deal/627874",
+   "preis_jetzt": 24.9,
+   "preis_vorher": 32.0,
+   "rabatt_prozent": 22,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Preisverlauf verfügbar; Vergleich mit einem anderen Händler stützt den Rabatt",
+   "gilt_bis": "unbekannt",
+   "kurz": "Raclette-Grill für bis zu 6 Personen bei Poco, rund 22 % unter dem Vergleichspreis.",
+   "quelle": "DealDoktor-Artikel (veröffentlicht 26.11.2026)",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T20:45",
+   "bild": "bilder/28b742985f.webp",
+   "neu_seit": "2026-11-27T09:15",
    "stufe": "15-25",
    "versand_offen": null
   },
@@ -41836,12 +41858,12 @@
    "grund": "Preis nicht mehr bestätigt"
   }
  ],
- "bisher_gezeigt": 2690,
+ "bisher_gezeigt": 2691,
  "stufen": [
   {
    "kurz": "15-25",
    "name": "15–25 %",
-   "anzahl": 631
+   "anzahl": 632
   },
   {
    "kurz": "25-50",
@@ -41966,12 +41988,12 @@
   {
    "name": "Haushalt & Küche",
    "kurz": "haushalt",
-   "anzahl": 233,
+   "anzahl": 234,
    "unter": [
     {
      "name": "Küchengeräte",
      "kurz": "kuechengeraete",
-     "anzahl": 109
+     "anzahl": 110
     },
     {
      "name": "Haushaltsgeräte",
