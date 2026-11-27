@@ -1,6 +1,6 @@
 {
  "stand": "2026-11-27T13:07",
- "fingerabdruck": "cd62469be72688af",
+ "fingerabdruck": "1a840c8997264453",
  "mindest": 15,
  "black_week": true,
  "preise_in_pruefung": false,
@@ -87,6 +87,69 @@
    "preis_geprueft": "2026-11-27T13:55",
    "bild": "bilder/10b4b4d142.webp",
    "neu_seit": "2026-11-27T12:00",
+   "stufe": "ueber-50"
+  },
+  {
+   "titel": "Vertical Drop Heroes HD (PC, Steam-Key) gratis",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gratis & zu verschenken",
+   "unterkategorie": "Gratis-Spiele & Apps",
+   "shop": "Fanatical",
+   "link": "https://fanatical.com/en/game/vertical-drop-heroes-hd",
+   "preis_jetzt": 0.0,
+   "preis_vorher": null,
+   "rabatt_prozent": 100,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Preisverlauf; Shopseite zeigt 0,00 £ statt 4,99 £",
+   "gilt_bis": "28.11.2026, 23:59 Uhr UTC oder solange Vorrat",
+   "kurz": "Steam-Key geschenkt, nötig sind Newsletter-Anmeldung und ein Steam-Konto mit früherem Einkauf ab etwa 5 US-Dollar.",
+   "quelle": "GamerPower, Fanatical",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/292c1458e6.webp",
+   "neu_seit": "2026-11-27T10:43",
+   "stufe": "ueber-50"
+  },
+  {
+   "titel": "World of Warships Black-Friday-Paket für neue Spieler",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gratis & zu verschenken",
+   "unterkategorie": "Gratis-Spiele & Apps",
+   "shop": "World of Warships",
+   "link": "https://gamerpower.com/world-of-warships-black-friday-giveaway",
+   "preis_jetzt": 0.0,
+   "preis_vorher": null,
+   "rabatt_prozent": 100,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - Spielinhalte ohne Preisverlauf; Wertangabe von etwa 300 US-Dollar nicht prüfbar",
+   "gilt_bis": "04.12.2026",
+   "kurz": "Premiumschiff, Premiumzeit und Container für neu registrierte Spieler.",
+   "quelle": "GamerPower",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/6f937bca10.webp",
+   "neu_seit": "2026-11-27T10:43",
+   "stufe": "ueber-50"
+  },
+  {
+   "titel": "Analog Dessert Remote für Ableton Live gratis",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gratis & zu verschenken",
+   "unterkategorie": "Gratis-Spiele & Apps",
+   "shop": "Analog Dessert",
+   "link": "https://analogdessert.com/downloads/analog-dessert-remote",
+   "preis_jetzt": 0.0,
+   "preis_vorher": null,
+   "rabatt_prozent": 100,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Preisverlauf; Bedroom Producers Blog nennt 49 US-Dollar als Normalpreis",
+   "gilt_bis": "30.11.2026",
+   "kurz": "Fernsteuerung für Ableton Live ab Version 11 über den Handybrowser, einmalige Lizenz ohne Abo.",
+   "quelle": "Bedroom Producers Blog",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/744915d4e3.webp",
+   "neu_seit": "2026-11-27T10:43",
    "stufe": "ueber-50"
   },
   {
@@ -2001,6 +2064,27 @@
    "stufe": "ueber-50"
   },
   {
+   "titel": "Finnlines große Minikreuzfahrt nach Helsinki: 2 reisen, 1 zahlt (A4-Außenkabine)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Reisen",
+   "unterkategorie": "Urlaub & Hotel",
+   "shop": "Finnlines",
+   "link": "https://finnlines.com/de/passagiere/angebote-fuer-faehrreisen/minikreuzfahrt-deal-2-reisen-1-zahlt",
+   "preis_jetzt": 580.0,
+   "preis_vorher": 1160.0,
+   "rabatt_prozent": 50,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - regulärer Preis laut Finnlines selbst, kein Preisverlauf",
+   "gilt_bis": "01.12.2026",
+   "kurz": "Halber Preis für 2 Personen, Hotel in Helsinki extra, keine Umbuchung oder Erstattung (Code BLACKMEALCB).",
+   "quelle": "Finnlines-Aktionsseite",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/6859368fee.webp",
+   "neu_seit": "2026-11-27T12:00",
+   "stufe": "ueber-50"
+  },
+  {
    "titel": "Puma CA Pro Classic II Sneaker, weiß",
    "kategorie": "Sonstiges",
    "abteilung": "Mode",
@@ -2038,7 +2122,7 @@
    "quelle": "fitshop.de Black-Deals-Seite",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/e5c3c00165.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "ueber-50"
   },
@@ -3067,7 +3151,7 @@
    "quelle": "Fitshop Hantelbänke",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/573e129358.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "25-50"
   },
@@ -3214,7 +3298,7 @@
    "quelle": "fitshop.de Black-Deals-Seite",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/728905b82b.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "25-50"
   },
@@ -4495,7 +4579,7 @@
    "quelle": "mydealz",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/ff67093d29.webp",
    "neu_seit": "2026-11-27T12:53",
    "stufe": "25-50"
   },
@@ -6196,7 +6280,7 @@
    "quelle": "Rösle Black Deals",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/0c8785ee6d.webp",
    "neu_seit": "2026-11-27T12:53",
    "stufe": "25-50"
   },
@@ -6448,7 +6532,7 @@
    "quelle": "fitshop.de Black-Deals-Seite",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/3e214d0d35.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "25-50"
   },
@@ -7120,7 +7204,7 @@
    "quelle": "Fitshop Hantelbänke",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/354fa67ac0.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "25-50"
   },
@@ -7141,7 +7225,7 @@
    "quelle": "Fitshop Power Racks",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/fe8119d873.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "25-50"
   },
@@ -7162,7 +7246,7 @@
    "quelle": "fitshop.de Black-Deals-Seite",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/c08cdeada6.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "25-50"
   },
@@ -7183,7 +7267,7 @@
    "quelle": "Fitshop Startseite",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/7ac00add20.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "25-50"
   },
@@ -7204,7 +7288,7 @@
    "quelle": "Hop-Sport Black Week",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/f2ae62f6f8.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "25-50"
   },
@@ -8548,7 +8632,7 @@
    "quelle": "fitshop.de Black-Deals-Seite",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/d778e5e782.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "25-50"
   },
@@ -8569,7 +8653,7 @@
    "quelle": "Hop-Sport Black Week",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/dc92c8b699.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "25-50"
   },
@@ -9220,7 +9304,7 @@
    "quelle": "fitshop.de Black-Deals-Seite",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/6d718aee97.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "25-50"
   },
@@ -10522,7 +10606,7 @@
    "quelle": "Fitshop Hantelbänke",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/3a36ba67f1.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "25-50"
   },
@@ -10543,7 +10627,7 @@
    "quelle": "Fitshop Hantelbänke",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/224d36992a.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "25-50"
   },
@@ -10564,7 +10648,7 @@
    "quelle": "Hop-Sport Black Week",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/78d883adfa.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "25-50"
   },
@@ -11430,6 +11514,27 @@
    "stufe": "25-50"
   },
   {
+   "titel": "Xiaomi Smart Air Fryer 6,5 l, weiß (BHR7358EU)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Haushalt & Küche",
+   "unterkategorie": "Küchengeräte",
+   "shop": "Xiaomi",
+   "link": "https://preisvergleich.heise.de/xiaomi-mi-smart-air-fryer-6-5l-heissluftfritteuse-weiss-bhr7358eu-a3119279.html",
+   "preis_jetzt": 54.99,
+   "preis_vorher": 76.9,
+   "rabatt_prozent": 28,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - heise-Dealcheck: Tiefstpreis (-29 % beim Gerätepreis); nächstes Angebot 76,90 € inkl. Versand",
+   "gilt_bis": "unbekannt",
+   "kurz": "49,99 € plus 5 € Versand, App-fähig ohne Abo.",
+   "quelle": "heise Bestenlisten und heise Preisvergleich",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/318488e668.webp",
+   "neu_seit": "2026-11-27T11:59",
+   "stufe": "25-50"
+  },
+  {
    "titel": "Shark SteamPickUp SD200EU 3-in-1 Dampfreiniger",
    "kategorie": "Sonstiges",
    "abteilung": "Haushalt & Küche",
@@ -11509,7 +11614,7 @@
    "quelle": "Fitshop Kurzhanteln",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/8c44014594.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "25-50"
   },
@@ -11530,7 +11635,7 @@
    "quelle": "Hop-Sport Black Week",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/c551f6ab5c.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "25-50"
   },
@@ -12270,6 +12375,27 @@
    "stufe": "25-50"
   },
   {
+   "titel": "winSIM DSL 250 Telefonie Plus",
+   "kategorie": "Sonstiges",
+   "abteilung": "Handy-Verträge & Tarife",
+   "unterkategorie": "Internet & DSL",
+   "shop": "winSIM",
+   "link": "https://winsim.de/dsl",
+   "preis_jetzt": 769.75,
+   "preis_vorher": 1057.75,
+   "rabatt_prozent": 27,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - Streichpreis des Anbieters (41,99 €); sim24 verlangt für denselben Speed 32,99 €",
+   "gilt_bis": "09.12.2026, 11 Uhr",
+   "kurz": "29,99 €/Monat, Rechnung über 24 Monate, 250 Mbit/s, DSL-Festnetz mit Telefon-Flat, 49,99 € Bereitstellung, Router optional gegen Aufpreis.",
+   "quelle": "winsim.de",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/1b5b76d9d2.webp",
+   "neu_seit": "2026-11-27T10:43",
+   "stufe": "25-50"
+  },
+  {
    "titel": "Tefal EY1458 Easy Fry Compact Heißluftfritteuse 3 l",
    "kategorie": "Sonstiges",
    "abteilung": "Haushalt & Küche",
@@ -12370,7 +12496,7 @@
    "quelle": "Fitshop Kurzhanteln",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/0a412cc74c.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "25-50"
   },
@@ -13089,6 +13215,27 @@
    "stufe": "25-50"
   },
   {
+   "titel": "Hurtigruten Nordkap-Linie ab Oslo, 15 Tage all-inclusive (ab-Preis pro Person)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Reisen",
+   "unterkategorie": "Urlaub & Hotel",
+   "shop": "Hurtigruten",
+   "link": "https://hurtigruten.com/de-de/angebote/black-friday-angebot",
+   "preis_jetzt": 2799.0,
+   "preis_vorher": 3799.0,
+   "rabatt_prozent": 26,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf verfügbar; vorheriger Preis nur laut Anbieter",
+   "gilt_bis": "06.12.2026",
+   "kurz": "1.000 € unter dem Anbieterpreis, ausgewählte Termine, Doppelbelegung, ohne An- und Abreise.",
+   "quelle": "travel-dealz, Anbieterseite",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/15643bb6df.webp",
+   "neu_seit": "2026-11-27T12:00",
+   "stufe": "25-50"
+  },
+  {
    "titel": "Brettspiel Small World",
    "kategorie": "Sonstiges",
    "abteilung": "Freizeit & Spielzeug",
@@ -13168,7 +13315,7 @@
    "quelle": "Fitshop Produktseite",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/18eff6142d.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "25-50"
   },
@@ -13189,7 +13336,7 @@
    "quelle": "Hop-Sport Black Week",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/67ef94d70d.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "25-50"
   },
@@ -14286,6 +14433,27 @@
    "stufe": "25-50"
   },
   {
+   "titel": "Philips Airfryer 3000 NA350/03 Doppelkorb",
+   "kategorie": "Sonstiges",
+   "abteilung": "Haushalt & Küche",
+   "unterkategorie": "Küchengeräte",
+   "shop": "Amazon.de",
+   "link": "https://preisvergleich.heise.de/philips-na350-03-3000-series-a3360178.html",
+   "preis_jetzt": 103.99,
+   "preis_vorher": 139.0,
+   "rabatt_prozent": 25,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - heise führt den Preis als Tiefstpreis; nächstes Angebot: Philips-Shop 139 €",
+   "gilt_bis": "30.11.2026",
+   "kurz": "35 € günstiger als beim Hersteller, gratis Versand.",
+   "quelle": "heise Bestenlisten und heise Preisvergleich",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/e397a3abf2.webp",
+   "neu_seit": "2026-11-27T11:59",
+   "stufe": "25-50"
+  },
+  {
    "titel": "Alan Wake 2 Deluxe Edition (PS5, Download)",
    "kategorie": "Sonstiges",
    "abteilung": "Gaming",
@@ -14449,7 +14617,7 @@
    "quelle": "dealdoktor",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/2ecbec28a2.webp",
    "neu_seit": "2026-11-27T12:53",
    "stufe": "25-50"
   },
@@ -14470,7 +14638,7 @@
    "quelle": "fitshop.de Black-Deals-Seite",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/06bb08155c.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "25-50"
   },
@@ -14491,7 +14659,7 @@
    "quelle": "fitshop.de Black-Deals-Seite",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/f06979f7bd.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "25-50"
   },
@@ -14512,7 +14680,7 @@
    "quelle": "Fitshop Hantelbänke",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/c7216729dd.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "25-50"
   },
@@ -14533,7 +14701,7 @@
    "quelle": "Fitshop Power Racks",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/39b9d4d618.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "25-50"
   },
@@ -14554,7 +14722,7 @@
    "quelle": "Fitshop Power Racks",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/118522eef2.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "25-50"
   },
@@ -14575,7 +14743,7 @@
    "quelle": "Fitshop Produktseite",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/e13d99bdcd.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "25-50"
   },
@@ -14596,7 +14764,7 @@
    "quelle": "fitshop.de Black-Deals-Seite",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/91a34cf8a9.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "25-50"
   },
@@ -14617,7 +14785,7 @@
    "quelle": "fitshop.de Black-Deals-Seite",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/9ae571512a.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "25-50"
   },
@@ -14638,7 +14806,7 @@
    "quelle": "Hop-Sport Black Week",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/c0f1b6c78c.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "25-50"
   },
@@ -14659,7 +14827,7 @@
    "quelle": "https://www.fressnapf.de/aktionen-angebote/blackfriday/sale/",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/176f561779.webp",
    "neu_seit": "2026-11-27T12:58",
    "stufe": "25-50"
   },
@@ -15672,6 +15840,27 @@
    "stufe": "15-25"
   },
   {
+   "titel": "AEG 8000 AAF7SB Heißluftfritteuse mit Dampfgaren 6,9 l",
+   "kategorie": "Sonstiges",
+   "abteilung": "Haushalt & Küche",
+   "unterkategorie": "Küchengeräte",
+   "shop": "Amazon.de",
+   "link": "https://preisvergleich.at/product/VPnuPSbvJSECUaqbFCTQ.html",
+   "preis_jetzt": 97.95,
+   "preis_vorher": 129.0,
+   "rabatt_prozent": 24,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf eingesehen; testit nennt sonst ab 129 € (undatiert); Amazon-Preis nur laut preisvergleich.at, vor dem Kauf prüfen",
+   "gilt_bis": "unbekannt",
+   "kurz": "Heißluftfritteuse mit Dampffunktion für unter 100 €.",
+   "quelle": "preisvergleich.at",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/2c4f32955c.webp",
+   "neu_seit": "2026-11-27T11:59",
+   "stufe": "15-25"
+  },
+  {
    "titel": "Ridley Grifn A Gravelbike",
    "kategorie": "Sonstiges",
    "abteilung": "Sport & Fahrrad",
@@ -15835,7 +16024,7 @@
    "quelle": "Hop-Sport Black Week",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/2d3c6d5012.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "15-25"
   },
@@ -15856,7 +16045,7 @@
    "quelle": "Hop-Sport Black Week",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/4e1d19399f.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "15-25"
   },
@@ -16848,6 +17037,27 @@
    "stufe": "15-25"
   },
   {
+   "titel": "Xiaomi Redmi Note 17 Pro 5G 256 GB mit 50-GB-Allnet-Flat (24 Monate)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Handy-Verträge & Tarife",
+   "unterkategorie": "Handy mit Vertrag",
+   "shop": "klarmobil",
+   "link": "https://klarmobil.de/handys-mit-vertrag/xiaomi/xiaomi-redmi-note-17-pro-5g/P-M-4655678",
+   "preis_jetzt": 389.75,
+   "preis_vorher": 507.73,
+   "rabatt_prozent": 23,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - Vergleich mit heise/Geizhals (291,97 €, 26.11.) und 50-GB-Tarif ohne Handy",
+   "gilt_bis": "30.11.2026",
+   "kurz": "Handy und Tarif kosten zusammen rund 118 € weniger als getrennt.",
+   "quelle": "klarmobil Produktseite, Geizhals/heise",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/93dad9858c.webp",
+   "neu_seit": "2026-11-27T10:43",
+   "stufe": "15-25"
+  },
+  {
    "titel": "MOZA R5 Bundle, Direct-Drive-Lenkrad mit Pedalen (nur PC)",
    "kategorie": "Sonstiges",
    "abteilung": "Gaming",
@@ -16948,7 +17158,7 @@
    "quelle": "Fitshop Kraftstation-Angebote",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/75f1f2e979.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "15-25"
   },
@@ -18166,7 +18376,7 @@
    "quelle": "Kettler Sport Produktseite",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/7e619acbbd.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "15-25"
   },
@@ -18187,7 +18397,7 @@
    "quelle": "Hop-Sport Black Week",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/bac661454f.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "15-25"
   },
@@ -19111,7 +19321,7 @@
    "quelle": "Hop-Sport Black Week",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/53424a46de.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "15-25"
   },
@@ -20271,6 +20481,27 @@
    "stufe": "15-25"
   },
   {
+   "titel": "Sonnenklar.TV Reisegutschein 500 € für 399 €",
+   "kategorie": "Sonstiges",
+   "abteilung": "Reisen",
+   "unterkategorie": "Urlaub & Hotel",
+   "shop": "sonnenklar.TV",
+   "link": "https://sonnenklar.tv/reisegutscheine/bestellung.html",
+   "preis_jetzt": 399.0,
+   "preis_vorher": 500.0,
+   "rabatt_prozent": 20,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - Vergleich mit dem Gutscheinwert; Mindestbuchungswert nicht genannt",
+   "gilt_bis": "30.11.2026",
+   "kurz": "Lohnt nur bei fester Reiseplanung: Abreise ab 01.04.2027, Reise erst voll zahlen, 500 € werden danach erstattet.",
+   "quelle": "mydealz, DealDoktor",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/39fa3cf957.webp",
+   "neu_seit": "2026-11-27T12:00",
+   "stufe": "15-25"
+  },
+  {
    "titel": "Krups Authentic XP381B Siebträgermaschine",
    "kategorie": "Sonstiges",
    "abteilung": "Haushalt & Küche",
@@ -20518,7 +20749,7 @@
    "quelle": "Fitshop Hantelbänke",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/d06fdfea60.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "15-25"
   },
@@ -20539,7 +20770,7 @@
    "quelle": "fitshop.de Black-Deals-Seite",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/fa804e40cb.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "15-25"
   },
@@ -20560,7 +20791,7 @@
    "quelle": "Fitshop Produktseite",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/d4a748a034.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "15-25"
   },
@@ -20581,7 +20812,7 @@
    "quelle": "Hop-Sport Black Week",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/2ffb091baf.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "15-25"
   },
@@ -22072,7 +22303,7 @@
    "quelle": "dealdoktor",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/ef535857df.webp",
    "neu_seit": "2026-11-27T12:53",
    "stufe": "15-25"
   },
@@ -22093,7 +22324,7 @@
    "quelle": "Hop-Sport Black Week",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/40180368cd.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "15-25"
   },
@@ -24177,6 +24408,48 @@
    "stufe": "15-25"
   },
   {
+   "titel": "Philips Airfryer 4000 NA460/00",
+   "kategorie": "Sonstiges",
+   "abteilung": "Haushalt & Küche",
+   "unterkategorie": "Küchengeräte",
+   "shop": "Amazon.de",
+   "link": "https://preisvergleich.heise.de/philips-na460-00-airfryer-4000-series-a3612519.html",
+   "preis_jetzt": 139.99,
+   "preis_vorher": 168.0,
+   "rabatt_prozent": 17,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf eingesehen; heise-Dealcheck nennt 168 €, nächstes Angebot 167,99 €",
+   "gilt_bis": "30.11.2026",
+   "kurz": "28 € günstiger als der nächste Shop, gratis Versand.",
+   "quelle": "heise Bestenlisten und heise Preisvergleich",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/310180929d.webp",
+   "neu_seit": "2026-11-27T11:59",
+   "stufe": "15-25"
+  },
+  {
+   "titel": "WMF Element One Trinkwassersprudler, ice flow",
+   "kategorie": "Sonstiges",
+   "abteilung": "Haushalt & Küche",
+   "unterkategorie": "Küchengeräte",
+   "shop": "WMF",
+   "link": "https://preisvergleich.heise.de/wmf-element-one-trinkwassersprudler-ice-flow-3201114382-a3629678.html",
+   "preis_jetzt": 144.99,
+   "preis_vorher": 175.0,
+   "rabatt_prozent": 17,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - preisvergleich.at: 143,99 € liegen 18 % unter dem üblichen Preis (rund 175 €); nächstes Angebot 189,99 €. Andere Farben sind teils noch günstiger",
+   "gilt_bis": "unbekannt",
+   "kurz": "Wassersprudler beim Hersteller mit gratis Versand.",
+   "quelle": "preisvergleich.at, heise Preisvergleich",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/550ae9cba0.webp",
+   "neu_seit": "2026-11-27T11:59",
+   "stufe": "15-25"
+  },
+  {
    "titel": "Trek Dual Sport+ 2 Stagger E-Bike, 250 Wh",
    "kategorie": "Sonstiges",
    "abteilung": "Sport & Fahrrad",
@@ -24214,7 +24487,7 @@
    "quelle": "Westwing Black Friday",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/c8525f6d3b.webp",
    "neu_seit": "2026-11-27T12:53",
    "stufe": "15-25"
   },
@@ -24235,7 +24508,7 @@
    "quelle": "fitshop.de Black-Deals-Seite",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/41e6e0fdfb.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "15-25"
   },
@@ -24256,7 +24529,7 @@
    "quelle": "Fitshop Power Racks",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/5f87a73983.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "15-25"
   },
@@ -24277,7 +24550,7 @@
    "quelle": "Fitshop Produktseite",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/c9e93e55d6.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "15-25"
   },
@@ -24298,7 +24571,7 @@
    "quelle": "Fitshop Kurzhanteln",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/214cdf69f6.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "15-25"
   },
@@ -24319,7 +24592,7 @@
    "quelle": "Fitshop Kurzhanteln",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/749712cdfd.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "15-25"
   },
@@ -24340,7 +24613,7 @@
    "quelle": "Hop-Sport Black Week",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/b1783edf6d.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "15-25"
   },
@@ -25206,6 +25479,48 @@
    "stufe": "15-25"
   },
   {
+   "titel": "Nivona NIVO 8112 Kaffeevollautomat, cremeweiß",
+   "kategorie": "Sonstiges",
+   "abteilung": "Haushalt & Küche",
+   "unterkategorie": "Küchengeräte",
+   "shop": "Coffee Friend",
+   "link": "https://preisvergleich.heise.de/nivona-nivo-8112-creme-weiss-300008112-a4006841.html",
+   "preis_jetzt": 998.0,
+   "preis_vorher": 1186.5,
+   "rabatt_prozent": 16,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - preisvergleich.at: 999 € liegen 17 % unter dem üblichen Preis; einzelne deutsche Händler verlangen aber nur 1.099 € (dagegen 9 %)",
+   "gilt_bis": "unbekannt",
+   "kurz": "Günstigstes gelistetes Angebot mit gratis Versand.",
+   "quelle": "preisvergleich.at, heise Preisvergleich",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/8c300a9392.webp",
+   "neu_seit": "2026-11-27T11:59",
+   "stufe": "15-25"
+  },
+  {
+   "titel": "Vodafone GigaZuhause CableMax 1000 mit 250 € Cashback",
+   "kategorie": "Sonstiges",
+   "abteilung": "Handy-Verträge & Tarife",
+   "unterkategorie": "Internet & DSL",
+   "shop": "Vodafone",
+   "link": "https://dslweb.de/weiter-zu/webseite.php?id=vodafone-kabel-angebote-shop",
+   "preis_jetzt": 1009.74,
+   "preis_vorher": 1199.76,
+   "rabatt_prozent": 16,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - Vergleich mit demselben Tarif ohne Cashback",
+   "gilt_bis": "30.11.2026",
+   "kurz": "49,99 €/Monat, Rechnung über 24 Monate, 1.000 Mbit/s im Vodafone-Kabelnetz, abzüglich 250 € Cashback, FRITZ!Box 6670 für 24 Monate ohne Miete; Einmalkosten vor Abschluss prüfen.",
+   "quelle": "inside-digital.de, dslweb.de, unternehmen.vodafone.de",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/4b837fb258.webp",
+   "neu_seit": "2026-11-27T10:43",
+   "stufe": "15-25"
+  },
+  {
    "titel": "XGIMI Horizon 20 Max, 4K-Laser-Beamer",
    "kategorie": "Sonstiges",
    "abteilung": "Elektronik & Technik",
@@ -25306,7 +25621,7 @@
    "quelle": "https://www.drohnen.de/93671/saugroboter-black-friday-2026/",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/2b7320a236.webp",
    "neu_seit": "2026-11-27T12:53",
    "stufe": "15-25"
   },
@@ -26130,6 +26445,27 @@
    "stufe": "15-25"
   },
   {
+   "titel": "Bosch Serie 2 MAF24AB0 Heißluftfritteuse 4 l",
+   "kategorie": "Sonstiges",
+   "abteilung": "Haushalt & Küche",
+   "unterkategorie": "Küchengeräte",
+   "shop": "Amazon.de",
+   "link": "https://preisvergleich.heise.de/bosch-serie-2-maf24ab0-a3944766.html",
+   "preis_jetzt": 67.99,
+   "preis_vorher": 80.0,
+   "rabatt_prozent": 15,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf eingesehen; heise-Dealcheck nennt 80 €, nächstes Angebot 100,99 €",
+   "gilt_bis": "30.11.2026",
+   "kurz": "Kompakte Markenfritteuse mit gratis Versand.",
+   "quelle": "heise Bestenlisten und heise Preisvergleich",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/9ec4c8db8f.webp",
+   "neu_seit": "2026-11-27T11:59",
+   "stufe": "15-25"
+  },
+  {
    "titel": "Teufel Consono 35 Concept Surround 5.1-Set",
    "kategorie": "Sonstiges",
    "abteilung": "Elektronik & Technik",
@@ -26822,6 +27158,153 @@
    "preis_geprueft": "2026-11-27T13:55",
    "bild": "bilder/99817bafd6.webp",
    "neu_seit": "2026-11-27T12:00",
+   "stufe": "ueber-50"
+  },
+  {
+   "titel": "Firestone Geschenkpaket (Spielinhalte für das Gratisspiel)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gratis & zu verschenken",
+   "unterkategorie": "Gratis-Spiele & Apps",
+   "shop": "Epic Games Store",
+   "link": "https://gamerpower.com/firestone-free-100-welcome-gift",
+   "preis_jetzt": 0.0,
+   "preis_vorher": null,
+   "rabatt_prozent": 100,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - Spielinhalte ohne Preisverlauf; der Wert von 100 US-Dollar ist eine Anbieterangabe",
+   "gilt_bis": "03.12.2026",
+   "kurz": "Edelsteine, Spielmarken, Schriftrollen und Truhen für das kostenlose Idle-Spiel, Einlösung über ein Epic-Konto.",
+   "quelle": "GamerPower, Shacknews",
+   "aktion": "",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/585774a000.webp",
+   "neu_seit": "2026-11-27T10:43",
+   "stufe": "ueber-50"
+  },
+  {
+   "titel": "Drum Bus Buddy (Audio-Plugin) gratis mit Code BPBFREE",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gratis & zu verschenken",
+   "unterkategorie": "Gratis-Spiele & Apps",
+   "shop": "Smart Audio Plugins",
+   "link": "https://smartaudioplugins.com/drum-bus-buddy.html",
+   "preis_jetzt": 0.0,
+   "preis_vorher": 39.0,
+   "rabatt_prozent": 100,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Preisverlauf verfügbar; Anbieterseite nennt 39 € als Preis nach der Aktion",
+   "gilt_bis": "03.12.2026",
+   "kurz": "Drum-Bus-Effekt für Windows und macOS, mit dem Code im Warenkorb kostenlos; für die Lizenz ist ein kostenloses Audioloom-Konto nötig.",
+   "quelle": "Bedroom Producers Blog",
+   "aktion": "",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/760ed0da59.webp",
+   "neu_seit": "2026-11-27T10:43",
+   "stufe": "ueber-50"
+  },
+  {
+   "titel": "Vovsoft Text Statistics Analyzer (Windows) gratis",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gratis & zu verschenken",
+   "unterkategorie": "Gratis-Spiele & Apps",
+   "shop": "Vovsoft",
+   "link": "https://vovsoft.com/giveaway/free-text-statistics-analyzer-2026",
+   "preis_jetzt": 0.0,
+   "preis_vorher": null,
+   "rabatt_prozent": 100,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Preisverlauf; Anbieterseite nennt 19 US-Dollar als Normalpreis",
+   "gilt_bis": "01.12.2026",
+   "kurz": "Dauerlizenz für die Textanalyse, allerdings ohne kostenlose Updates.",
+   "quelle": "Vovsoft Giveaway",
+   "aktion": "",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/510d2eed93.webp",
+   "neu_seit": "2026-11-27T10:43",
+   "stufe": "ueber-50"
+  },
+  {
+   "titel": "Vovsoft Bulk Barcode Generator (Windows) gratis",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gratis & zu verschenken",
+   "unterkategorie": "Gratis-Spiele & Apps",
+   "shop": "Vovsoft",
+   "link": "https://vovsoft.com/giveaway/free-bulk-barcode-generator-2026",
+   "preis_jetzt": 0.0,
+   "preis_vorher": null,
+   "rabatt_prozent": 100,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Preisverlauf; Anbieterseite nennt 19 US-Dollar als Normalpreis",
+   "gilt_bis": "30.11.2026",
+   "kurz": "Dauerlizenz zum Erzeugen vieler Barcodes auf einmal, ohne kostenlose Updates.",
+   "quelle": "Vovsoft Giveaway",
+   "aktion": "",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/a54e910fe8.webp",
+   "neu_seit": "2026-11-27T10:43",
+   "stufe": "ueber-50"
+  },
+  {
+   "titel": "Vovsoft JSON to CSV Converter (Windows) gratis",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gratis & zu verschenken",
+   "unterkategorie": "Gratis-Spiele & Apps",
+   "shop": "Vovsoft",
+   "link": "https://vovsoft.com/giveaway/free-json-to-csv-converter-2026",
+   "preis_jetzt": 0.0,
+   "preis_vorher": null,
+   "rabatt_prozent": 100,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Preisverlauf; Anbieterseite nennt 19 US-Dollar als Normalpreis",
+   "gilt_bis": "29.11.2026",
+   "kurz": "Dauerlizenz zum Umwandeln von JSON-Dateien in Tabellen, ohne kostenlose Updates.",
+   "quelle": "Vovsoft Giveaway",
+   "aktion": "",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/d03f4e2a47.webp",
+   "neu_seit": "2026-11-27T10:43",
+   "stufe": "ueber-50"
+  },
+  {
+   "titel": "Upscal Bildvergrößerer (PC) gratis",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gratis & zu verschenken",
+   "unterkategorie": "Gratis-Spiele & Apps",
+   "shop": "SharewareOnSale",
+   "link": "https://sharewareonsale.com/s/free-upscal-image-upscaler-100-discount",
+   "preis_jetzt": 0.0,
+   "preis_vorher": null,
+   "rabatt_prozent": 100,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Preisverlauf; Angebotsseite nennt 39 US-Dollar als Originalpreis",
+   "gilt_bis": "unbekannt",
+   "kurz": "Dauerlizenz für einen Rechner zur privaten Nutzung, ohne Updates und Support.",
+   "quelle": "SharewareOnSale",
+   "aktion": "",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/6b56042aa0.webp",
+   "neu_seit": "2026-11-27T10:43",
+   "stufe": "ueber-50"
+  },
+  {
+   "titel": "Auto Video Redaction Software (PC) gratis",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gratis & zu verschenken",
+   "unterkategorie": "Gratis-Spiele & Apps",
+   "shop": "SharewareOnSale",
+   "link": "https://sharewareonsale.com/s/free-auto-video-redaction-software-100-discount",
+   "preis_jetzt": 0.0,
+   "preis_vorher": null,
+   "rabatt_prozent": 100,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Preisverlauf; Angebotsseite nennt 49,99 US-Dollar als Originalpreis",
+   "gilt_bis": "unbekannt",
+   "kurz": "Programm zum Unkenntlichmachen von Videoinhalten, private Dauerlizenz für einen Rechner.",
+   "quelle": "SharewareOnSale",
+   "aktion": "",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/73f5d9ace0.webp",
+   "neu_seit": "2026-11-27T10:43",
    "stufe": "ueber-50"
   },
   {
@@ -28799,6 +29282,27 @@
    "stufe": "ueber-50"
   },
   {
+   "titel": "Kaufland mobil Starterpaket (Prepaid-SIM)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Handy-Verträge & Tarife",
+   "unterkategorie": "SIM-only-Tarife",
+   "shop": "Kaufland mobil",
+   "link": "https://kaufland-mobil.de/",
+   "preis_jetzt": 1.99,
+   "preis_vorher": 9.99,
+   "rabatt_prozent": 80,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - Normalpreis 9,99 € laut Anbieterseite und teltarif",
+   "gilt_bis": "unbekannt",
+   "kurz": "Einmalig 1,99 € für die Prepaid-Karte im Telekom-Netz, ohne Laufzeit und Monatspreis; Datenvolumen je nach später gebuchtem Tarif.",
+   "quelle": "kaufland-mobil.de, teltarif.de",
+   "aktion": "",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/d42abba3ff.webp",
+   "neu_seit": "2026-11-27T10:43",
+   "stufe": "ueber-50"
+  },
+  {
    "titel": "Warhammer 40,000: Space Marine 2 (PC, Steam)",
    "kategorie": "Sonstiges",
    "abteilung": "Gaming",
@@ -29387,6 +29891,27 @@
    "stufe": "ueber-50"
   },
   {
+   "titel": "Romanico Palace Rom, Doppelzimmer mit Frühstück, pro Nacht (mind. 2 Nächte)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Reisen",
+   "unterkategorie": "Urlaub & Hotel",
+   "shop": "Luxury Escapes",
+   "link": "https://travel-dealz.de/deal/romanico-palace-hotel-rom",
+   "preis_jetzt": 129.5,
+   "preis_vorher": 242.0,
+   "rabatt_prozent": 46,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - Vergleich laut travel-dealz.de (Stand 8.11.): direkt beim Hotel 242 € mit Frühstück (Mitte Februar)",
+   "gilt_bis": "unbekannt",
+   "kurz": "Weniger als die Hälfte des Direktpreises, dazu 30 € Verzehrgutschein; mit Code TDZ10Q426.",
+   "quelle": "travel-dealz.de",
+   "aktion": "",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/94ad292508.webp",
+   "neu_seit": "2026-11-27T12:00",
+   "stufe": "25-50"
+  },
+  {
    "titel": "Freida McFadden: The Housemaid 3-in-1-Bundle, deutsch (eBook)",
    "kategorie": "Sonstiges",
    "abteilung": "Freizeit & Spielzeug",
@@ -29487,7 +30012,7 @@
    "quelle": "Hop-Sport Produktseite",
    "aktion": "",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/99043d1462.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "25-50"
   },
@@ -29555,6 +30080,48 @@
    "stufe": "25-50"
   },
   {
+   "titel": "Kozmo Hotel Suites & Spa Budapest, 2 Nächte mit Frühstück",
+   "kategorie": "Sonstiges",
+   "abteilung": "Reisen",
+   "unterkategorie": "Urlaub & Hotel",
+   "shop": "Hotelangebot via travel-dealz",
+   "link": "https://travel-dealz.de/deal/budapest-kozmo-hotel-suites-spa",
+   "preis_jetzt": 279.0,
+   "preis_vorher": 412.0,
+   "rabatt_prozent": 32,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - Vergleich laut travel-dealz.de (Stand 28.10.): Trivago/Agoda 412 € (2.-4.02.)",
+   "gilt_bis": "unbekannt (Reisen Januar bis März 2027)",
+   "kurz": "Superior-Zimmer inklusive Citytax; der Preis setzt den Code TRAVELZDE10 voraus.",
+   "quelle": "travel-dealz.de",
+   "aktion": "",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/b81480268b.webp",
+   "neu_seit": "2026-11-27T12:00",
+   "stufe": "25-50"
+  },
+  {
+   "titel": "Ninja Thirsti Trinkflasche, 700 ml",
+   "kategorie": "Sonstiges",
+   "abteilung": "Sport & Fahrrad",
+   "unterkategorie": "Outdoor",
+   "shop": "Ninja",
+   "link": "https://dealdoktor.de/ninja-thirsti-trinkflasche-700ml",
+   "preis_jetzt": 24.99,
+   "preis_vorher": 37.0,
+   "rabatt_prozent": 32,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - nur Vergleichspreis 37 € laut DealDoktor; Beitrag vom 18.11., Ninja-Seite nicht selbst geprüft",
+   "gilt_bis": "unbekannt",
+   "kurz": "Trinkflasche direkt vom Hersteller inklusive Versand.",
+   "quelle": "https://www.dealdoktor.de/ninja-thirsti-trinkflasche-700ml/",
+   "aktion": "",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/ce1a93da2c.webp",
+   "neu_seit": "2026-11-27T11:59",
+   "stufe": "25-50"
+  },
+  {
    "titel": "Gardena Comfort Grasschere",
    "kategorie": "Sonstiges",
    "abteilung": "Werkzeug & Baumarkt",
@@ -29592,7 +30159,7 @@
    "quelle": "Fitshop Produktseite",
    "aktion": "",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/b9f2ebf6a3.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "25-50"
   },
@@ -29655,7 +30222,7 @@
    "quelle": "Fitshop Produktseite",
    "aktion": "",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/ccb59fa112.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "25-50"
   },
@@ -29718,7 +30285,7 @@
    "quelle": "Fitshop Produktseite",
    "aktion": "",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/53082867b3.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "25-50"
   },
@@ -29844,7 +30411,7 @@
    "quelle": "Hop-Sport Produktseite",
    "aktion": "",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/f29d99f7a5.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "15-25"
   },
@@ -29928,7 +30495,7 @@
    "quelle": "Kettler Sport Produktseite",
    "aktion": "",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/e8e7b10639.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "15-25"
   },
@@ -29949,7 +30516,7 @@
    "quelle": "Hop-Sport Produktseite",
    "aktion": "",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/9e4da25c72.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "15-25"
   },
@@ -29970,7 +30537,7 @@
    "quelle": "Hop-Sport Produktseite",
    "aktion": "",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/22cf224f87.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "15-25"
   },
@@ -30138,7 +30705,7 @@
    "quelle": "Fitshop Produktseite",
    "aktion": "",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/d618346f32.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "15-25"
   },
@@ -30159,7 +30726,7 @@
    "quelle": "Hop-Sport Produktseite",
    "aktion": "",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/dfe2572234.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "15-25"
   },
@@ -30222,7 +30789,7 @@
    "quelle": "Hop-Sport Produktseite",
    "aktion": "",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/b6d76fe0e3.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "15-25"
   },
@@ -30245,6 +30812,27 @@
    "preis_geprueft": "2026-11-27T13:55",
    "bild": "",
    "neu_seit": "2026-11-27T13:14",
+   "stufe": "15-25"
+  },
+  {
+   "titel": "Palazzo Buenos Aires Mailand, Doppelzimmer mit Frühstück, pro Nacht (mind. 2 Nächte)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Reisen",
+   "unterkategorie": "Urlaub & Hotel",
+   "shop": "Luxury Escapes",
+   "link": "https://travel-dealz.de/deal/palazzo-buenos-aires-mailand",
+   "preis_jetzt": 124.5,
+   "preis_vorher": 152.0,
+   "rabatt_prozent": 18,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - Vergleich laut travel-dealz.de (Stand 12.11.): Hotel-Website mit Frühstück 152 € (Ende Februar)",
+   "gilt_bis": "unbekannt",
+   "kurz": "Zentrumsnah in Mailand unter dem Direktpreis; der Preis gilt mit dem im Artikel genannten Code TDZ10Q426.",
+   "quelle": "travel-dealz.de",
+   "aktion": "",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/131e3f04a7.webp",
+   "neu_seit": "2026-11-27T12:00",
    "stufe": "15-25"
   },
   {
@@ -30348,7 +30936,7 @@
    "quelle": "Hop-Sport Produktseite",
    "aktion": "",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/399ae74b54.webp",
    "neu_seit": "2026-11-27T13:00",
    "stufe": "15-25"
   },
@@ -37233,22 +37821,22 @@
    "grund": "Preis nicht mehr bestätigt"
   }
  ],
- "bisher_gezeigt": 1758,
+ "bisher_gezeigt": 1786,
  "stufen": [
   {
    "kurz": "15-25",
    "name": "15–25 %",
-   "anzahl": 578
+   "anzahl": 587
   },
   {
    "kurz": "25-50",
    "name": "25–50 %",
-   "anzahl": 634
+   "anzahl": 641
   },
   {
    "kurz": "ueber-50",
    "name": "über 50 %",
-   "anzahl": 241
+   "anzahl": 253
   }
  ],
  "abteilungen": [
@@ -37292,12 +37880,12 @@
   {
    "name": "Gratis & zu verschenken",
    "kurz": "gratis",
-   "anzahl": 115,
+   "anzahl": 125,
    "unter": [
     {
      "name": "Gratis-Spiele & Apps",
      "kurz": "gratis-spiele-apps",
-     "anzahl": 8
+     "anzahl": 18
     },
     {
      "name": "Gratisproben & Freebies",
@@ -37319,12 +37907,22 @@
   {
    "name": "Handy-Verträge & Tarife",
    "kurz": "tarife",
-   "anzahl": 1,
+   "anzahl": 5,
    "unter": [
+    {
+     "name": "Handy mit Vertrag",
+     "kurz": "handy-mit-vertrag",
+     "anzahl": 1
+    },
     {
      "name": "SIM-only-Tarife",
      "kurz": "sim-only-tarife",
-     "anzahl": 1
+     "anzahl": 2
+    },
+    {
+     "name": "Internet & DSL",
+     "kurz": "internet-dsl",
+     "anzahl": 2
     }
    ]
   },
@@ -37363,12 +37961,12 @@
   {
    "name": "Haushalt & Küche",
    "kurz": "haushalt",
-   "anzahl": 206,
+   "anzahl": 213,
    "unter": [
     {
      "name": "Küchengeräte",
      "kurz": "kuechengeraete",
-     "anzahl": 85
+     "anzahl": 92
     },
     {
      "name": "Haushaltsgeräte",
@@ -37424,7 +38022,7 @@
   {
    "name": "Sport & Fahrrad",
    "kurz": "sport",
-   "anzahl": 194,
+   "anzahl": 195,
    "unter": [
     {
      "name": "Fahrrad",
@@ -37439,7 +38037,7 @@
     {
      "name": "Outdoor",
      "kurz": "outdoor",
-     "anzahl": 9
+     "anzahl": 10
     }
    ]
   },
@@ -37517,7 +38115,7 @@
   {
    "name": "Reisen",
    "kurz": "reisen",
-   "anzahl": 11,
+   "anzahl": 17,
    "unter": [
     {
      "name": "Bahn & Bus",
@@ -37527,7 +38125,7 @@
     {
      "name": "Urlaub & Hotel",
      "kurz": "urlaub-hotel",
-     "anzahl": 9
+     "anzahl": 15
     }
    ]
   }
