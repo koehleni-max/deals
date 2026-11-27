@@ -1,6 +1,6 @@
 {
- "stand": "2026-11-27T21:15",
- "fingerabdruck": "451995d5f1312196",
+ "stand": "2026-11-27T21:47",
+ "fingerabdruck": "b7e9b3c23c68a967",
  "mindest": 15,
  "black_week": true,
  "preise_in_pruefung": false,
@@ -19454,6 +19454,28 @@
    "versand_offen": null
   },
   {
+   "titel": "MSI MAG 342CQRDE E2, 34 Zoll UWQHD Curved-Monitor, 180 Hz",
+   "kategorie": "Sonstiges",
+   "abteilung": "Elektronik & Technik",
+   "unterkategorie": "Computer & Zubehör",
+   "shop": "MediaMarkt",
+   "link": "https://mediamarkt.de/de/product/_msi-mag-342cqrde-e2-34-zoll-uwqhd-gaming-monitor-1-ms-reaktionszeit-180-hz-2957971.html",
+   "preis_jetzt": 199.0,
+   "preis_vorher": 249.9,
+   "rabatt_prozent": 20,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - Geizhals-Stand vom 04.11. nannte ab 279 €, ein weiterer Preisvergleich 249,90 €",
+   "gilt_bis": "30.11.2026",
+   "kurz": "34-Zoll-Ultrawide mit 180 Hz für unter 200 € versandkostenfrei.",
+   "quelle": "https://www.mediamarkt.de/de/list/msi-black-friday",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T21:47",
+   "bild": "bilder/c905c90d07.webp",
+   "neu_seit": "2026-11-27T12:16",
+   "stufe": "15-25",
+   "versand_offen": null
+  },
+  {
    "titel": "Shokz OpenFit Air 2 Open-Ear-Kopfhörer, Schwarz",
    "kategorie": "Sonstiges",
    "abteilung": "Elektronik & Technik",
@@ -19738,28 +19760,6 @@
    "neu_seit": "2026-11-27T12:15",
    "stufe": "15-25",
    "versand_offen": true
-  },
-  {
-   "titel": "MSI MAG 342CQRDE E2, 34 Zoll UWQHD Curved, 180 Hz",
-   "kategorie": "Sonstiges",
-   "abteilung": "Gaming",
-   "unterkategorie": "Gaming-Zubehör",
-   "shop": "MediaMarkt",
-   "link": "https://mediamarkt.de/de/product/_msi-mag-342cqrde-e2-34-zoll-uwqhd-gaming-monitor-1-ms-reaktionszeit-180-hz-2957971.html",
-   "preis_jetzt": 199.0,
-   "preis_vorher": 248.0,
-   "rabatt_prozent": 20,
-   "preisverlauf_geprueft": true,
-   "beleg_preisverlauf": "ja - testbericht.de (27.11.): 30-Tage-Durchschnitt rund 248 €, Spanne 199 bis 279 €",
-   "gilt_bis": "solange Vorrat",
-   "kurz": "34-Zoll-Ultrawide für unter 200 € mit kostenloser Lieferung.",
-   "quelle": "MediaMarkt Black-Friday-Liste, testbericht.de",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T21:47",
-   "bild": "bilder/c905c90d07.webp",
-   "neu_seit": "2026-11-27T12:16",
-   "stufe": "15-25",
-   "versand_offen": null
   },
   {
    "titel": "Acer Swift Air 14 SFA14-I31-51HK (Core 5 320, 8 GB RAM, 512 GB SSD, 120 Hz)",
@@ -42518,7 +42518,7 @@
   {
    "name": "Elektronik & Technik",
    "kurz": "elektronik",
-   "anzahl": 249,
+   "anzahl": 250,
    "unter": [
     {
      "name": "Smartphones & Tablets",
@@ -42528,7 +42528,7 @@
     {
      "name": "Computer & Zubehör",
      "kurz": "computer-zubehoer",
-     "anzahl": 97
+     "anzahl": 98
     },
     {
      "name": "TV & Heimkino",
@@ -42589,12 +42589,12 @@
   {
    "name": "Gaming",
    "kurz": "gaming",
-   "anzahl": 101,
+   "anzahl": 100,
    "unter": [
     {
      "name": "Gaming-Zubehör",
      "kurz": "gaming-zubehoer",
-     "anzahl": 24
+     "anzahl": 23
     },
     {
      "name": "PlayStation",
