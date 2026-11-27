@@ -1,6 +1,6 @@
 {
  "stand": "2026-11-27T13:07",
- "fingerabdruck": "1a840c8997264453",
+ "fingerabdruck": "b70626670e007cd8",
  "mindest": 15,
  "black_week": true,
  "preise_in_pruefung": false,
@@ -381,6 +381,27 @@
    "preis_geprueft": "2026-11-27T13:55",
    "bild": "bilder/c428079bdf.webp",
    "neu_seit": "2026-11-27T09:59",
+   "stufe": "ueber-50"
+  },
+  {
+   "titel": "congstar Prepaid Allnet M, Starterpaket für 1 € (33 GB je 4 Wochen)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Handy-Verträge & Tarife",
+   "unterkategorie": "SIM-only-Tarife",
+   "shop": "congstar",
+   "link": "https://congstar.de/prepaid/tarife/prepaid-allnet-m",
+   "preis_jetzt": 1.0,
+   "preis_vorher": 9.99,
+   "rabatt_prozent": 90,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - mobiflip-Meldungen zeigen 9,99 € als Normalpreis zwischen den Aktionen; 1-€-Aktionen kommen aber wiederholt vor",
+   "gilt_bis": "07.12.2026",
+   "kurz": "1 € Starterpaket mit 20 € Startguthaben, Tarif 10 € je 4 Wochen ohne Mindestlaufzeit; den 1-€-Startpreis gibt es auch bei Allnet XS, S, L und XL.",
+   "quelle": "teltarif.de, congstar.de",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "",
+   "neu_seit": "2026-11-27T12:16",
    "stufe": "ueber-50"
   },
   {
@@ -2082,6 +2103,48 @@
    "preis_geprueft": "2026-11-27T13:55",
    "bild": "bilder/6859368fee.webp",
    "neu_seit": "2026-11-27T12:00",
+   "stufe": "ueber-50"
+  },
+  {
+   "titel": "congstar Allnet Flat S mit 100 statt 50 GB (Telekom-Netz)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Handy-Verträge & Tarife",
+   "unterkategorie": "SIM-only-Tarife",
+   "shop": "congstar",
+   "link": "https://congstar.de/handytarife/allnet-flat-tarife/allnet-flat-s",
+   "preis_jetzt": 20.0,
+   "preis_vorher": 40.0,
+   "rabatt_prozent": 50,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - mobiflip und congstar-Forum: bis zur Aktion ab 12.11. waren es 50 GB zum gleichen Monatspreis",
+   "gilt_bis": "07.12.2026",
+   "kurz": "Doppeltes Datenvolumen zum gleichen Preis, 0 € Bereitstellung, auch monatlich kündbar.",
+   "quelle": "congstar.de, mobiflip.de",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "",
+   "neu_seit": "2026-11-27T12:16",
+   "stufe": "ueber-50"
+  },
+  {
+   "titel": "congstar Allnet Flat M mit 250 statt 125 GB (Telekom-Netz)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Handy-Verträge & Tarife",
+   "unterkategorie": "SIM-only-Tarife",
+   "shop": "congstar",
+   "link": "https://congstar.de/handytarife/allnet-flat-tarife/allnet-flat-m",
+   "preis_jetzt": 25.0,
+   "preis_vorher": 50.0,
+   "rabatt_prozent": 50,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - mobiflip: bis zur Aktion waren es 125 GB für 25 €",
+   "gilt_bis": "07.12.2026",
+   "kurz": "Doppeltes Datenvolumen im Telekom-Netz, 0 € Bereitstellung, auch monatlich kündbar.",
+   "quelle": "congstar.de, mobiflip.de",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "",
+   "neu_seit": "2026-11-27T12:16",
    "stufe": "ueber-50"
   },
   {
@@ -6474,6 +6537,27 @@
    "stufe": "25-50"
   },
   {
+   "titel": "congstar Prepaid Jahrespaket 365 statt 240 GB",
+   "kategorie": "Sonstiges",
+   "abteilung": "Handy-Verträge & Tarife",
+   "unterkategorie": "SIM-only-Tarife",
+   "shop": "congstar",
+   "link": "https://congstar.de/prepaid/tarife/prepaid-jahrespaket",
+   "preis_jetzt": 100.0,
+   "preis_vorher": 152.08,
+   "rabatt_prozent": 34,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - teltarif, connect und heise: regulär 240 GB für 100 €",
+   "gilt_bis": "07.12.2026",
+   "kurz": "125 GB mehr im Jahr zum gleichen Preis, frei einteilbar; verlängert sich bei Nichtkündigung.",
+   "quelle": "congstar.de, teltarif.de, heise.de",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "",
+   "neu_seit": "2026-11-27T12:16",
+   "stufe": "25-50"
+  },
+  {
    "titel": "Thermomix Sensor für TM7 und TM6",
    "kategorie": "Sonstiges",
    "abteilung": "Haushalt & Küche",
@@ -7059,6 +7143,48 @@
    "preis_geprueft": "2026-11-27T13:55",
    "bild": "bilder/74aa8fd4a4.webp",
    "neu_seit": "2026-11-27T12:15",
+   "stufe": "25-50"
+  },
+  {
+   "titel": "Allnet Flat 100 GB 5G, 24 Monate (D-Netz)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Handy-Verträge & Tarife",
+   "unterkategorie": "SIM-only-Tarife",
+   "shop": "klarmobil",
+   "link": "https://klarmobil.de/tarife/allnet-flat/allnet-flat-100-gb/P-4896739",
+   "preis_jetzt": 9.99,
+   "preis_vorher": 14.99,
+   "rabatt_prozent": 33,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - Vergleich mit der zweiten klarmobil-100-GB-Listung zu 14,99 € (dort 50 Mbit/s); im O2-Netz gibt es 100 GB auch anderswo für 9,99 €",
+   "gilt_bis": "30.11.2026",
+   "kurz": "100 GB mit bis zu 100 Mbit/s, auch ab dem 25. Monat für 9,99 €.",
+   "quelle": "klarmobil Black Week, teltarif",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "",
+   "neu_seit": "2026-11-27T12:16",
+   "stufe": "25-50"
+  },
+  {
+   "titel": "EDEKA smart Jahrespaket Premium 360 statt 240 GB",
+   "kategorie": "Sonstiges",
+   "abteilung": "Handy-Verträge & Tarife",
+   "unterkategorie": "SIM-only-Tarife",
+   "shop": "EDEKA smart",
+   "link": "https://edeka-smart.de/tarife/jahrespaket-premium",
+   "preis_jetzt": 94.95,
+   "preis_vorher": 142.43,
+   "rabatt_prozent": 33,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - Anbieterseite und teltarif: regulär 20 GB pro Monat, in der Aktion 30 GB",
+   "gilt_bis": "06.12.2026",
+   "kurz": "30 GB pro Monat ein Jahr lang ohne Vertragsbindung, 100 € Startguthaben enthalten.",
+   "quelle": "edeka-smart.de, teltarif.de",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/9e6fd38567.webp",
+   "neu_seit": "2026-11-27T12:16",
    "stufe": "25-50"
   },
   {
@@ -10502,6 +10628,69 @@
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
    "bild": "bilder/6d383b39b1.webp",
+   "neu_seit": "2026-11-27T12:16",
+   "stufe": "25-50"
+  },
+  {
+   "titel": "PYUR Pure Speed 250 Kabel-Internet (250 Mbit/s)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Handy-Verträge & Tarife",
+   "unterkategorie": "Internet & DSL",
+   "shop": "PYUR",
+   "link": "https://pyur.com/privat/internet/250-mbit",
+   "preis_jetzt": 20.0,
+   "preis_vorher": 28.0,
+   "rabatt_prozent": 29,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - mobiflip und teltarif: 28 € in der Aktion vom 06.10. bis 10.11.2026",
+   "gilt_bis": "08.12.2026",
+   "kurz": "Dauerhaft 20 € im Monat; dazu 19,99 € Anschluss, 24 Monate Laufzeit und gegebenenfalls 9,99 € Routerversand, nur im PYUR-Gebiet.",
+   "quelle": "teltarif.de, mobiflip.de, pyur.com",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "",
+   "neu_seit": "2026-11-27T12:16",
+   "stufe": "25-50"
+  },
+  {
+   "titel": "sim.de Allnet Flat 25 GB 5G (1&1-Netz), 4,99 € bei Rufnummernmitnahme",
+   "kategorie": "Sonstiges",
+   "abteilung": "Handy-Verträge & Tarife",
+   "unterkategorie": "SIM-only-Tarife",
+   "shop": "sim.de",
+   "link": "https://sim.de/tarif1",
+   "preis_jetzt": 4.99,
+   "preis_vorher": 6.99,
+   "rabatt_prozent": 29,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - 4,99 € gab es bei Drillisch schon in früheren Aktionen; gestützt durch den Standardpreis von 6,99 € und Blau mit 20 GB für 6,99 €",
+   "gilt_bis": "01.12.2026 11 Uhr",
+   "kurz": "25 GB mit Allnet-Flat; 4,99 € nur mit Rufnummernmitnahme (die Tarifseite zeigt ohne Mitnahme 6,99 €), 0 € Bereitstellung bei 24 Monaten oder 9,99 € monatlich kündbar.",
+   "quelle": "sim.de, teltarif.de, handyhase.de",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "",
+   "neu_seit": "2026-11-27T12:16",
+   "stufe": "25-50"
+  },
+  {
+   "titel": "sim24 Allnet Flat 20 GB 5G (1&1-Netz), 4,99 € bei Rufnummernmitnahme",
+   "kategorie": "Sonstiges",
+   "abteilung": "Handy-Verträge & Tarife",
+   "unterkategorie": "SIM-only-Tarife",
+   "shop": "sim24",
+   "link": "https://sim24.de/tarif1",
+   "preis_jetzt": 4.99,
+   "preis_vorher": 6.99,
+   "rabatt_prozent": 29,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - 4,99 € gab es schon in früheren Aktionen; gestützt durch den Standardpreis von 6,99 € und Blau mit 20 GB für 6,99 €",
+   "gilt_bis": "01.12.2026 11 Uhr",
+   "kurz": "Sehr günstige Allnet-Flat; 4,99 € nur mit Rufnummernmitnahme (sonst 6,99 €), monatlich kündbare Variante mit 9,99 € Bereitstellung.",
+   "quelle": "sim24.de, teltarif.de",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "",
    "neu_seit": "2026-11-27T12:16",
    "stufe": "25-50"
   },
@@ -18315,6 +18504,27 @@
    "preis_geprueft": "2026-11-27T13:55",
    "bild": "bilder/68249045ac.webp",
    "neu_seit": "2026-11-27T12:15",
+   "stufe": "15-25"
+  },
+  {
+   "titel": "sim24 Allnet Flat 40 GB 5G (1&1-Netz), 6,99 € bei Rufnummernmitnahme",
+   "kategorie": "Sonstiges",
+   "abteilung": "Handy-Verträge & Tarife",
+   "unterkategorie": "SIM-only-Tarife",
+   "shop": "sim24",
+   "link": "https://sim24.de/tarif2",
+   "preis_jetzt": 6.99,
+   "preis_vorher": 8.99,
+   "rabatt_prozent": 22,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf gefunden; gestützt durch den Standardpreis von 8,99 € und Blau mit 40 GB für 8,99 €",
+   "gilt_bis": "01.12.2026 11 Uhr",
+   "kurz": "40 GB für unter 7 €; Aktionspreis nur mit Rufnummernmitnahme (die Tarifseite zeigt 8,99 €), auch monatlich kündbar.",
+   "quelle": "sim24.de, teltarif.de",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "",
+   "neu_seit": "2026-11-27T12:16",
    "stufe": "15-25"
   },
   {
@@ -37821,22 +38031,22 @@
    "grund": "Preis nicht mehr bestätigt"
   }
  ],
- "bisher_gezeigt": 1786,
+ "bisher_gezeigt": 1796,
  "stufen": [
   {
    "kurz": "15-25",
    "name": "15–25 %",
-   "anzahl": 587
+   "anzahl": 588
   },
   {
    "kurz": "25-50",
    "name": "25–50 %",
-   "anzahl": 641
+   "anzahl": 647
   },
   {
    "kurz": "ueber-50",
    "name": "über 50 %",
-   "anzahl": 253
+   "anzahl": 256
   }
  ],
  "abteilungen": [
@@ -37907,7 +38117,7 @@
   {
    "name": "Handy-Verträge & Tarife",
    "kurz": "tarife",
-   "anzahl": 5,
+   "anzahl": 15,
    "unter": [
     {
      "name": "Handy mit Vertrag",
@@ -37917,12 +38127,12 @@
     {
      "name": "SIM-only-Tarife",
      "kurz": "sim-only-tarife",
-     "anzahl": 2
+     "anzahl": 11
     },
     {
      "name": "Internet & DSL",
      "kurz": "internet-dsl",
-     "anzahl": 2
+     "anzahl": 3
     }
    ]
   },
