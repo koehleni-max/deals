@@ -1,6 +1,6 @@
 {
  "stand": "2026-11-27T13:07",
- "fingerabdruck": "99da5a510e5946ab",
+ "fingerabdruck": "eee1b11f25a57341",
  "mindest": 15,
  "black_week": true,
  "preise_in_pruefung": false,
@@ -4458,20 +4458,20 @@
    "stufe": "25-50"
   },
   {
-   "titel": "Amazfit T-Rex 3 Pro 44 mm Outdoor-Smartwatch",
+   "titel": "Amazfit T-Rex 3 Pro 44 mm Smartwatch, Schwarz-Gold",
    "kategorie": "Sonstiges",
-   "abteilung": "Elektronik & Technik",
-   "unterkategorie": "Smartphones & Tablets",
-   "shop": "Amazon",
+   "abteilung": "Sport & Fahrrad",
+   "unterkategorie": "Fitness & Gym",
+   "shop": "Amazon.de",
    "link": "https://amazon.de/dp/B0FS72CGPT",
    "preis_jetzt": 215.99,
    "preis_vorher": 321.0,
    "rabatt_prozent": 33,
    "preisverlauf_geprueft": false,
-   "beleg_preisverlauf": "nein - nur Shopvergleich: DealDoktor nennt 321 € als idealo-Bestpreis",
+   "beleg_preisverlauf": "nein - nur idealo-Bestpreis 321 € laut DealDoktor (25.11.); Amazon-Seite nicht abrufbar",
    "gilt_bis": "unbekannt",
-   "kurz": "Rund 105 € unter dem genannten Vergleichspreis; Preis laut DealDoktor, nicht bei Amazon nachgeprüft.",
-   "quelle": "https://www.dealdoktor.de/amazfit-t-rex-3-pro-44mm/",
+   "kurz": "Rund 105 € unter dem nächstbesten Angebot, nur diese Variante.",
+   "quelle": "DealDoktor",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
    "bild": "bilder/54387ebeab.webp",
@@ -4836,27 +4836,6 @@
    "stufe": "25-50"
   },
   {
-   "titel": "Steiff Teddybär Honey 18 cm",
-   "kategorie": "Sonstiges",
-   "abteilung": "Freizeit & Spielzeug",
-   "unterkategorie": "Spielzeug",
-   "shop": "Amazon.de",
-   "link": "https://amazon.de/dp/B0747MZXVX",
-   "preis_jetzt": 14.99,
-   "preis_vorher": 22.4,
-   "rabatt_prozent": 33,
-   "preisverlauf_geprueft": false,
-   "beleg_preisverlauf": "nein - nur Preisvergleich laut dealgott, Stand 25.11.",
-   "gilt_bis": "unbekannt",
-   "kurz": "Markenteddy rund 30 % unter dem Vergleichspreis.",
-   "quelle": "https://www.dealgott.de/category/spielzeug-baby/",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
-   "neu_seit": "2026-11-27T12:49",
-   "stufe": "25-50"
-  },
-  {
    "titel": "Baumwollsatin-Bettwäsche, Normalgröße",
    "kategorie": "Sonstiges",
    "abteilung": "Haushalt & Küche",
@@ -5043,6 +5022,27 @@
    "preis_geprueft": "2026-11-27T13:07",
    "bild": "bilder/36d0436677.webp",
    "neu_seit": "2026-11-27T08:46",
+   "stufe": "25-50"
+  },
+  {
+   "titel": "Steiff Honey Teddybär",
+   "kategorie": "Sonstiges",
+   "abteilung": "Freizeit & Spielzeug",
+   "unterkategorie": "Spielzeug",
+   "shop": "Amazon.de",
+   "link": "https://amazon.de/dp/B0747MZXVX",
+   "preis_jetzt": 14.99,
+   "preis_vorher": 22.0,
+   "rabatt_prozent": 32,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - nur Preisvergleich ca. 22 € laut DealDoktor; Amazon-Seite nicht abrufbar",
+   "gilt_bis": "unbekannt",
+   "kurz": "Rund 7 € unter Preisvergleich; Versandkosten möglich.",
+   "quelle": "DealDoktor",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:07",
+   "bild": "",
+   "neu_seit": "2026-11-27T12:49",
    "stufe": "25-50"
   },
   {
@@ -9246,6 +9246,27 @@
    "stufe": "25-50"
   },
   {
+   "titel": "Braun Silk-expert Pro 5 PL5157 IPL-Haarentferner",
+   "kategorie": "Sonstiges",
+   "abteilung": "Drogerie & Gesundheit",
+   "unterkategorie": "Körperpflege",
+   "shop": "Amazon.de",
+   "link": "https://amazon.de/dp/B09QQS92GP",
+   "preis_jetzt": 279.99,
+   "preis_vorher": 374.0,
+   "rabatt_prozent": 25,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - nur Vergleichspreis 374 € laut DealDoktor (Stand 24.11.); Amazon-Seite nicht abrufbar",
+   "gilt_bis": "unbekannt",
+   "kurz": "94 € unter dem Vergleichspreis.",
+   "quelle": "DealDoktor",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:07",
+   "bild": "bilder/1caa1e3c20.webp",
+   "neu_seit": "2026-11-27T08:50",
+   "stufe": "25-50"
+  },
+  {
    "titel": "Dremel VersaTip 2000 Gaslötkolben-Set",
    "kategorie": "Sonstiges",
    "abteilung": "Werkzeug & Baumarkt",
@@ -10338,6 +10359,27 @@
    "stufe": "15-25"
   },
   {
+   "titel": "Philips OneBlade 360 Face & Body QP2824/31",
+   "kategorie": "Sonstiges",
+   "abteilung": "Drogerie & Gesundheit",
+   "unterkategorie": "Körperpflege",
+   "shop": "Amazon.de",
+   "link": "https://amazon.de/dp/B0DXLBZF4Q",
+   "preis_jetzt": 34.99,
+   "preis_vorher": 46.0,
+   "rabatt_prozent": 24,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - nur Preisvergleich 46 € laut DealDoktor; Amazon-Seite nicht abrufbar",
+   "gilt_bis": "unbekannt",
+   "kurz": "Trimmer und Rasierer 11 € unter Preisvergleich, ohne Netzteil.",
+   "quelle": "DealDoktor",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:07",
+   "bild": "bilder/e84d451428.webp",
+   "neu_seit": "2026-11-27T08:50",
+   "stufe": "15-25"
+  },
+  {
    "titel": "Brennenstuhl Garant V2 Kabeltrommel 50 m",
    "kategorie": "Sonstiges",
    "abteilung": "Werkzeug & Baumarkt",
@@ -10397,27 +10439,6 @@
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
    "bild": "bilder/fcad318cdb.webp",
-   "neu_seit": "2026-11-27T08:50",
-   "stufe": "15-25"
-  },
-  {
-   "titel": "Philips OneBlade 360 Face & Body (QP2824/31)",
-   "kategorie": "Sonstiges",
-   "abteilung": "Haushalt & Küche",
-   "unterkategorie": "",
-   "shop": "Amazon.de",
-   "link": "https://amazon.de/dp/B0DXLBZF4Q",
-   "preis_jetzt": 34.99,
-   "preis_vorher": 46.0,
-   "rabatt_prozent": 24,
-   "preisverlauf_geprueft": false,
-   "beleg_preisverlauf": "nein - kein Verlauf; Preisvergleich laut Schnäppchenfuchs 46 €",
-   "gilt_bis": "30.11.2026",
-   "kurz": "Trimmer für Gesicht und Körper rund ein Viertel günstiger.",
-   "quelle": "schnaeppchenfuchs.com",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T13:07",
-   "bild": "bilder/e84d451428.webp",
    "neu_seit": "2026-11-27T08:50",
    "stufe": "15-25"
   },
@@ -10880,27 +10901,6 @@
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
    "bild": "bilder/c561b346ec.webp",
-   "neu_seit": "2026-11-27T11:59",
-   "stufe": "15-25"
-  },
-  {
-   "titel": "Philips Rasierer Serie 5000",
-   "kategorie": "Sonstiges",
-   "abteilung": "Haushalt & Küche",
-   "unterkategorie": "",
-   "shop": "Amazon.de",
-   "link": "https://amazon.de/dp/B0DCFX4WNB",
-   "preis_jetzt": 84.99,
-   "preis_vorher": 112.0,
-   "rabatt_prozent": 24,
-   "preisverlauf_geprueft": true,
-   "beleg_preisverlauf": "ja - t-online: 112 € im Jahresdurchschnitt",
-   "gilt_bis": "30.11.2026",
-   "kurz": "Elektrorasierer rund ein Viertel unter dem Jahresschnitt.",
-   "quelle": "t-online.de",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
    "neu_seit": "2026-11-27T11:59",
    "stufe": "15-25"
   },
@@ -15189,27 +15189,6 @@
    "stufe": "15-25"
   },
   {
-   "titel": "Gillette Fusion5 Rasierklingen, 24 Stück",
-   "kategorie": "Sonstiges",
-   "abteilung": "Haushalt & Küche",
-   "unterkategorie": "",
-   "shop": "Amazon.de",
-   "link": "https://amazon.de/dp/B09D7R2YX7",
-   "preis_jetzt": 49.99,
-   "preis_vorher": 62.0,
-   "rabatt_prozent": 19,
-   "preisverlauf_geprueft": false,
-   "beleg_preisverlauf": "nein - nur Preisvergleich 62 € laut schnaeppchenfuchs (27.11.), kein Verlauf; Amazon-Seite nicht abrufbar",
-   "gilt_bis": "unbekannt",
-   "kurz": "Klingenvorrat rund 12 € günstiger.",
-   "quelle": "https://schnaeppchenfuchs.com/angebote/amazon-black-friday-angebote",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T13:07",
-   "bild": "bilder/9559b28f7e.webp",
-   "neu_seit": "2026-11-27T08:50",
-   "stufe": "15-25"
-  },
-  {
    "titel": "De'Longhi Magnifica S Kaffeevollautomat (ECAM11.112.B)",
    "kategorie": "Sonstiges",
    "abteilung": "Haushalt & Küche",
@@ -15249,6 +15228,27 @@
    "preis_geprueft": "2026-11-27T13:07",
    "bild": "bilder/ddf2910931.webp",
    "neu_seit": "2026-11-27T12:38",
+   "stufe": "15-25"
+  },
+  {
+   "titel": "Gillette Fusion5 Ersatzklingen, 24 Stück",
+   "kategorie": "Sonstiges",
+   "abteilung": "Drogerie & Gesundheit",
+   "unterkategorie": "Körperpflege",
+   "shop": "Amazon.de",
+   "link": "https://amazon.de/dp/B09D7R2YX7",
+   "preis_jetzt": 49.99,
+   "preis_vorher": 62.0,
+   "rabatt_prozent": 19,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - nur idealo-Vergleich ab 62 € laut DealDoktor und Schnäppchenfuchs; Amazon-Seite nicht abrufbar",
+   "gilt_bis": "unbekannt",
+   "kurz": "Rund 2,08 € je Klinge.",
+   "quelle": "DealDoktor, Schnäppchenfuchs",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:07",
+   "bild": "bilder/9559b28f7e.webp",
+   "neu_seit": "2026-11-27T08:50",
    "stufe": "15-25"
   },
   {
@@ -16844,27 +16844,6 @@
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
    "bild": "bilder/e5e539e290.webp",
-   "neu_seit": "2026-11-27T08:50",
-   "stufe": "15-25"
-  },
-  {
-   "titel": "Braun Silk·expert Pro 5 IPL-Gerät (PL5157)",
-   "kategorie": "Sonstiges",
-   "abteilung": "Haushalt & Küche",
-   "unterkategorie": "",
-   "shop": "Amazon.de",
-   "link": "https://amazon.de/dp/B09QQS92GP",
-   "preis_jetzt": 279.99,
-   "preis_vorher": 338.0,
-   "rabatt_prozent": 17,
-   "preisverlauf_geprueft": false,
-   "beleg_preisverlauf": "nein - nur Preisvergleich 338 € laut schnaeppchenfuchs (27.11.), kein Verlauf; Amazon-Seite nicht abrufbar",
-   "gilt_bis": "unbekannt",
-   "kurz": "IPL-Haarentferner 58 € unter Vergleichspreis.",
-   "quelle": "https://schnaeppchenfuchs.com/angebote/amazon-black-friday-angebote",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T13:07",
-   "bild": "bilder/1caa1e3c20.webp",
    "neu_seit": "2026-11-27T08:50",
    "stufe": "15-25"
   },
@@ -21442,6 +21421,28 @@
    "bild": "",
    "neu_seit": "2026-11-27T12:25",
    "stufe": "25-50",
+   "grund": "Preis nicht mehr bestätigt"
+  },
+  {
+   "titel": "Philips Rasierer Serie 5000",
+   "kategorie": "Sonstiges",
+   "abteilung": "Haushalt & Küche",
+   "unterkategorie": "",
+   "shop": "Amazon.de",
+   "link": "https://amazon.de/dp/B0DCFX4WNB",
+   "preis_jetzt": 84.99,
+   "preis_vorher": 112.0,
+   "rabatt_prozent": 24,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - t-online: 112 € im Jahresdurchschnitt",
+   "gilt_bis": "30.11.2026",
+   "kurz": "Elektrorasierer rund ein Viertel unter dem Jahresschnitt.",
+   "quelle": "t-online.de",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:07",
+   "bild": "",
+   "neu_seit": "2026-11-27T11:59",
+   "stufe": "15-25",
    "grund": "Preis nicht mehr bestätigt"
   },
   {
@@ -27874,12 +27875,12 @@
   {
    "kurz": "15-25",
    "name": "15–25 %",
-   "anzahl": 416
+   "anzahl": 414
   },
   {
    "kurz": "25-50",
    "name": "25–50 %",
-   "anzahl": 419
+   "anzahl": 420
   },
   {
    "kurz": "ueber-50",
@@ -27891,12 +27892,12 @@
   {
    "name": "Elektronik & Technik",
    "kurz": "elektronik",
-   "anzahl": 161,
+   "anzahl": 160,
    "unter": [
     {
      "name": "Smartphones & Tablets",
      "kurz": "smartphones-tablets",
-     "anzahl": 10
+     "anzahl": 9
     },
     {
      "name": "Computer & Zubehör",
@@ -27989,7 +27990,7 @@
   {
    "name": "Haushalt & Küche",
    "kurz": "haushalt",
-   "anzahl": 182,
+   "anzahl": 178,
    "unter": [
     {
      "name": "Küchengeräte",
@@ -28050,7 +28051,7 @@
   {
    "name": "Sport & Fahrrad",
    "kurz": "sport",
-   "anzahl": 27,
+   "anzahl": 28,
    "unter": [
     {
      "name": "Fahrrad",
@@ -28060,7 +28061,7 @@
     {
      "name": "Fitness & Gym",
      "kurz": "fitness-gym",
-     "anzahl": 1
+     "anzahl": 2
     },
     {
      "name": "Outdoor",
@@ -28104,12 +28105,12 @@
   {
    "name": "Drogerie & Gesundheit",
    "kurz": "drogerie",
-   "anzahl": 45,
+   "anzahl": 48,
    "unter": [
     {
      "name": "Körperpflege",
      "kurz": "koerperpflege",
-     "anzahl": 38
+     "anzahl": 41
     },
     {
      "name": "Gesundheit",
