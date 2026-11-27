@@ -1,10 +1,94 @@
 {
  "stand": "2026-11-27T13:07",
- "fingerabdruck": "befff9d132dec7ff",
+ "fingerabdruck": "cd62469be72688af",
  "mindest": 15,
  "black_week": true,
  "preise_in_pruefung": false,
  "oben": [
+  {
+   "titel": "UJAM Virtual Pianist VOGUE (Klavier-Plugin) gratis",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gratis & zu verschenken",
+   "unterkategorie": "Gratis-Spiele & Apps",
+   "shop": "UJAM",
+   "link": "https://ujam.com/campaigns/vogue-free",
+   "preis_jetzt": 0.0,
+   "preis_vorher": 129.0,
+   "rabatt_prozent": 100,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - 129 US-$ ist der Listenpreis; der Hersteller zeigt auch einen Aktionspreis von 28,38 US-$",
+   "gilt_bis": "30.11.2026",
+   "kurz": "Virtueller Konzertflügel kostenlos; Newsletter-Anmeldung für den Gutscheincode nötig.",
+   "quelle": "UJAM, Audio Plugin Guy, Loop Kitchen",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/0d83c8e1ba.webp",
+   "neu_seit": "2026-11-27T12:00",
+   "stufe": "ueber-50"
+  },
+  {
+   "titel": "Plastic Factory Crooked Comb (Effekt-Plugin) gratis",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gratis & zu verschenken",
+   "unterkategorie": "Gratis-Spiele & Apps",
+   "shop": "Plastic Factory",
+   "link": "https://plasticfactory.com/products/crooked-comb",
+   "preis_jetzt": 0.0,
+   "preis_vorher": 29.0,
+   "rabatt_prozent": 100,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf geprüft; Hersteller nennt 29 $ als Preis nach dem 30.11.",
+   "gilt_bis": "30.11.2026",
+   "kurz": "Kostenlos für Mac und Windows, danach kostenpflichtig.",
+   "quelle": "Loop Kitchen, Herstellerseite",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/711b746aa6.webp",
+   "neu_seit": "2026-11-27T12:00",
+   "stufe": "ueber-50"
+  },
+  {
+   "titel": "GForce Axxess (Software-Synthesizer) gratis",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gratis & zu verschenken",
+   "unterkategorie": "Gratis-Spiele & Apps",
+   "shop": "GForce Software",
+   "link": "https://gforcesoftware.com/product/axxess",
+   "preis_jetzt": 0.0,
+   "preis_vorher": 69.0,
+   "rabatt_prozent": 100,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf geprüft; 69 £ laut Loop Kitchen, Shop zeigt nur 0,00 €",
+   "gilt_bis": "01.12.2026 laut Loop Kitchen",
+   "kurz": "Synthesizer-Plugin ohne Abo für 0 € im Herstellershop.",
+   "quelle": "Loop Kitchen, Herstellerseite",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/745e0e9b38.webp",
+   "neu_seit": "2026-11-27T12:00",
+   "stufe": "ueber-50"
+  },
+  {
+   "titel": "VDI-Mitgliedschaft 6 Monate beitragsfrei (nur Neumitglieder)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gratis & zu verschenken",
+   "unterkategorie": "Gratis-Abos & Gutscheine",
+   "shop": "VDI",
+   "link": "https://dealdoktor.de/user-deals/vdi-black-friday-6-monate-mitgliedschaft-beitragsfrei",
+   "preis_jetzt": 0.0,
+   "preis_vorher": 74.0,
+   "rabatt_prozent": 100,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - Beitragsaktion; Jahresbeitrag 148 € laut DealDoktor (Studierende und Berufseinsteiger zahlen weniger)",
+   "gilt_bis": "31.12.2026 laut DealDoktor, kann früher enden",
+   "kurz": "Halbes Jahr ohne Beitrag, verlängert sich aber automatisch kostenpflichtig, wenn nicht fristgerecht gekündigt wird.",
+   "quelle": "DealDoktor",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/10b4b4d142.webp",
+   "neu_seit": "2026-11-27T12:00",
+   "stufe": "ueber-50"
+  },
   {
    "titel": "Bread and Fred (Koop-Plattformer, PC)",
    "kategorie": "Sonstiges",
@@ -1198,7 +1282,7 @@
    "quelle": "mein-deal.com",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/42afdcb3cd.webp",
    "neu_seit": "2026-11-27T12:49",
    "stufe": "ueber-50"
   },
@@ -2122,7 +2206,7 @@
    "quelle": "https://www.dealgott.de/category/spielzeug-baby/",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/72e2e0ba34.webp",
    "neu_seit": "2026-11-27T12:49",
    "stufe": "ueber-50"
   },
@@ -2185,7 +2269,7 @@
    "quelle": "Tchibo Sale Wohnen & Garten",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/fcfb1df92e.webp",
    "neu_seit": "2026-11-27T12:53",
    "stufe": "25-50"
   },
@@ -2311,7 +2395,7 @@
    "quelle": "Rösle Black Deals",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/f5e060b7e1.webp",
    "neu_seit": "2026-11-27T12:53",
    "stufe": "25-50"
   },
@@ -2542,7 +2626,7 @@
    "quelle": "mydealz.de, mein-deal.com",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/64e7cc847b.webp",
    "neu_seit": "2026-11-27T12:49",
    "stufe": "25-50"
   },
@@ -3090,6 +3174,27 @@
    "preis_geprueft": "2026-11-27T13:55",
    "bild": "",
    "neu_seit": "2026-11-27T09:59",
+   "stufe": "25-50"
+  },
+  {
+   "titel": "Biosphärenhotel Graf Eberhard Bad Urach, 1 Nacht für 2 mit Frühstück und AlbThermen",
+   "kategorie": "Sonstiges",
+   "abteilung": "Reisen",
+   "unterkategorie": "Urlaub & Hotel",
+   "shop": "Travelcircus",
+   "link": "https://travelcircus.de/biosphaerenhotel-graf-eberhard",
+   "preis_jetzt": 89.0,
+   "preis_vorher": 154.0,
+   "rabatt_prozent": 42,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf; travel-dealz (16.11.) nennt 154 € bei Direktbuchung für 02.–03.12.",
+   "gilt_bis": "01.12.2026",
+   "kurz": "Ab 44,50 € pro Person plus Kurtaxe, inklusive 5 Stunden Therme (ohne Saunawelt).",
+   "quelle": "travel-dealz, Travelcircus Black Week",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/39c574892e.webp",
+   "neu_seit": "2026-11-27T12:00",
    "stufe": "25-50"
   },
   {
@@ -3886,7 +3991,7 @@
    "quelle": "Rösle Black Deals",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/5c4ecc3dec.webp",
    "neu_seit": "2026-11-27T12:53",
    "stufe": "25-50"
   },
@@ -3907,7 +4012,7 @@
    "quelle": "Rösle Black Deals",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/e72d9df416.webp",
    "neu_seit": "2026-11-27T12:53",
    "stufe": "25-50"
   },
@@ -4075,7 +4180,7 @@
    "quelle": "mein-deal.com",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/fc6508bb7f.webp",
    "neu_seit": "2026-11-27T12:49",
    "stufe": "25-50"
   },
@@ -4348,7 +4453,7 @@
    "quelle": "Tchibo Sale Wohnen & Garten",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/f30b025561.webp",
    "neu_seit": "2026-11-27T12:53",
    "stufe": "25-50"
   },
@@ -4369,7 +4474,7 @@
    "quelle": "Tchibo Sale Wohnen & Garten",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/a74c505422.webp",
    "neu_seit": "2026-11-27T12:53",
    "stufe": "25-50"
   },
@@ -4642,7 +4747,7 @@
    "quelle": "https://www.dealgott.de/category/spielzeug-baby/page/2/",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/c00e0c8149.webp",
    "neu_seit": "2026-11-27T12:49",
    "stufe": "25-50"
   },
@@ -5713,7 +5818,7 @@
    "quelle": "https://www.dealgott.de/category/musik-dvd-games/dvd-blu-ray/",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/7230f32097.webp",
    "neu_seit": "2026-11-27T12:49",
    "stufe": "25-50"
   },
@@ -6070,7 +6175,7 @@
    "quelle": "Rösle Black Deals",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/ebdb16b418.webp",
    "neu_seit": "2026-11-27T12:53",
    "stufe": "25-50"
   },
@@ -6175,7 +6280,7 @@
    "quelle": "https://www.brickmerge.de/10448",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/3fcde6aa37.webp",
    "neu_seit": "2026-11-27T12:49",
    "stufe": "25-50"
   },
@@ -6196,7 +6301,7 @@
    "quelle": "https://www.dealgott.de/category/spielzeug-baby/page/2/",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/591f41f5dd.webp",
    "neu_seit": "2026-11-27T12:49",
    "stufe": "25-50"
   },
@@ -6240,6 +6345,27 @@
    "preis_geprueft": "2026-11-27T13:55",
    "bild": "",
    "neu_seit": "2026-11-27T11:59",
+   "stufe": "25-50"
+  },
+  {
+   "titel": "Hilton Heidelberg, 2 Nächte für 2 mit Frühstück und Late Check-out",
+   "kategorie": "Sonstiges",
+   "abteilung": "Reisen",
+   "unterkategorie": "Urlaub & Hotel",
+   "shop": "Travelcircus",
+   "link": "https://travelcircus.de/hilton-heidelberg",
+   "preis_jetzt": 218.0,
+   "preis_vorher": 331.0,
+   "rabatt_prozent": 34,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf; travel-dealz (15.11.) nennt rund 331 € bei Direktbuchung für 16.–18.01.2027",
+   "gilt_bis": "01.12.2026",
+   "kurz": "Ab 109 € pro Person für zwei Nächte plus City-Tax in einem 4-Sterne-Haus.",
+   "quelle": "travel-dealz, Travelcircus Black Week",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/4f88d264c4.webp",
+   "neu_seit": "2026-11-27T12:00",
    "stufe": "25-50"
   },
   {
@@ -6931,7 +7057,7 @@
    "quelle": "Tchibo Sale Wohnen & Garten",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/02e2a2a31d.webp",
    "neu_seit": "2026-11-27T12:53",
    "stufe": "25-50"
   },
@@ -6952,7 +7078,7 @@
    "quelle": "Tchibo Sale Wohnen & Garten",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/9257c86ab0.webp",
    "neu_seit": "2026-11-27T12:53",
    "stufe": "25-50"
   },
@@ -6973,7 +7099,7 @@
    "quelle": "Tchibo Sale Wohnen & Garten",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/cadb3a8cfd.webp",
    "neu_seit": "2026-11-27T12:53",
    "stufe": "25-50"
   },
@@ -7671,6 +7797,27 @@
    "stufe": "25-50"
   },
   {
+   "titel": "Victor's Residenz-Hotel Teistungenburg (Harz), 1 Nacht für 2 mit Halbpension",
+   "kategorie": "Sonstiges",
+   "abteilung": "Reisen",
+   "unterkategorie": "Urlaub & Hotel",
+   "shop": "Travelcircus",
+   "link": "https://travelcircus.de/victors-residenz-hotel-teistungenburg",
+   "preis_jetzt": 138.0,
+   "preis_vorher": 202.0,
+   "rabatt_prozent": 32,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf; travel-dealz nennt mindestens 202 € bei Direktbuchung (06.–07.12.)",
+   "gilt_bis": "01.12.2026",
+   "kurz": "Ab 69 € pro Person mit zwei Buffets, Pools, Sauna und Museumseintritt.",
+   "quelle": "travel-dealz, Travelcircus Black Week",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/cf54e6cdf8.webp",
+   "neu_seit": "2026-11-27T12:00",
+   "stufe": "25-50"
+  },
+  {
    "titel": "Pergola",
    "kategorie": "Sonstiges",
    "abteilung": "Freizeit & Spielzeug",
@@ -7792,7 +7939,7 @@
    "quelle": "Tchibo Sale Wohnen & Garten",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/29a6106189.webp",
    "neu_seit": "2026-11-27T12:53",
    "stufe": "25-50"
   },
@@ -7960,7 +8107,7 @@
    "quelle": "DealDoktor",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/7822eb880d.webp",
    "neu_seit": "2026-11-27T12:49",
    "stufe": "25-50"
   },
@@ -8023,7 +8170,7 @@
    "quelle": "https://www.dealgott.de/category/spielzeug-baby/page/2/",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/973c4737f3.webp",
    "neu_seit": "2026-11-27T12:49",
    "stufe": "25-50"
   },
@@ -8338,7 +8485,7 @@
    "quelle": "Tchibo Sale Wohnen & Garten",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/a42464e34e.webp",
    "neu_seit": "2026-11-27T12:53",
    "stufe": "25-50"
   },
@@ -8359,7 +8506,7 @@
    "quelle": "Tchibo Sale Wohnen & Garten",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/e24ddf0f31.webp",
    "neu_seit": "2026-11-27T12:53",
    "stufe": "25-50"
   },
@@ -8380,7 +8527,7 @@
    "quelle": "Tchibo Sale Wohnen & Garten",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/7136729438.webp",
    "neu_seit": "2026-11-27T12:53",
    "stufe": "25-50"
   },
@@ -8611,7 +8758,7 @@
    "quelle": "https://www.dealgott.de/category/spielzeug-baby/page/2/",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/bd160a0e56.webp",
    "neu_seit": "2026-11-27T12:49",
    "stufe": "25-50"
   },
@@ -8991,6 +9138,27 @@
    "preis_geprueft": "2026-11-27T13:55",
    "bild": "bilder/450e5261a2.webp",
    "neu_seit": "2026-11-27T11:59",
+   "stufe": "25-50"
+  },
+  {
+   "titel": "Hotel Hoeri am Bodensee, 2 Nächte für 2 mit Frühstück, 4-Gang-Menü am Anreisetag und Wellness",
+   "kategorie": "Sonstiges",
+   "abteilung": "Reisen",
+   "unterkategorie": "Urlaub & Hotel",
+   "shop": "Travelcircus",
+   "link": "https://travelcircus.de/hotel-hoeri",
+   "preis_jetzt": 318.0,
+   "preis_vorher": 457.2,
+   "rabatt_prozent": 30,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf; laut mydealz kosten die Einzelleistungen regulär 457,20 €, t-online (21.10.) nennt 468 € auf der Hotel-Website",
+   "gilt_bis": "01.12.2026",
+   "kurz": "Ab 159 € pro Person plus Kurtaxe, inklusive Menü sowie Kaffee und Kuchen.",
+   "quelle": "mydealz, t-online, Travelcircus Black Week",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/ba1f73f76e.webp",
+   "neu_seit": "2026-11-27T12:00",
    "stufe": "25-50"
   },
   {
@@ -9703,7 +9871,7 @@
    "quelle": "https://www.dealgott.de/category/spielzeug-baby/",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/a52071731a.webp",
    "neu_seit": "2026-11-27T12:49",
    "stufe": "25-50"
   },
@@ -9724,7 +9892,7 @@
    "quelle": "Tchibo Sale Wohnen & Garten",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/15cd405f00.webp",
    "neu_seit": "2026-11-27T12:53",
    "stufe": "25-50"
   },
@@ -10333,7 +10501,7 @@
    "quelle": "Tchibo Sale Wohnen & Garten",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/03f0d8767a.webp",
    "neu_seit": "2026-11-27T12:53",
    "stufe": "25-50"
   },
@@ -10921,7 +11089,7 @@
    "quelle": "https://www.dealgott.de/category/musik-dvd-games/dvd-blu-ray/",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/7497bda340.webp",
    "neu_seit": "2026-11-27T12:49",
    "stufe": "25-50"
   },
@@ -10942,7 +11110,7 @@
    "quelle": "https://www.dealgott.de/category/spielzeug-baby/page/3/",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/180b769f9e.webp",
    "neu_seit": "2026-11-27T12:49",
    "stufe": "25-50"
   },
@@ -11719,7 +11887,7 @@
    "quelle": "https://www.dealdoktor.de/user-deals/spicy-lustiges-bluff-kartenspiel-fuer-1139-e-bei-amazon-rund-28-guenstiger-als-bei-",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/fdc1fc421e.webp",
    "neu_seit": "2026-11-27T12:49",
    "stufe": "25-50"
   },
@@ -11740,7 +11908,7 @@
    "quelle": "https://www.dealgott.de/category/spielzeug-baby/",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/c29e4aa501.webp",
    "neu_seit": "2026-11-27T12:49",
    "stufe": "25-50"
   },
@@ -12160,7 +12328,7 @@
    "quelle": "Tchibo Sale Wohnen & Garten",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/23a42f3855.webp",
    "neu_seit": "2026-11-27T12:53",
    "stufe": "25-50"
   },
@@ -12349,7 +12517,7 @@
    "quelle": "mein-deal.com",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/0f553b13f0.webp",
    "neu_seit": "2026-11-27T12:49",
    "stufe": "25-50"
   },
@@ -12559,7 +12727,7 @@
    "quelle": "https://www.dealgott.de/category/musik-dvd-games/dvd-blu-ray/",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/7167442883.webp",
    "neu_seit": "2026-11-27T12:49",
    "stufe": "25-50"
   },
@@ -12580,7 +12748,7 @@
    "quelle": "https://www.dealgott.de/category/spielzeug-baby/",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/92f6b3a850.webp",
    "neu_seit": "2026-11-27T12:49",
    "stufe": "25-50"
   },
@@ -12601,7 +12769,7 @@
    "quelle": "https://www.dealgott.de/category/spielzeug-baby/",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/0b1feb888c.webp",
    "neu_seit": "2026-11-27T12:49",
    "stufe": "25-50"
   },
@@ -12622,7 +12790,7 @@
    "quelle": "https://www.dealgott.de/category/spielzeug-baby/",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/9148da977d.webp",
    "neu_seit": "2026-11-27T12:49",
    "stufe": "25-50"
   },
@@ -12643,7 +12811,7 @@
    "quelle": "https://www.dealgott.de/category/spielzeug-baby/",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/afcc1e93b9.webp",
    "neu_seit": "2026-11-27T12:49",
    "stufe": "25-50"
   },
@@ -12897,6 +13065,27 @@
    "preis_geprueft": "2026-11-27T13:55",
    "bild": "bilder/d90e7d7c54.webp",
    "neu_seit": "2026-11-27T11:59",
+   "stufe": "25-50"
+  },
+  {
+   "titel": "Radisson Hotel & Suites Amsterdam South, 1 Nacht für 2 mit Frühstück",
+   "kategorie": "Sonstiges",
+   "abteilung": "Reisen",
+   "unterkategorie": "Urlaub & Hotel",
+   "shop": "Travelcircus",
+   "link": "https://travelcircus.de/radisson-amsterdam-south",
+   "preis_jetzt": 98.0,
+   "preis_vorher": 133.0,
+   "rabatt_prozent": 26,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf; Urlaubspiraten nennt mindestens 133 € bei anderen Anbietern (Beispiel 28.12.)",
+   "gilt_bis": "01.12.2026",
+   "kurz": "Ab 49 € pro Person mit Küchenzeile und Parkplatz nach Verfügbarkeit, City-Tax kommt vor Ort hinzu.",
+   "quelle": "Urlaubspiraten, Travelcircus Black Week",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/e9cb92e829.webp",
+   "neu_seit": "2026-11-27T12:00",
    "stufe": "25-50"
   },
   {
@@ -13273,7 +13462,7 @@
    "quelle": "https://www.dealgott.de/category/musik-dvd-games/dvd-blu-ray/",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/2d2752bb3c.webp",
    "neu_seit": "2026-11-27T12:49",
    "stufe": "25-50"
   },
@@ -13294,7 +13483,7 @@
    "quelle": "https://www.dealgott.de/category/spielzeug-baby/",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/e5f4232dda.webp",
    "neu_seit": "2026-11-27T12:49",
    "stufe": "25-50"
   },
@@ -13315,7 +13504,7 @@
    "quelle": "https://www.dealgott.de/category/spielzeug-baby/page/2/",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/9e0bc2a89a.webp",
    "neu_seit": "2026-11-27T12:49",
    "stufe": "25-50"
   },
@@ -14076,6 +14265,27 @@
    "stufe": "25-50"
   },
   {
+   "titel": "Interrail Italien-Pass Jugend, 6 Reisetage in 1 Monat",
+   "kategorie": "Sonstiges",
+   "abteilung": "Reisen",
+   "unterkategorie": "Bahn & Bus",
+   "shop": "Interrail",
+   "link": "https://vr.fi/en/train-tickets/interrail",
+   "preis_jetzt": 138.0,
+   "preis_vorher": 184.0,
+   "rabatt_prozent": 25,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - Preise laut vr.fi, kein Preisverlauf; vor dem Kauf auf interrail.com gegenprüfen",
+   "gilt_bis": "14.12.2026",
+   "kurz": "Länderpass für Italien in der Aktion 46 € günstiger.",
+   "quelle": "vr.fi",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "",
+   "neu_seit": "2026-11-27T12:00",
+   "stufe": "25-50"
+  },
+  {
    "titel": "Alan Wake 2 Deluxe Edition (PS5, Download)",
    "kategorie": "Sonstiges",
    "abteilung": "Gaming",
@@ -14176,7 +14386,7 @@
    "quelle": "Tchibo Sale Wohnen & Garten",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/781e74d677.webp",
    "neu_seit": "2026-11-27T12:53",
    "stufe": "25-50"
   },
@@ -14197,7 +14407,7 @@
    "quelle": "Tchibo Sale Wohnen & Garten",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/dacce31e89.webp",
    "neu_seit": "2026-11-27T12:53",
    "stufe": "25-50"
   },
@@ -14827,7 +15037,7 @@
    "quelle": "https://www.brickmerge.de/76339",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/38be0d05ba.webp",
    "neu_seit": "2026-11-27T12:49",
    "stufe": "25-50"
   },
@@ -14848,7 +15058,7 @@
    "quelle": "https://www.dealgott.de/category/spielzeug-baby/",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/30200fcbc2.webp",
    "neu_seit": "2026-11-27T12:49",
    "stufe": "25-50"
   },
@@ -14869,7 +15079,7 @@
    "quelle": "https://www.dealgott.de/category/spielzeug-baby/page/2/",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/0357ff07c3.webp",
    "neu_seit": "2026-11-27T12:49",
    "stufe": "25-50"
   },
@@ -15562,7 +15772,7 @@
    "quelle": "Tchibo Sale Wohnen & Garten",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/28f730b235.webp",
    "neu_seit": "2026-11-27T12:53",
    "stufe": "15-25"
   },
@@ -15583,7 +15793,7 @@
    "quelle": "Tchibo Sale Wohnen & Garten",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/d65b8a8a06.webp",
    "neu_seit": "2026-11-27T12:53",
    "stufe": "15-25"
   },
@@ -15604,7 +15814,7 @@
    "quelle": "Rösle Black Deals, Check24, Deal-Portale",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/ad4a40e57a.webp",
    "neu_seit": "2026-11-27T12:53",
    "stufe": "15-25"
   },
@@ -15919,7 +16129,7 @@
    "quelle": "mein-deal.com",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/d5db909506.webp",
    "neu_seit": "2026-11-27T12:49",
    "stufe": "15-25"
   },
@@ -16129,7 +16339,7 @@
    "quelle": "https://www.brickmerge.de/76447",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/6cf6623456.webp",
    "neu_seit": "2026-11-27T12:49",
    "stufe": "15-25"
   },
@@ -16150,7 +16360,7 @@
    "quelle": "https://www.dealgott.de/category/spielzeug-baby/page/2/",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/b69c30a6e1.webp",
    "neu_seit": "2026-11-27T12:49",
    "stufe": "15-25"
   },
@@ -16717,7 +16927,7 @@
    "quelle": "Tchibo Sale Wohnen & Garten",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/77f4e65722.webp",
    "neu_seit": "2026-11-27T12:53",
    "stufe": "15-25"
   },
@@ -16990,7 +17200,7 @@
    "quelle": "mein-deal.com",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/ec01596ea7.webp",
    "neu_seit": "2026-11-27T12:49",
    "stufe": "15-25"
   },
@@ -17305,7 +17515,7 @@
    "quelle": "https://www.dealgott.de/category/spielzeug-baby/",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/f208154d78.webp",
    "neu_seit": "2026-11-27T12:49",
    "stufe": "15-25"
   },
@@ -17326,7 +17536,7 @@
    "quelle": "https://www.dealgott.de/category/spielzeug-baby/page/2/",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/d0f9c27c48.webp",
    "neu_seit": "2026-11-27T12:49",
    "stufe": "15-25"
   },
@@ -17347,7 +17557,7 @@
    "quelle": "https://www.dealgott.de/category/spielzeug-baby/page/2/",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/0be14281c5.webp",
    "neu_seit": "2026-11-27T12:49",
    "stufe": "15-25"
   },
@@ -18859,7 +19069,7 @@
    "quelle": "mein-deal.com",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/45896e0111.webp",
    "neu_seit": "2026-11-27T12:49",
    "stufe": "15-25"
   },
@@ -19279,7 +19489,7 @@
    "quelle": "https://www.dealgott.de/category/spielzeug-baby/page/2/",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/5948896380.webp",
    "neu_seit": "2026-11-27T12:49",
    "stufe": "15-25"
   },
@@ -20040,6 +20250,27 @@
    "stufe": "15-25"
   },
   {
+   "titel": "Spa Resort Geinberg (Österreich), 1 Nacht für 2 mit Halbpension, Therme und Sauna",
+   "kategorie": "Sonstiges",
+   "abteilung": "Reisen",
+   "unterkategorie": "Urlaub & Hotel",
+   "shop": "Travelcircus",
+   "link": "https://travelcircus.de/spa-resort-geinberg",
+   "preis_jetzt": 258.0,
+   "preis_vorher": 324.0,
+   "rabatt_prozent": 20,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf; Vergleich laut mydealz, Urlaubspiraten nennt bei anderen Portalen mindestens 193,50 € p. P. (Beispiel Ende März)",
+   "gilt_bis": "01.12.2026",
+   "kurz": "Ab 129 € pro Person plus City-Tax inklusive Abendessen; Innen- und Außenbecken sind laut Angebotsseite ausgenommen.",
+   "quelle": "mydealz, Urlaubspiraten, Travelcircus Black Week",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/1e1c563df3.webp",
+   "neu_seit": "2026-11-27T12:00",
+   "stufe": "15-25"
+  },
+  {
    "titel": "Krups Authentic XP381B Siebträgermaschine",
    "kategorie": "Sonstiges",
    "abteilung": "Haushalt & Küche",
@@ -20266,7 +20497,7 @@
    "quelle": "Tchibo Sale Wohnen & Garten",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/5fab4f751e.webp",
    "neu_seit": "2026-11-27T12:53",
    "stufe": "15-25"
   },
@@ -21232,7 +21463,7 @@
    "quelle": "https://www.dealgott.de/category/musik-dvd-games/dvd-blu-ray/",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/da2bf4ee8b.webp",
    "neu_seit": "2026-11-27T12:49",
    "stufe": "15-25"
   },
@@ -21253,7 +21484,7 @@
    "quelle": "https://www.monsterdealz.de/medien-streaming/medien-blurays-dvds-mp3s",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/c0c0823d98.webp",
    "neu_seit": "2026-11-27T12:49",
    "stufe": "15-25"
   },
@@ -21274,7 +21505,7 @@
    "quelle": "Tchibo Sale Wohnen & Garten",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/d5ee8ab3d2.webp",
    "neu_seit": "2026-11-27T12:53",
    "stufe": "15-25"
   },
@@ -21820,7 +22051,7 @@
    "quelle": "Tchibo Sale Wohnen & Garten",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/f897a17334.webp",
    "neu_seit": "2026-11-27T12:53",
    "stufe": "15-25"
   },
@@ -22261,7 +22492,7 @@
    "quelle": "https://www.dealgott.de/category/musik-dvd-games/dvd-blu-ray/",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/7af7e65828.webp",
    "neu_seit": "2026-11-27T12:49",
    "stufe": "15-25"
   },
@@ -23080,7 +23311,7 @@
    "quelle": "Tchibo Sale Wohnen & Garten",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/eba2517736.webp",
    "neu_seit": "2026-11-27T12:53",
    "stufe": "15-25"
   },
@@ -23901,6 +24132,48 @@
    "preis_geprueft": "2026-11-27T13:55",
    "bild": "bilder/5863a822b6.webp",
    "neu_seit": "2026-11-27T11:59",
+   "stufe": "15-25"
+  },
+  {
+   "titel": "De Bonte Wever (Niederlande), 2 Nächte für 2 All-inclusive mit Badewelt",
+   "kategorie": "Sonstiges",
+   "abteilung": "Reisen",
+   "unterkategorie": "Urlaub & Hotel",
+   "shop": "Travelcircus",
+   "link": "https://travelcircus.de/de-bonte-wever",
+   "preis_jetzt": 298.0,
+   "preis_vorher": 358.0,
+   "rabatt_prozent": 17,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf; Urlaubspiraten nennt 358 € auf der Hotel-Website (Anreise 10.01.)",
+   "gilt_bis": "01.12.2026",
+   "kurz": "Ab 149 € pro Person inklusive Essen, Getränken und Bowling, City-Tax kommt vor Ort hinzu.",
+   "quelle": "Urlaubspiraten, Travelcircus Black Week",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/e8e5fdbec4.webp",
+   "neu_seit": "2026-11-27T12:00",
+   "stufe": "15-25"
+  },
+  {
+   "titel": "Essense Baltic Resort & Spa (polnische Ostsee), 1 Nacht für 2 mit Frühstück und Wellness",
+   "kategorie": "Sonstiges",
+   "abteilung": "Reisen",
+   "unterkategorie": "Urlaub & Hotel",
+   "shop": "Travelcircus",
+   "link": "https://travelcircus.de/essense-resort",
+   "preis_jetzt": 80.0,
+   "preis_vorher": 96.4,
+   "rabatt_prozent": 17,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf; Vergleich laut mydealz, Urlaubspiraten nennt 122 € bei Booking (Genius); Trivago zeigte für einen anderen Termin auch 71 € (Leistungen unklar)",
+   "gilt_bis": "01.12.2026",
+   "kurz": "Rund 40 € pro Person mit Frühstück und Wasserwelt; der Vorteil hängt stark vom Termin ab.",
+   "quelle": "mydealz, Urlaubspiraten, Travelcircus Black Week",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/cddac41508.webp",
+   "neu_seit": "2026-11-27T12:00",
    "stufe": "15-25"
   },
   {
@@ -25012,7 +25285,7 @@
    "quelle": "https://www.fahrrad.de/",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:55",
-   "bild": "",
+   "bild": "bilder/5829c9f866.webp",
    "neu_seit": "2026-11-27T12:54",
    "stufe": "15-25"
   },
@@ -25329,6 +25602,27 @@
    "preis_geprueft": "2026-11-27T13:07",
    "bild": "",
    "neu_seit": "2026-11-27T12:43",
+   "stufe": "15-25"
+  },
+  {
+   "titel": "Call of Duty: Modern Warfare 4 Steelbook (PS5), Abholpreis",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gaming",
+   "unterkategorie": "PlayStation",
+   "shop": "MediaMarkt",
+   "link": "https://mydealz.de/deals/call-of-duty-modern-warfare-4-steelbook-edition-playstation-5-2881893",
+   "preis_jetzt": 54.98,
+   "preis_vorher": 64.94,
+   "rabatt_prozent": 15,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - Vergleichspreis laut mydealz; Shopseite nicht geprüft",
+   "gilt_bis": "unbekannt",
+   "kurz": "Bei Abholung im Markt rund 15 € günstiger; mit Versand kommen 4,99 € dazu.",
+   "quelle": "mydealz",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/f7c6a35ef1.webp",
+   "neu_seit": "2026-11-27T08:39",
    "stufe": "15-25"
   },
   {
@@ -26209,7 +26503,7 @@
    "quelle": "https://www.dealgott.de/category/spielzeug-baby/page/3/",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/650c6022ab.webp",
    "neu_seit": "2026-11-27T12:49",
    "stufe": "15-25"
   },
@@ -26230,12 +26524,306 @@
    "quelle": "Tchibo Sale Kaffee",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T13:07",
-   "bild": "",
+   "bild": "bilder/72aa91cac2.webp",
    "neu_seit": "2026-11-27T12:53",
    "stufe": "15-25"
   }
  ],
  "alle": [
+  {
+   "titel": "Jugend BahnCard 25 (6 bis 18 Jahre, 1 Jahr)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gratis & zu verschenken",
+   "unterkategorie": "Gratis-Abos & Gutscheine",
+   "shop": "Deutsche Bahn",
+   "link": "https://bahn.de/angebot/bahncard/bahncard25/jugendbahncard25",
+   "preis_jetzt": 0.0,
+   "preis_vorher": 7.9,
+   "rabatt_prozent": 100,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - bahn.de nennt 7,90 € Regulärpreis und aktuell 0 €",
+   "gilt_bis": "12.12.2026",
+   "kurz": "25 % auf Flex- und Sparpreise, läuft automatisch aus; Bestellung braucht ein eigenes DB-Konto des Kindes.",
+   "quelle": "Finanztip, mydealz",
+   "aktion": "",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/c5b01d2ac4.webp",
+   "neu_seit": "2026-11-27T08:50",
+   "stufe": "ueber-50"
+  },
+  {
+   "titel": "fedDSP KAMI (Gitarren-Kompressor-Plugin) gratis",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gratis & zu verschenken",
+   "unterkategorie": "Gratis-Spiele & Apps",
+   "shop": "fedDSP",
+   "link": "https://feddsp.com/products/kami",
+   "preis_jetzt": 0.0,
+   "preis_vorher": 39.0,
+   "rabatt_prozent": 100,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - Einführungsaktion ohne Preisverlauf; 39 $ regulär laut Hersteller",
+   "gilt_bis": "02.12.2026",
+   "kurz": "Dauerlizenz zur Markteinführung kostenlos, inklusive Updates.",
+   "quelle": "Loop Kitchen, Herstellerseite",
+   "aktion": "",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/40cdfb83d4.webp",
+   "neu_seit": "2026-11-27T12:00",
+   "stufe": "ueber-50"
+  },
+  {
+   "titel": "yfood Drink gratis testen (bis 3,99 € zurück)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gratis & zu verschenken",
+   "unterkategorie": "Gratisproben & Freebies",
+   "shop": "yfood (Kauf im stationären Handel)",
+   "link": "http://yfood-gratis-testen.de/",
+   "preis_jetzt": 0.0,
+   "preis_vorher": 3.99,
+   "rabatt_prozent": 100,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - Geld-zurück-Aktion; erstattet werden maximal 3,99 €",
+   "gilt_bis": "24.12.2026",
+   "kurz": "Ein Drink pro Person gratis, Online-Käufe zählen nicht, begrenztes Tageskontingent.",
+   "quelle": "DealDoktor, Aktionsseite",
+   "aktion": "",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/2d47cd4ce9.webp",
+   "neu_seit": "2026-11-27T12:00",
+   "stufe": "ueber-50"
+  },
+  {
+   "titel": "Zewa Wisch&Weg Smart (2 Rollen) gratis testen",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gratis & zu verschenken",
+   "unterkategorie": "Gratisproben & Freebies",
+   "shop": "Zewa (Kauf im Handel)",
+   "link": "https://zewa.net/de/gewinnspiele/zewa-ww-smart-cashback-2026/teilnahmebedingungen",
+   "preis_jetzt": 0.0,
+   "preis_vorher": null,
+   "rabatt_prozent": 100,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - Geld-zurück-Aktion; 100 % des gezahlten Preises",
+   "gilt_bis": "31.12.2026",
+   "kurz": "Küchenrolle mit „gratis testen“-Aufkleber, einmal pro Haushalt, Wochenkontingente.",
+   "quelle": "DealDoktor, Teilnahmebedingungen",
+   "aktion": "",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/be16acbbea.webp",
+   "neu_seit": "2026-11-27T12:00",
+   "stufe": "ueber-50"
+  },
+  {
+   "titel": "SimplyV vegane Käsescheiben gratis testen",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gratis & zu verschenken",
+   "unterkategorie": "Gratisproben & Freebies",
+   "shop": "SimplyV (Kauf im Handel)",
+   "link": "https://dealdoktor.de/user-deals/simplyv-scheiben-geld-zurueck-aktion-auf-5-sorten",
+   "preis_jetzt": 0.0,
+   "preis_vorher": 1.99,
+   "rabatt_prozent": 100,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - Geld-zurück-Aktion; 1,99 € ist eine Preisangabe aus den Kommentaren",
+   "gilt_bis": "30.11.2026",
+   "kurz": "Kaufpreis einer von fünf Sorten zurück, begrenztes Tageskontingent ab 7 Uhr.",
+   "quelle": "DealDoktor",
+   "aktion": "",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/da47575415.webp",
+   "neu_seit": "2026-11-27T12:00",
+   "stufe": "ueber-50"
+  },
+  {
+   "titel": "MyLove-MyLife vegane Produkte gratis testen (bis 3 Stück)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gratis & zu verschenken",
+   "unterkategorie": "Gratisproben & Freebies",
+   "shop": "BioMarkt, Knuspr",
+   "link": "https://dealdoktor.de/user-deals/gratis-testen-mylove-mylife-vegane-produkte-bis-zu-837-e-zurueck",
+   "preis_jetzt": 0.0,
+   "preis_vorher": 8.37,
+   "rabatt_prozent": 100,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - Geld-zurück-Aktion; 2,79 € Erstattung je Produkt",
+   "gilt_bis": "13.12.2026",
+   "kurz": "Drei verschiedene Produkte auf einem Bon werden erstattet, Einreichung per WhatsApp.",
+   "quelle": "DealDoktor, mygzg.de",
+   "aktion": "",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/f34e623523.webp",
+   "neu_seit": "2026-11-27T12:00",
+   "stufe": "ueber-50"
+  },
+  {
+   "titel": "Schwartau „the jam“ 220 g gratis testen",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gratis & zu verschenken",
+   "unterkategorie": "Gratisproben & Freebies",
+   "shop": "Schwartau (Kauf im Handel)",
+   "link": "https://dealdoktor.de/user-deals/schwartau-the-jam-gratis-testen",
+   "preis_jetzt": 0.0,
+   "preis_vorher": null,
+   "rabatt_prozent": 100,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - Geld-zurück-Aktion; Preis eines Glases wird erstattet",
+   "gilt_bis": "15.12.2026",
+   "kurz": "Ein Glas pro Person und IBAN gratis, begrenztes Tageskontingent.",
+   "quelle": "DealDoktor, mygzg.de",
+   "aktion": "",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/51eaa59372.webp",
+   "neu_seit": "2026-11-27T12:00",
+   "stufe": "ueber-50"
+  },
+  {
+   "titel": "Rockstar Energy Mocktails gratis testen (bis 3 Dosen)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gratis & zu verschenken",
+   "unterkategorie": "Gratisproben & Freebies",
+   "shop": "Rockstar (Kauf im Handel)",
+   "link": "https://dealdoktor.de/user-deals/rockstar-mocktails-aktion-119-e-cashback-fuer-bis-zu-3-dosen-sichern",
+   "preis_jetzt": 0.0,
+   "preis_vorher": 1.19,
+   "rabatt_prozent": 100,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - Geld-zurück-Aktion mit festen 1,19 € je Dose; bei höherem Ladenpreis nicht ganz kostenlos",
+   "gilt_bis": "28.02.2027",
+   "kurz": "Bis zu 3,57 € zurück über den Code unter der goldenen Lasche, ohne Kassenbon.",
+   "quelle": "DealDoktor",
+   "aktion": "",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/537590320e.webp",
+   "neu_seit": "2026-11-27T12:00",
+   "stufe": "ueber-50"
+  },
+  {
+   "titel": "TENA Produkt gratis testen",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gratis & zu verschenken",
+   "unterkategorie": "Gratisproben & Freebies",
+   "shop": "TENA (Kauf im Handel)",
+   "link": "https://dealdoktor.de/user-deals/tena-gratis-testen-geld-zurueck-auf-30-000-produkte-sichern",
+   "preis_jetzt": 0.0,
+   "preis_vorher": null,
+   "rabatt_prozent": 100,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - Geld-zurück-Aktion; genannte Aktionsadresse war nicht erreichbar, Bedingungen laut DealDoktor",
+   "gilt_bis": "15.12.2026 oder bis 30.000 Einlösungen",
+   "kurz": "Kaufpreis eines Produkts zurück, einmal pro Haushalt, nicht bei Amazon oder in Apotheken.",
+   "quelle": "DealDoktor",
+   "aktion": "",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/d842fdc40a.webp",
+   "neu_seit": "2026-11-27T12:00",
+   "stufe": "ueber-50"
+  },
+  {
+   "titel": "VoltaHeat oder VoltaCool gratis testen (dm)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gratis & zu verschenken",
+   "unterkategorie": "Gratisproben & Freebies",
+   "shop": "dm",
+   "link": "https://dealdoktor.de/user-deals/voltaheat-voltacool-gratis-testen-bis-zu-20-000-einloesungen-bei-dm",
+   "preis_jetzt": 0.0,
+   "preis_vorher": null,
+   "rabatt_prozent": 100,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - Geld-zurück-Aktion; Kaufpreis eines Produkts wird erstattet",
+   "gilt_bis": "30.11.2026",
+   "kurz": "Wärme- oder Kühlprodukt wird erstattet, Plätze sind laut Nutzern oft in Sekunden weg.",
+   "quelle": "DealDoktor",
+   "aktion": "",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/42ea3b104e.webp",
+   "neu_seit": "2026-11-27T12:00",
+   "stufe": "ueber-50"
+  },
+  {
+   "titel": "The Green Mountain Plant Cut (vegan) gratis testen",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gratis & zu verschenken",
+   "unterkategorie": "Gratisproben & Freebies",
+   "shop": "The Green Mountain (Kauf im Handel)",
+   "link": "https://thegreenmountain-probieren.de/",
+   "preis_jetzt": 0.0,
+   "preis_vorher": 5.0,
+   "rabatt_prozent": 100,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - Geld-zurück-Aktion; bis 5 € laut mygzg.de",
+   "gilt_bis": "28.02.2027 oder bis 20.000 Einlösungen",
+   "kurz": "Kaufpreis eines Produkts mit Aktionssticker zurück, einmal pro Person und IBAN.",
+   "quelle": "mygzg.de, Aktionsseite",
+   "aktion": "",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/17404d7485.webp",
+   "neu_seit": "2026-11-27T12:00",
+   "stufe": "ueber-50"
+  },
+  {
+   "titel": "Abrahams Toast-Lachs 100 g gratis testen",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gratis & zu verschenken",
+   "unterkategorie": "Gratisproben & Freebies",
+   "shop": "Abrahams (Kauf im Handel)",
+   "link": "https://kostenlos.de/toast-lachs-gratis-testen",
+   "preis_jetzt": 0.0,
+   "preis_vorher": null,
+   "rabatt_prozent": 100,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - Geld-zurück-Aktion; voller Kaufpreis einer Packung",
+   "gilt_bis": "solange Vorrat",
+   "kurz": "Packung mit Gratis-testen-Sticker, Upload innerhalb von sieben Tagen, einmal pro Haushalt.",
+   "quelle": "kostenlos.de, mygzg.de",
+   "aktion": "",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/adcf66c260.webp",
+   "neu_seit": "2026-11-27T12:00",
+   "stufe": "ueber-50"
+  },
+  {
+   "titel": "BookBeat 60 Tage gratis (nur Neukunden, Abo)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gratis & zu verschenken",
+   "unterkategorie": "Gratis-Abos & Gutscheine",
+   "shop": "BookBeat",
+   "link": "https://schnaeppchenfuchs.com/angebote/bookbeat-gratis",
+   "preis_jetzt": 0.0,
+   "preis_vorher": 19.98,
+   "rabatt_prozent": 100,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - Probeabo; Monatspreis laut Schnäppchenfuchs, enthaltener Tarif nicht genannt",
+   "gilt_bis": "unbekannt",
+   "kurz": "Zwei Monate Hörbücher mit Code 60tgratis; rechtzeitig kündigen, sonst wird es kostenpflichtig.",
+   "quelle": "Schnäppchenfuchs",
+   "aktion": "",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/1e4fe481a2.webp",
+   "neu_seit": "2026-11-27T12:00",
+   "stufe": "ueber-50"
+  },
+  {
+   "titel": "Nextory 60 statt 14 Tage gratis (nur Neukunden, Abo)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gratis & zu verschenken",
+   "unterkategorie": "Gratis-Abos & Gutscheine",
+   "shop": "Nextory",
+   "link": "https://schnaeppchenfuchs.com/angebote/nextory-hoerbuecher-e-books-kostenlos-testen",
+   "preis_jetzt": 0.0,
+   "preis_vorher": 9.99,
+   "rabatt_prozent": 100,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - Probeabo; üblich sind laut Schnäppchenfuchs 14 Testtage",
+   "gilt_bis": "unbekannt",
+   "kurz": "Deutlich längerer Testzeitraum für Hörbücher und E-Books; verlängert sich ohne Kündigung für 9,99 € im Monat.",
+   "quelle": "Schnäppchenfuchs",
+   "aktion": "",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/99817bafd6.webp",
+   "neu_seit": "2026-11-27T12:00",
+   "stufe": "ueber-50"
+  },
   {
    "titel": "Dunstabzugshaube (Karlsruhe, 76139)",
    "kategorie": "Sonstiges",
@@ -28841,6 +29429,27 @@
    "stufe": "25-50"
   },
   {
+   "titel": "Hotel Pulverer Bad Kleinkirchheim, Doppelzimmer mit Halbpension, pro Nacht",
+   "kategorie": "Sonstiges",
+   "abteilung": "Reisen",
+   "unterkategorie": "Urlaub & Hotel",
+   "shop": "Travelcircus",
+   "link": "https://travel-dealz.de/deal/hotel-pulverer-oesterreich-travelcircus",
+   "preis_jetzt": 198.0,
+   "preis_vorher": 348.0,
+   "rabatt_prozent": 43,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - Vergleich laut travel-dealz.de (Stand 13.11.): andere Anbieter 348 € laut Google Travel (7.-8.03.), jeweils zzgl. Kurtaxe",
+   "gilt_bis": "unbekannt (Reisen bis März 2027)",
+   "kurz": "Thermenhotel in Kärnten mit Halbpension deutlich unter anderen Anbietern.",
+   "quelle": "travel-dealz.de",
+   "aktion": "",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/d5f032757a.webp",
+   "neu_seit": "2026-11-27T12:00",
+   "stufe": "25-50"
+  },
+  {
    "titel": "New Balance 2000 Sneaker, schwarz (U20007KT)",
    "kategorie": "Sonstiges",
    "abteilung": "Mode",
@@ -29867,6 +30476,27 @@
    "preis_geprueft": "2026-11-27T13:55",
    "bild": "",
    "neu_seit": "2026-11-27T13:14",
+   "stufe": "15-25"
+  },
+  {
+   "titel": "Flix Guthabenkarte 20 € (nur in der Filiale, ab 30.11.)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Reisen",
+   "unterkategorie": "Bahn & Bus",
+   "shop": "Aldi Süd",
+   "link": "https://netzwelt.de/schnaeppchen/261295-flixbus-gerne-guenstig-reist-sollte-aldi-amazon-vorbeischauen.html",
+   "preis_jetzt": 17.0,
+   "preis_vorher": 20.0,
+   "rabatt_prozent": 15,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - Vergleich mit dem Kartenwert; laut netzwelt.de und bahndampf.de, auf der Aldi-Seite nicht gefunden",
+   "gilt_bis": "12.12.2026, solange Vorrat",
+   "kurz": "20 € Fahrtguthaben für 17 € an der Kasse.",
+   "quelle": "netzwelt.de, bahndampf.de",
+   "aktion": "",
+   "preis_geprueft": "2026-11-27T13:55",
+   "bild": "bilder/fce4c056d7.webp",
+   "neu_seit": "2026-11-27T12:00",
    "stufe": "15-25"
   },
   {
@@ -32310,28 +32940,6 @@
    "bild": "bilder/6fa325ec91.webp",
    "neu_seit": "2026-11-27T08:59",
    "stufe": "ueber-50",
-   "grund": "Preis nicht mehr bestätigt"
-  },
-  {
-   "titel": "Call of Duty: Modern Warfare 4 Steelbook (PS5), Abholpreis",
-   "kategorie": "Sonstiges",
-   "abteilung": "Gaming",
-   "unterkategorie": "PlayStation",
-   "shop": "MediaMarkt",
-   "link": "https://mydealz.de/deals/call-of-duty-modern-warfare-4-steelbook-edition-playstation-5-2881893",
-   "preis_jetzt": 54.98,
-   "preis_vorher": 64.94,
-   "rabatt_prozent": 15,
-   "preisverlauf_geprueft": false,
-   "beleg_preisverlauf": "nein - Vergleichspreis laut mydealz; Shopseite nicht geprüft",
-   "gilt_bis": "unbekannt",
-   "kurz": "Bei Abholung im Markt rund 15 € günstiger; mit Versand kommen 4,99 € dazu.",
-   "quelle": "mydealz",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T10:31",
-   "bild": "bilder/f7c6a35ef1.webp",
-   "neu_seit": "2026-11-27T08:39",
-   "stufe": "15-25",
    "grund": "Preis nicht mehr bestätigt"
   },
   {
@@ -36625,22 +37233,22 @@
    "grund": "Preis nicht mehr bestätigt"
   }
  ],
- "bisher_gezeigt": 1729,
+ "bisher_gezeigt": 1758,
  "stufen": [
   {
    "kurz": "15-25",
    "name": "15–25 %",
-   "anzahl": 573
+   "anzahl": 578
   },
   {
    "kurz": "25-50",
    "name": "25–50 %",
-   "anzahl": 627
+   "anzahl": 634
   },
   {
    "kurz": "ueber-50",
    "name": "über 50 %",
-   "anzahl": 223
+   "anzahl": 241
   }
  ],
  "abteilungen": [
@@ -36684,22 +37292,27 @@
   {
    "name": "Gratis & zu verschenken",
    "kurz": "gratis",
-   "anzahl": 97,
+   "anzahl": 115,
    "unter": [
     {
      "name": "Gratis-Spiele & Apps",
      "kurz": "gratis-spiele-apps",
-     "anzahl": 4
+     "anzahl": 8
     },
     {
      "name": "Gratisproben & Freebies",
      "kurz": "gratisproben-freebies",
-     "anzahl": 13
+     "anzahl": 23
     },
     {
      "name": "Zu verschenken",
      "kurz": "zu-verschenken",
      "anzahl": 80
+    },
+    {
+     "name": "Gratis-Abos & Gutscheine",
+     "kurz": "gratis-abos-gutscheine",
+     "anzahl": 4
     }
    ]
   },
@@ -36718,7 +37331,7 @@
   {
    "name": "Gaming",
    "kurz": "gaming",
-   "anzahl": 88,
+   "anzahl": 89,
    "unter": [
     {
      "name": "Gaming-Zubehör",
@@ -36728,7 +37341,7 @@
     {
      "name": "PlayStation",
      "kurz": "playstation",
-     "anzahl": 31
+     "anzahl": 32
     },
     {
      "name": "Xbox",
@@ -36898,6 +37511,23 @@
      "name": "Bücher & Filme",
      "kurz": "buecher-filme",
      "anzahl": 35
+    }
+   ]
+  },
+  {
+   "name": "Reisen",
+   "kurz": "reisen",
+   "anzahl": 11,
+   "unter": [
+    {
+     "name": "Bahn & Bus",
+     "kurz": "bahn-bus",
+     "anzahl": 2
+    },
+    {
+     "name": "Urlaub & Hotel",
+     "kurz": "urlaub-hotel",
+     "anzahl": 9
     }
    ]
   }
