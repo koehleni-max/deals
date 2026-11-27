@@ -1,31 +1,10 @@
 {
  "stand": "2026-11-27T09:06",
- "fingerabdruck": "7d7f52f26fe90fc9",
+ "fingerabdruck": "f7677ea7b6d9f7ca",
  "mindest": 15,
  "black_week": true,
  "preise_in_pruefung": false,
  "oben": [
-  {
-   "titel": "Sid Meier's Civilization VI (PC, Steam-Key)",
-   "kategorie": "Gaming – PC",
-   "abteilung": "Gaming",
-   "unterkategorie": "PC-Spiele",
-   "shop": "WinGameStore (Steam-Key); bei Steam selbst 5,99 €",
-   "link": "https://store.steampowered.com/app/289070",
-   "preis_jetzt": 2.09,
-   "preis_vorher": 59.99,
-   "rabatt_prozent": 96,
-   "preisverlauf_geprueft": false,
-   "beleg_preisverlauf": "https://gg.deals/de/game/sid-meiers-civilization-vi/",
-   "gilt_bis": "unbekannt",
-   "kurz": "Strategie-Klassiker für rund 2 €. Es war aber schon einmal gratis.",
-   "quelle": "",
-   "aktion": "",
-   "preis_geprueft": "2026-11-27T07:23",
-   "bild": "bilder/7e7ee96d11.webp",
-   "neu_seit": "2026-11-27T06:29",
-   "stufe": "ueber-50"
-  },
   {
    "titel": "Need for Speed Heat (PC)",
    "kategorie": "Gaming – EA/Steam",
@@ -1854,34 +1833,13 @@
    "bild": "bilder/44a4e36f95.webp",
    "neu_seit": "2026-11-27T08:59",
    "stufe": "ueber-50"
-  },
-  {
-   "titel": "Marvel's Wolverine (PlayStation 5, Joybuy mit Code)",
-   "kategorie": "Sonstiges",
-   "abteilung": "Gaming",
-   "unterkategorie": "PlayStation",
-   "shop": "Joybuy",
-   "link": "https://mydealz.de/deals/marvels-wolverine-ps5-action-adventure-joybuy-2882105",
-   "preis_jetzt": 39.99,
-   "preis_vorher": 50.85,
-   "rabatt_prozent": 21,
-   "preisverlauf_geprueft": false,
-   "beleg_preisverlauf": "nein - kein Preisverlauf abrufbar; Vergleich: PlayStation Direct 59,99 € (statt 79,99 €, mydealz 26.11.2026) und PS-Store-Digitalausgabe 69,29 € (PS-Store-Artikel 06.11.2026). Der Code muss eingelöst werden, und die Ausgabe (Disc oder Digital) ist im Deal nicht eindeutig.",
-   "gilt_bis": "unbekannt",
-   "kurz": "Neuer Spitzentitel, der bei Joybuy mit Code deutlich günstiger ist als bei PlayStation Direct.",
-   "quelle": "mydealz-Magazin Black-Friday-Übersicht Gaming (26.11.2026)",
-   "aktion": "leer",
-   "preis_geprueft": "2026-11-27T09:06",
-   "bild": "bilder/9cda7c1ae5.webp",
-   "neu_seit": "2026-11-27T08:59",
-   "stufe": "15-25"
   }
  ],
  "stufen": [
   {
    "kurz": "15-25",
    "name": "15–25 %",
-   "anzahl": 38
+   "anzahl": 37
   },
   {
    "kurz": "25-50",
@@ -1891,7 +1849,7 @@
   {
    "kurz": "ueber-50",
    "name": "über 50 %",
-   "anzahl": 28
+   "anzahl": 27
   }
  ],
  "abteilungen": [
@@ -1935,7 +1893,7 @@
   {
    "name": "Gaming",
    "kurz": "gaming",
-   "anzahl": 44,
+   "anzahl": 42,
    "unter": [
     {
      "name": "Gaming-Zubehör",
@@ -1945,7 +1903,7 @@
     {
      "name": "PlayStation",
      "kurz": "playstation",
-     "anzahl": 11
+     "anzahl": 10
     },
     {
      "name": "Nintendo Switch",
@@ -1955,7 +1913,7 @@
     {
      "name": "PC-Spiele",
      "kurz": "pc-spiele",
-     "anzahl": 21
+     "anzahl": 20
     }
    ]
   },
