@@ -1,6 +1,6 @@
 {
  "stand": "2026-11-27T10:10",
- "fingerabdruck": "c04da7e86417cd4f",
+ "fingerabdruck": "e37486839708112d",
  "mindest": 15,
  "black_week": true,
  "preise_in_pruefung": false,
@@ -4348,7 +4348,7 @@
    "quelle": "mydealz",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T10:10",
-   "bild": "",
+   "bild": "bilder/609d5947ca.webp",
    "neu_seit": "2026-11-27T08:50",
    "stufe": "25-50"
   },
