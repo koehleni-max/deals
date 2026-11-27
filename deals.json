@@ -1,50 +1,10 @@
 {
  "stand": "2026-11-27T08:01",
- "fingerabdruck": "540b9c5b3ffceb52",
+ "fingerabdruck": "c8d77b3519e475a1",
  "mindest": 50,
  "black_week": true,
  "preise_in_pruefung": false,
  "oben": [
-  {
-   "titel": "EDITED Kleid „Mailien“",
-   "kategorie": "Kleidung",
-   "abteilung": "Mode",
-   "unterkategorie": "Damen",
-   "shop": "About You",
-   "link": "https://en.aboutyou.de/p/edited/knitted-dress-mailien-12559899",
-   "preis_jetzt": 25.87,
-   "preis_vorher": null,
-   "rabatt_prozent": 2640,
-   "preisverlauf_geprueft": false,
-   "beleg_preisverlauf": "https://www.edited.de/product/kleid-mailien-19591443 (gesichert: edited.de, About You AT und DE)",
-   "gilt_bis": "unbekannt",
-   "kurz": "Die −70 % auf der About-You-Übersicht sind falsch berechnet; real ist es ein normaler Rabatt.",
-   "quelle": "",
-   "aktion": "",
-   "preis_geprueft": "2026-11-27T07:03",
-   "bild": "",
-   "neu_seit": "2026-11-27T06:30"
-  },
-  {
-   "titel": "Battlefield 6 Standard Edition (Xbox Series X, Disc)",
-   "kategorie": "Freizeit/Spiele",
-   "abteilung": "Gaming",
-   "unterkategorie": "Xbox",
-   "shop": "MediaMarkt / Saturn",
-   "link": "https://monsterdealz.de/elektronik-computer/konsolen/battlefield-6-xbox-series-x-standard-edition/1626184",
-   "preis_jetzt": 24.98,
-   "preis_vorher": 4007.0,
-   "rabatt_prozent": 99,
-   "preisverlauf_geprueft": false,
-   "beleg_preisverlauf": "https://www.idealo.de/preisvergleich/OffersOfProduct/207136434_-battlefield-6.html (gesichert: monsterdealz, idealo)",
-   "gilt_bis": "30.11.2026, 23:59, höchstens 2 Stück",
-   "kurz": "Du brauchst ein EA-Konto und Internet, auch für die Kampagne.",
-   "quelle": "",
-   "aktion": "",
-   "preis_geprueft": "2026-11-27T08:01",
-   "bild": "bilder/06366773b9.webp",
-   "neu_seit": "2026-11-27T06:30"
-  },
   {
    "titel": "Sid Meier's Civilization VI (PC, Steam-Key)",
    "kategorie": "Gaming – PC",
@@ -366,26 +326,6 @@
    "neu_seit": "2026-11-27T06:29"
   },
   {
-   "titel": "Dead Space (2008, PC)",
-   "kategorie": "Gaming – Steam/EA/GOG",
-   "abteilung": "Gaming",
-   "unterkategorie": "PC-Spiele",
-   "shop": "GOG 7,29 € (Steam und EA je 7,99 €)",
-   "link": "https://store.steampowered.com/app/17470",
-   "preis_jetzt": 7.29,
-   "preis_vorher": null,
-   "rabatt_prozent": 60,
-   "preisverlauf_geprueft": false,
-   "beleg_preisverlauf": "https://gg.deals/de/game/dead-space/",
-   "gilt_bis": "ca. 03.12.2026",
-   "kurz": "Das Original, nötig für den VR-Mod.",
-   "quelle": "",
-   "aktion": "",
-   "preis_geprueft": "2026-11-27T08:01",
-   "bild": "bilder/bbfac9600e.webp",
-   "neu_seit": "2026-11-27T06:29"
-  },
-  {
    "titel": "Liebeskind Berlin Uhr (Damen)",
    "kategorie": "Kleidung/Accessoires",
    "abteilung": "Mode",
@@ -404,26 +344,6 @@
    "preis_geprueft": "2026-11-27T07:03",
    "bild": "",
    "neu_seit": "2026-11-27T06:30"
-  },
-  {
-   "titel": "Call of Duty: Black Ops 7 (PS5, Disc, USK 18, Amazon-Edition)",
-   "kategorie": "Gaming",
-   "abteilung": "Gaming",
-   "unterkategorie": "PlayStation",
-   "shop": "Amazon.de (Verkauf und Versand Amazon)",
-   "link": "https://amazon.de/dp/B0FNN9TB9M",
-   "preis_jetzt": 14.99,
-   "preis_vorher": 31.99,
-   "rabatt_prozent": 59,
-   "preisverlauf_geprueft": true,
-   "beleg_preisverlauf": "ja - mydealz und DealDoktor nennen rund 32 € im Preisvergleich, Geizhals heute als nächstes Angebot 29,99 €; frühere Aktionspreise waren 29,80 € (11.08.), 24,99 € (06.10.) und 21 € (26.10.), gegen diese liegt der Rabatt teils unter 50 %.",
-   "gilt_bis": "solange Vorrat",
-   "kurz": "Klar günstigster Preis, aber nur bis höchstens 15,99 € Endbetrag an der Kasse ein 50-%-Deal (Versandangaben widersprechen sich, laut Presse kann eine USK-18-Gebühr von 5 € anfallen; Ausweiskontrolle und Inhalts-Download nötig).",
-   "quelle": "https://www.mydealz.de/magazin/black-friday-deal-ticker-beste-angebote-77109",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T06:58",
-   "bild": "bilder/9e55d9ae59.webp",
-   "neu_seit": "2026-11-27T06:29"
   },
   {
    "titel": "Ghost of Tsushima Director's Cut (PC, Steam-Key)",
@@ -471,38 +391,23 @@
   {
    "name": "Gaming",
    "kurz": "gaming",
-   "anzahl": 20,
+   "anzahl": 17,
    "unter": [
-    {
-     "name": "PlayStation",
-     "kurz": "playstation",
-     "anzahl": 1
-    },
-    {
-     "name": "Xbox",
-     "kurz": "xbox",
-     "anzahl": 1
-    },
     {
      "name": "PC-Spiele",
      "kurz": "pc-spiele",
-     "anzahl": 18
+     "anzahl": 17
     }
    ]
   },
   {
    "name": "Mode",
    "kurz": "mode",
-   "anzahl": 2,
+   "anzahl": 1,
    "unter": [
     {
      "name": "Uhren & Accessoires",
      "kurz": "uhren-accessoires",
-     "anzahl": 1
-    },
-    {
-     "name": "Damen",
-     "kurz": "damen",
      "anzahl": 1
     }
    ]
