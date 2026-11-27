@@ -1,6 +1,6 @@
 {
  "stand": "2026-11-27T15:25",
- "fingerabdruck": "8a4db14e15d95f6c",
+ "fingerabdruck": "f63ea3c144508f54",
  "mindest": 15,
  "black_week": true,
  "preise_in_pruefung": false,
@@ -5482,6 +5482,28 @@
    "neu_seit": "2026-11-27T13:19",
    "stufe": "25-50",
    "versand_offen": true
+  },
+  {
+   "titel": "Halo: Campaign Evolved (Xbox Series X|S / PC, Download)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gaming",
+   "unterkategorie": "Xbox",
+   "shop": "Xbox Store",
+   "link": "https://xbox.com/de-de/games/store/halo-campaign-evolved/9n683tdt5m7r",
+   "preis_jetzt": 35.99,
+   "preis_vorher": 59.99,
+   "rabatt_prozent": 40,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf abrufbar; Store-Listenpreis 59,99 €, Disc-Version bei Saturn laut Suchtreffer ebenfalls 59,99 €",
+   "gilt_bis": "unbekannt",
+   "kurz": "Halo-Neuauflage 40 % unter Listen- und Handelspreis.",
+   "quelle": "Xbox Store",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T16:17",
+   "bild": "bilder/facb2ea7f1.webp",
+   "neu_seit": "2026-11-27T13:08",
+   "stufe": "25-50",
+   "versand_offen": null
   },
   {
    "titel": "VAUDE Race Light XL Satteltasche",
@@ -21302,6 +21324,28 @@
    "versand_offen": null
   },
   {
+   "titel": "Gears of War: E-Day Standard Edition (Xbox Series X|S, Download)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gaming",
+   "unterkategorie": "Xbox",
+   "shop": "Xbox Store",
+   "link": "https://xbox.com/de-de/games/store/gears-of-war-e-day/9n4pt8hgcdhq",
+   "preis_jetzt": 48.99,
+   "preis_vorher": 64.99,
+   "rabatt_prozent": 25,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf abrufbar; Disc-Version laut Suchtreffer bei MediaMarkt 64,99 € (Saturn 67,99 €), Store-Listenpreis 69,99 €",
+   "gilt_bis": "ca. 02.12.2026",
+   "kurz": "Neuer Action-Titel deutlich unter dem Preis der Disc-Version.",
+   "quelle": "Xbox Store",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T16:17",
+   "bild": "bilder/ca45595c02.webp",
+   "neu_seit": "2026-11-27T13:08",
+   "stufe": "25-50",
+   "versand_offen": null
+  },
+  {
    "titel": "Nike SB Chron 2 Canvas Herren-Sneaker weiß",
    "kategorie": "Sonstiges",
    "abteilung": "Mode",
@@ -24996,6 +25040,28 @@
    "neu_seit": "2026-11-27T13:01",
    "stufe": "15-25",
    "versand_offen": true
+  },
+  {
+   "titel": "Logitech Signature M650 L, kabellose Maus, Graphite",
+   "kategorie": "Sonstiges",
+   "abteilung": "Elektronik & Technik",
+   "unterkategorie": "Computer & Zubehör",
+   "shop": "Saturn",
+   "link": "https://saturn.de/de/product/_logitech-signature-m650-l-maus-graphite-2783780.html",
+   "preis_jetzt": 28.98,
+   "preis_vorher": 37.63,
+   "rabatt_prozent": 23,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - nur Shopvergleich (idealo: nächster Preis 37,63 € laut mydealz)",
+   "gilt_bis": "30.11.2026 08:59, solange Vorrat",
+   "kurz": "Leise Büromaus für große Hände, 23,99 € bei Marktabholung oder 28,98 € geliefert.",
+   "quelle": "https://www.mydealz.de/deals/logitech-signature-m650-l-kabellose-maus-bluetooth-und-logi-bolt-5-tasten-leise-klicks-bis-",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T16:17",
+   "bild": "bilder/5b10d2be9d.webp",
+   "neu_seit": "2026-11-27T13:03",
+   "stufe": "15-25",
+   "versand_offen": null
   },
   {
    "titel": "Fitbit Versa 4 Smartwatch (Black/Graphite)",
@@ -30608,6 +30674,116 @@
    "versand_offen": true
   },
   {
+   "titel": "CMF Speaker M Bluetooth-Lautsprecher",
+   "kategorie": "Sonstiges",
+   "abteilung": "Elektronik & Technik",
+   "unterkategorie": "Audio & Kopfhörer",
+   "shop": "Nothing",
+   "link": "https://de.nothing.tech/products/cmf-speaker-m",
+   "preis_jetzt": 79.0,
+   "preis_vorher": 99.0,
+   "rabatt_prozent": 20,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - heise und Notebookcheck nennen 99 € als Vergleichspreis",
+   "gilt_bis": "solange Vorrat",
+   "kurz": "20 € günstiger, laut Shop ab 50 € versandkostenfrei; mindestens eine Farbe war ausverkauft.",
+   "quelle": "heise.de, notebookcheck.com",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T16:17",
+   "bild": "bilder/3974858e2c.webp",
+   "neu_seit": "2026-11-27T13:07",
+   "stufe": "15-25",
+   "versand_offen": null
+  },
+  {
+   "titel": "UCI Unlimited Card Premium, 12 Monate Kino-Flat",
+   "kategorie": "Sonstiges",
+   "abteilung": "Freizeit & Spielzeug",
+   "unterkategorie": "Erlebnisse & Tickets",
+   "shop": "UCI Kinowelt",
+   "link": "https://uci-kinowelt.de/aktion-und-news/black-week-unlimited-kinoflatrate-nur-199-eur/7419",
+   "preis_jetzt": 199.0,
+   "preis_vorher": 249.0,
+   "rabatt_prozent": 20,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Preisverlauf; Vergleich mit dem regulären Preis des Anbieters",
+   "gilt_bis": "30.11.2026",
+   "kurz": "Einmalzahlung, endet automatisch nach 12 Monaten; IMAX kostet 4 € Aufpreis pro Film.",
+   "quelle": "mydealz und UCI-Aktionsseite",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T16:17",
+   "bild": "bilder/b72d08f394.webp",
+   "neu_seit": "2026-11-27T13:19",
+   "stufe": "15-25",
+   "versand_offen": null
+  },
+  {
+   "titel": "Zoo Duisburg Online-Tageskarte Erwachsene",
+   "kategorie": "Sonstiges",
+   "abteilung": "Freizeit & Spielzeug",
+   "unterkategorie": "Erlebnisse & Tickets",
+   "shop": "Zoo Duisburg",
+   "link": "https://shop.zoo-duisburg.de/article/138",
+   "preis_jetzt": 16.0,
+   "preis_vorher": 20.0,
+   "rabatt_prozent": 20,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Preisverlauf; Vergleich mit dem regulären Preis des Anbieters",
+   "gilt_bis": "29.11.2026",
+   "kurz": "20 % auf Online-Tageskarten, Kinder 9,20 € statt 11,50 €.",
+   "quelle": "freizeitpark-welt.de und Zoo-Ticketshop",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T16:17",
+   "bild": "bilder/ebe5fbd71d.webp",
+   "neu_seit": "2026-11-27T13:19",
+   "stufe": "15-25",
+   "versand_offen": null
+  },
+  {
+   "titel": "Donkey Kong Country Returns HD (Nintendo Switch, Download)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gaming",
+   "unterkategorie": "Nintendo Switch",
+   "shop": "Nintendo eShop",
+   "link": "https://nintendo.com/de-de/Spiele/Nintendo-Switch-Spiele/Donkey-Kong-Country-Returns-HD-2590475.html",
+   "preis_jetzt": 39.99,
+   "preis_vorher": 49.99,
+   "rabatt_prozent": 20,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf abrufbar; Modulversion laut Suchtreffer bei Saturn und MediaMarkt 49,99 €, eShop-Regulärpreis 59,99 €",
+   "gilt_bis": "02.12.2026",
+   "kurz": "Nintendo-Jump-and-Run 20 € unter dem eShop-Normalpreis.",
+   "quelle": "https://mariofans.de/nintendo-eshop-black-friday-2026-die-besten-switch-angebote/",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T16:17",
+   "bild": "bilder/1cf0783c3d.webp",
+   "neu_seit": "2026-11-27T13:08",
+   "stufe": "15-25",
+   "versand_offen": null
+  },
+  {
+   "titel": "Kirby und das vergessene Land (Nintendo Switch, Download)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gaming",
+   "unterkategorie": "Nintendo Switch",
+   "shop": "Nintendo eShop",
+   "link": "https://nintendo.com/de-de/Spiele/Nintendo-Switch-Spiele/Kirby-und-das-vergessene-Land-2045110.html",
+   "preis_jetzt": 39.99,
+   "preis_vorher": 49.99,
+   "rabatt_prozent": 20,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf abrufbar; Modulversion bei Saturn 49,99 €, eShop-Regulärpreis 59,99 €",
+   "gilt_bis": "02.12.2026",
+   "kurz": "Familienfreundliches Jump-and-Run günstiger als das Modul.",
+   "quelle": "https://mariofans.de/nintendo-eshop-black-friday-2026-die-besten-switch-angebote/",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T16:17",
+   "bild": "",
+   "neu_seit": "2026-11-27T13:08",
+   "stufe": "15-25",
+   "versand_offen": null
+  },
+  {
    "titel": "Hygear Gear1 Schlingentrainer",
    "kategorie": "Sonstiges",
    "abteilung": "Sport & Fahrrad",
@@ -30758,6 +30934,28 @@
    "preis_geprueft": "2026-11-27T16:17",
    "bild": "bilder/c241c9bcc3.webp",
    "neu_seit": "2026-11-27T13:45",
+   "stufe": "15-25",
+   "versand_offen": null
+  },
+  {
+   "titel": "Insta360 X4 360-Grad-Kamera, Standard-Bundle (ohne Speicherkarte)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Elektronik & Technik",
+   "unterkategorie": "Kameras",
+   "shop": "Insta360 Store",
+   "link": "https://store.insta360.com/de/product/x4",
+   "preis_jetzt": 285.0,
+   "preis_vorher": 358.0,
+   "rabatt_prozent": 20,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - testbericht.de, Stand 27.11.: 30-Tage-Schnitt 358 €, aktuell 285 € beim Hersteller versandkostenfrei",
+   "gilt_bis": "unbekannt",
+   "kurz": "360-Grad-Kamera gut 70 € unter dem Monatsschnitt, direkt vom Hersteller.",
+   "quelle": "testbericht.de, Insta360 Store",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T16:17",
+   "bild": "bilder/101ef37d9e.webp",
+   "neu_seit": "2026-11-27T13:08",
    "stufe": "15-25",
    "versand_offen": null
   },
@@ -32742,6 +32940,28 @@
    "versand_offen": null
   },
   {
+   "titel": "Forza Horizon 6 Standard Edition (Xbox Series X|S / PC, Download)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gaming",
+   "unterkategorie": "Xbox",
+   "shop": "Xbox Store",
+   "link": "https://xbox.com/de-de/games/store/forza-horizon-6-standard-edition/9n431px143p8",
+   "preis_jetzt": 52.49,
+   "preis_vorher": 64.99,
+   "rabatt_prozent": 19,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf abrufbar; Disc-Version laut Suchtreffer bei MediaMarkt und Saturn 64,99 €, Store-Listenpreis 69,99 €",
+   "gilt_bis": "unbekannt",
+   "kurz": "Rennspiel rund 19 % unter dem Preis der Disc-Version.",
+   "quelle": "Xbox Store",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T16:17",
+   "bild": "bilder/cf644dde06.webp",
+   "neu_seit": "2026-11-27T13:08",
+   "stufe": "15-25",
+   "versand_offen": null
+  },
+  {
    "titel": "Bosch EasyDrill 18V-40 Akkuschrauber mit 2,0-Ah-Akku und Ladegerät",
    "kategorie": "Sonstiges",
    "abteilung": "Werkzeug & Baumarkt",
@@ -33947,6 +34167,28 @@
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T16:17",
    "bild": "bilder/fe0275939e.webp",
+   "neu_seit": "2026-11-27T10:43",
+   "stufe": "15-25",
+   "versand_offen": null
+  },
+  {
+   "titel": "LG F4WX9092B Waschmaschine 9 kg",
+   "kategorie": "Sonstiges",
+   "abteilung": "Haushalt & Küche",
+   "unterkategorie": "Haushaltsgeräte",
+   "shop": "MediaMarkt",
+   "link": "https://mediamarkt.de/de/product/_lg-f4wx9092b-waschmaschine-9-kg-1350-umin-a-2982121.html",
+   "preis_jetzt": 588.9,
+   "preis_vorher": 714.0,
+   "rabatt_prozent": 18,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - nur Shopvergleich (idealo laut Schnäppchenfuchs: 714 € inkl. Versand); Preis im Shop geprüft",
+   "gilt_bis": "solange Vorrat",
+   "kurz": "549 € plus 39,90 € Lieferung, deutlich unter dem Vergleichspreis.",
+   "quelle": "https://schnaeppchenfuchs.com/angebote/media-markt-black-friday",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T16:17",
+   "bild": "bilder/12cb99e80f.webp",
    "neu_seit": "2026-11-27T10:43",
    "stufe": "15-25",
    "versand_offen": null
@@ -36658,6 +36900,28 @@
    "versand_offen": null
   },
   {
+   "titel": "Walibi Holland Saisonpass Experience 2027",
+   "kategorie": "Sonstiges",
+   "abteilung": "Freizeit & Spielzeug",
+   "unterkategorie": "Erlebnisse & Tickets",
+   "shop": "Walibi Holland",
+   "link": "https://walibi.nl/en/tickets/passes",
+   "preis_jetzt": 95.0,
+   "preis_vorher": 115.0,
+   "rabatt_prozent": 17,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Preisverlauf; Vergleich mit dem regulären Preis des Anbieters",
+   "gilt_bis": "solange Vorrat",
+   "kurz": "Der größere Saisonpass 20 € günstiger.",
+   "quelle": "Walibi-Seite",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T16:17",
+   "bild": "bilder/d2fea1cc92.webp",
+   "neu_seit": "2026-11-27T13:19",
+   "stufe": "15-25",
+   "versand_offen": null
+  },
+  {
    "titel": "Corsair Ironclaw Wireless SE, Gaming-Maus (schwarz)",
    "kategorie": "Sonstiges",
    "abteilung": "Gaming",
@@ -36675,6 +36939,28 @@
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T16:17",
    "bild": "bilder/be42d760ca.webp",
+   "neu_seit": "2026-11-27T13:08",
+   "stufe": "15-25",
+   "versand_offen": null
+  },
+  {
+   "titel": "Xenoblade Chronicles: Definitive Edition (Nintendo Switch, Download)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gaming",
+   "unterkategorie": "Nintendo Switch",
+   "shop": "Nintendo eShop",
+   "link": "https://nintendo.com/de-de/Spiele/Nintendo-Switch-Spiele/Xenoblade-Chronicles-Definitive-Edition-1633054.html",
+   "preis_jetzt": 39.99,
+   "preis_vorher": 47.99,
+   "rabatt_prozent": 17,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf abrufbar; Modul bei Saturn laut Suchtreffer 47,99 € (derzeit nicht lieferbar), eShop-Regulärpreis 59,99 €",
+   "gilt_bis": "02.12.2026",
+   "kurz": "Umfangreiches Rollenspiel 20 € unter dem eShop-Normalpreis.",
+   "quelle": "https://mariofans.de/nintendo-eshop-black-friday-2026-die-besten-switch-angebote/",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T16:17",
+   "bild": "bilder/b99dcd9947.webp",
    "neu_seit": "2026-11-27T13:08",
    "stufe": "15-25",
    "versand_offen": null
@@ -38264,6 +38550,28 @@
    "versand_offen": null
   },
   {
+   "titel": "Rowenta X-Force Flex 13.60 Allergy (RH9A36) Akkusauger",
+   "kategorie": "Sonstiges",
+   "abteilung": "Haushalt & Küche",
+   "unterkategorie": "Haushaltsgeräte",
+   "shop": "MediaMarkt",
+   "link": "https://mediamarkt.de/de/product/_rowenta-rh9a36-x-force-flex-1360-stielsauger-akkubetrieb-2914658.html",
+   "preis_jetzt": 209.0,
+   "preis_vorher": 249.99,
+   "rabatt_prozent": 16,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - mydealz-Angaben: Geizhals-Median 249,99 €, 12-Monats-Tief 206,10 €, nächster Preis laut idealo 239 €",
+   "gilt_bis": "30.11.2026",
+   "kurz": "Liegt unter dem bisherigen 12-Monats-Tief, versandkostenfrei.",
+   "quelle": "home&smart, mydealz",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T16:17",
+   "bild": "bilder/745d8829a3.webp",
+   "neu_seit": "2026-11-27T11:59",
+   "stufe": "15-25",
+   "versand_offen": null
+  },
+  {
    "titel": "Dyson V8 Cyclone Akkusauger",
    "kategorie": "Sonstiges",
    "abteilung": "Haushalt & Küche",
@@ -38440,6 +38748,28 @@
    "versand_offen": true
   },
   {
+   "titel": "Dyson V8 Cyclone Akkusauger",
+   "kategorie": "Sonstiges",
+   "abteilung": "Haushalt & Küche",
+   "unterkategorie": "Haushaltsgeräte",
+   "shop": "Saturn",
+   "link": "https://saturn.de/de/product/_dyson-v8-cyclone-kabelloser-stielsauger-akkubetrieb-465-watt-3056733.html",
+   "preis_jetzt": 239.0,
+   "preis_vorher": 284.95,
+   "rabatt_prozent": 16,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - mydealz-Vergleichspreis 284,95 €; zum Black Friday liegt der Dyson-Shop mit 245 € allerdings nur knapp darüber",
+   "gilt_bis": "solange Vorrat",
+   "kurz": "Günstigster Preis in der mydealz-Händlerübersicht, versandkostenfrei.",
+   "quelle": "https://www.mydealz.de/magazin/dyson-black-friday-angebote-75563",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T16:17",
+   "bild": "bilder/0e251682eb.webp",
+   "neu_seit": "2026-11-27T12:27",
+   "stufe": "15-25",
+   "versand_offen": null
+  },
+  {
    "titel": "Therabody Theragun Relief Massagepistole, Sand",
    "kategorie": "Sonstiges",
    "abteilung": "Drogerie & Gesundheit",
@@ -38546,6 +38876,28 @@
    "preis_geprueft": "2026-11-27T16:17",
    "bild": "bilder/5829c9f866.webp",
    "neu_seit": "2026-11-27T12:54",
+   "stufe": "15-25",
+   "versand_offen": null
+  },
+  {
+   "titel": "Anker SOLIX C1000 Gen 2 Powerstation (1024 Wh)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Elektronik & Technik",
+   "unterkategorie": "",
+   "shop": "Joybuy",
+   "link": "https://joybuy.de/dp/black-friday-angebot-anker-solix-c1000/102031488",
+   "preis_jetzt": 420.16,
+   "preis_vorher": 499.0,
+   "rabatt_prozent": 16,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - nur Vergleich aus dem heise-Preisvergleich; Preis auf der Shopseite geprüft, Versandangabe widersprüchlich (kostenlos bzw. 3,99 €), 0 % MwSt. nur bei erfüllten gesetzlichen Voraussetzungen",
+   "gilt_bis": "unbekannt",
+   "kurz": "LiFePO4-Powerstation unter dem Vergleichspreis, der 0-%-Steuersatz ist vor dem Kauf zu prüfen.",
+   "quelle": "heise bestenlisten",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T16:17",
+   "bild": "bilder/036c05fdd7.webp",
+   "neu_seit": "2026-11-27T12:53",
    "stufe": "15-25",
    "versand_offen": null
   },
@@ -40064,6 +40416,28 @@
    "preis_geprueft": "2026-11-27T16:17",
    "bild": "bilder/046483152f.webp",
    "neu_seit": "2026-11-27T12:16",
+   "stufe": "15-25",
+   "versand_offen": null
+  },
+  {
+   "titel": "Razer Basilisk V3 Gaming-Maus, kabelgebunden",
+   "kategorie": "Sonstiges",
+   "abteilung": "Elektronik & Technik",
+   "unterkategorie": "Computer & Zubehör",
+   "shop": "Saturn",
+   "link": "https://saturn.de/de/product/_razer-basilisk-v3-gaming-maus-schwarz-2758695.html",
+   "preis_jetzt": 28.99,
+   "preis_vorher": 34.0,
+   "rabatt_prozent": 15,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - testbericht.de: 30-Tage-Durchschnitt 34,16 €",
+   "gilt_bis": "30.11.2026",
+   "kurz": "Ergonomische Gaming-Maus zum 30-Tage-Tiefstpreis, Versand frei.",
+   "quelle": "mein-deal, Saturn Razer-Black-Friday, testbericht.de",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T16:17",
+   "bild": "bilder/2b9f5e8518.webp",
+   "neu_seit": "2026-11-27T12:15",
    "stufe": "15-25",
    "versand_offen": null
   },
@@ -45788,6 +46162,28 @@
    "neu_seit": "2026-11-27T13:01",
    "stufe": "15-25",
    "versand_offen": true
+  },
+  {
+   "titel": "HKC G27H7P 27-Zoll-Monitor (4K 160 Hz / Full HD 320 Hz)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Elektronik & Technik",
+   "unterkategorie": "Computer & Zubehör",
+   "shop": "Joybuy",
+   "link": "https://joybuy.de/dp/hkc-g27h7p-gamingmonitor-27-zoll-4k/100030946056618",
+   "preis_jetzt": 219.0,
+   "preis_vorher": 279.99,
+   "rabatt_prozent": 22,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf; Vergleichspreis 279,99 € laut monsterdealz, Joybuy selbst streicht 259,99 €; Shopseite geöffnet",
+   "gilt_bis": "unbekannt",
+   "kurz": "Umschaltbarer 4K-Monitor zum kleinen Preis; Versandkosten auf der Shopseite widersprüchlich (kostenlos oder 3,99 €).",
+   "quelle": "monsterdealz, joybuy.de",
+   "aktion": "",
+   "preis_geprueft": "2026-11-27T16:17",
+   "bild": "bilder/987cc3e93d.webp",
+   "neu_seit": "2026-11-27T13:08",
+   "stufe": "15-25",
+   "versand_offen": null
   },
   {
    "titel": "Kettler HOI Vario Stand (Hantelständer)",
@@ -55762,17 +56158,17 @@
    "grund": "Preis nicht mehr bestätigt"
   }
  ],
- "bisher_gezeigt": 2639,
+ "bisher_gezeigt": 2657,
  "stufen": [
   {
    "kurz": "15-25",
    "name": "15–25 %",
-   "anzahl": 890
+   "anzahl": 906
   },
   {
    "kurz": "25-50",
    "name": "25–50 %",
-   "anzahl": 907
+   "anzahl": 909
   },
   {
    "kurz": "ueber-50",
@@ -55784,7 +56180,7 @@
   {
    "name": "Elektronik & Technik",
    "kurz": "elektronik",
-   "anzahl": 374,
+   "anzahl": 380,
    "unter": [
     {
      "name": "Smartphones & Tablets",
@@ -55794,7 +56190,7 @@
     {
      "name": "Computer & Zubehör",
      "kurz": "computer-zubehoer",
-     "anzahl": 106
+     "anzahl": 109
     },
     {
      "name": "TV & Heimkino",
@@ -55804,7 +56200,7 @@
     {
      "name": "Audio & Kopfhörer",
      "kurz": "audio-kopfhoerer",
-     "anzahl": 112
+     "anzahl": 113
     },
     {
      "name": "Smart Home",
@@ -55814,7 +56210,7 @@
     {
      "name": "Kameras",
      "kurz": "kameras",
-     "anzahl": 25
+     "anzahl": 26
     }
    ]
   },
@@ -55833,7 +56229,7 @@
   {
    "name": "Gaming",
    "kurz": "gaming",
-   "anzahl": 174,
+   "anzahl": 180,
    "unter": [
     {
      "name": "Gaming-Zubehör",
@@ -55848,12 +56244,12 @@
     {
      "name": "Xbox",
      "kurz": "xbox",
-     "anzahl": 11
+     "anzahl": 14
     },
     {
      "name": "Nintendo Switch",
      "kurz": "nintendo-switch",
-     "anzahl": 8
+     "anzahl": 11
     },
     {
      "name": "PC-Spiele",
@@ -55865,7 +56261,7 @@
   {
    "name": "Haushalt & Küche",
    "kurz": "haushalt",
-   "anzahl": 311,
+   "anzahl": 314,
    "unter": [
     {
      "name": "Küchengeräte",
@@ -55875,7 +56271,7 @@
     {
      "name": "Haushaltsgeräte",
      "kurz": "haushaltsgeraete",
-     "anzahl": 92
+     "anzahl": 95
     },
     {
      "name": "Wohnen",
@@ -55997,7 +56393,7 @@
   {
    "name": "Freizeit & Spielzeug",
    "kurz": "freizeit",
-   "anzahl": 267,
+   "anzahl": 270,
    "unter": [
     {
      "name": "Spielzeug",
@@ -56007,7 +56403,7 @@
     {
      "name": "Erlebnisse & Tickets",
      "kurz": "erlebnisse-tickets",
-     "anzahl": 21
+     "anzahl": 24
     },
     {
      "name": "Bücher & Filme",
