@@ -1,6 +1,6 @@
 {
  "stand": "2026-11-27T13:07",
- "fingerabdruck": "eee1b11f25a57341",
+ "fingerabdruck": "0524e522bf9ddeed",
  "mindest": 15,
  "black_week": true,
  "preise_in_pruefung": false,
@@ -1035,27 +1035,6 @@
    "stufe": "ueber-50"
   },
   {
-   "titel": "Das Spiel des Lebens",
-   "kategorie": "Sonstiges",
-   "abteilung": "Freizeit & Spielzeug",
-   "unterkategorie": "Spielzeug",
-   "shop": "Amazon",
-   "link": "https://amazon.de/dp/B08JCY1H3S",
-   "preis_jetzt": 12.92,
-   "preis_vorher": 28.78,
-   "rabatt_prozent": 55,
-   "preisverlauf_geprueft": true,
-   "beleg_preisverlauf": "ja - boardgamez.de: üblich etwa 28,78 €",
-   "gilt_bis": "30.11.2026 oder solange Vorrat",
-   "kurz": "Familienklassiker weniger als halb so teuer wie üblich; Preis und Versand vor dem Kauf prüfen.",
-   "quelle": "boardgamez.de; Amazon-Seite nicht abrufbar, Preis nicht selbst geprüft",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T12:12",
-   "bild": "bilder/83f07878a9.webp",
-   "neu_seit": "2026-11-27T08:46",
-   "stufe": "ueber-50"
-  },
-  {
    "titel": "Tchibo Pyjama-Set mit Flanellhose",
    "kategorie": "Sonstiges",
    "abteilung": "Mode",
@@ -1179,27 +1158,6 @@
    "preis_geprueft": "2026-11-27T13:07",
    "bild": "bilder/5bdc383553.webp",
    "neu_seit": "2026-11-27T11:59",
-   "stufe": "ueber-50"
-  },
-  {
-   "titel": "Dragonkin: The Banished (PS5)",
-   "kategorie": "Sonstiges",
-   "abteilung": "Gaming",
-   "unterkategorie": "PlayStation",
-   "shop": "MediaMarkt/Saturn (Abholung)",
-   "link": "https://mydealz.de/deals/mediamarktsaturn-abholung-dragonkin-the-banished-playstation-5-2879071",
-   "preis_jetzt": 15.98,
-   "preis_vorher": 32.45,
-   "rabatt_prozent": 51,
-   "preisverlauf_geprueft": false,
-   "beleg_preisverlauf": "nein - kein Verlauf eingesehen; Vergleichspreis 32,45 € laut mydealz; Shopseite nicht selbst geöffnet",
-   "gilt_bis": "solange Vorrat",
-   "kurz": "Action-Rollenspiel bei Abholung weit unter dem Vergleichspreis.",
-   "quelle": "mydealz",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T12:12",
-   "bild": "bilder/299fd76357.webp",
-   "neu_seit": "2026-11-27T10:43",
    "stufe": "ueber-50"
   },
   {
@@ -1977,27 +1935,6 @@
    "preis_geprueft": "2026-11-27T13:07",
    "bild": "",
    "neu_seit": "2026-11-27T12:47",
-   "stufe": "25-50"
-  },
-  {
-   "titel": "Nike Court Vision Mid Winter Sneaker",
-   "kategorie": "Sonstiges",
-   "abteilung": "Mode",
-   "unterkategorie": "Schuhe",
-   "shop": "Deichmann",
-   "link": "https://mein-deal.com/nike-court-vision-mid-winter",
-   "preis_jetzt": 45.0,
-   "preis_vorher": 82.0,
-   "rabatt_prozent": 45,
-   "preisverlauf_geprueft": false,
-   "beleg_preisverlauf": "nein - Vergleich laut mein-deal ab 82 €; 45 € auf der Deichmann-Suchseite gesehen",
-   "gilt_bis": "unbekannt",
-   "kurz": "Wintersneaker deutlich unter anderen Angeboten.",
-   "quelle": "mein-deal",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T12:12",
-   "bild": "bilder/c344ae7fc2.webp",
-   "neu_seit": "2026-11-27T10:43",
    "stufe": "25-50"
   },
   {
@@ -6474,27 +6411,6 @@
    "stufe": "25-50"
   },
   {
-   "titel": "Brennenstuhl Gummi-Verlängerungskabel 25 m",
-   "kategorie": "Sonstiges",
-   "abteilung": "Haushalt & Küche",
-   "unterkategorie": "Wohnen",
-   "shop": "Amazon.de",
-   "link": "https://amazon.de/dp/B000ZEM0S6",
-   "preis_jetzt": 23.98,
-   "preis_vorher": 34.0,
-   "rabatt_prozent": 29,
-   "preisverlauf_geprueft": false,
-   "beleg_preisverlauf": "nein - nur Preisvergleich 34 € (idealo, laut schnaeppchenfuchs und dealdoktor, 27.11.), kein Verlauf; Amazon-Seite nicht abrufbar",
-   "gilt_bis": "unbekannt",
-   "kurz": "Robustes 25-Meter-Kabel rund 10 € günstiger.",
-   "quelle": "https://schnaeppchenfuchs.com/angebote/amazon-black-friday-angebote",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T12:12",
-   "bild": "bilder/c46c0c906e.webp",
-   "neu_seit": "2026-11-27T09:59",
-   "stufe": "25-50"
-  },
-  {
    "titel": "Yankee Candle Balsam & Cedar Duftkerze 623 g",
    "kategorie": "Sonstiges",
    "abteilung": "Haushalt & Küche",
@@ -9057,27 +8973,6 @@
    "stufe": "25-50"
   },
   {
-   "titel": "Sneaker SUPERSTAR VINTAGE, adidas Originals",
-   "kategorie": "Sonstiges",
-   "abteilung": "Mode",
-   "unterkategorie": "Schuhe",
-   "shop": "Breuninger",
-   "link": "https://breuninger.com/de/marken/adidas-originals/sneaker-superstar-vintage/1002809261/p",
-   "preis_jetzt": 110.94,
-   "preis_vorher": 150.0,
-   "rabatt_prozent": 26,
-   "preisverlauf_geprueft": true,
-   "beleg_preisverlauf": "ja - Breuninger \"Bestpreis\" (30-Tage-Tiefstpreis laut Shop, kein externer Verlauf geprüft)",
-   "gilt_bis": "unbekannt",
-   "kurz": "Sneaker 30 % unter dem 30-Tage-Tiefstpreis bei Breuninger (ab-Preis).",
-   "quelle": "breuninger.com Black-Week-Seite Herren Schuhe",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T12:05",
-   "bild": "bilder/2834c310ce.webp",
-   "neu_seit": "2026-11-27T09:17",
-   "stufe": "25-50"
-  },
-  {
    "titel": "Hasbro Wer ist es?",
    "kategorie": "Sonstiges",
    "abteilung": "Freizeit & Spielzeug",
@@ -10149,90 +10044,6 @@
    "stufe": "25-50"
   },
   {
-   "titel": "adidas Italien Auswärtstrikot 2026/27",
-   "kategorie": "Sonstiges",
-   "abteilung": "Mode",
-   "unterkategorie": "Herren",
-   "shop": "Picksport",
-   "link": "https://mein-deal.com/adidas-italien-auswaertstrikot-2026",
-   "preis_jetzt": 40.98,
-   "preis_vorher": 55.0,
-   "rabatt_prozent": 25,
-   "preisverlauf_geprueft": false,
-   "beleg_preisverlauf": "nein - nur Shopvergleich laut mein-deal; Shopseite nicht geprüft",
-   "gilt_bis": "solange Vorrat",
-   "kurz": "Aktuelles Trikot mit Code BF20 inklusive Versand.",
-   "quelle": "mein-deal",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T12:05",
-   "bild": "bilder/02e5c16b79.webp",
-   "neu_seit": "2026-11-27T10:43",
-   "stufe": "25-50"
-  },
-  {
-   "titel": "LEGOLAND Deutschland Übernachtungspaket mit 2 Tagen Parkeintritt, ab-Preis pro Person",
-   "kategorie": "Sonstiges",
-   "abteilung": "Reisen",
-   "unterkategorie": "Urlaub & Hotel",
-   "shop": "LEGOLAND Deutschland",
-   "link": "https://freizeitparkinfos.de/zum-angebot/58203",
-   "preis_jetzt": 72.0,
-   "preis_vorher": 96.0,
-   "rabatt_prozent": 25,
-   "preisverlauf_geprueft": false,
-   "beleg_preisverlauf": "nein - regulärer Preis laut freizeitparkinfos, Buchungsseite nicht geprüft",
-   "gilt_bis": "unbekannt",
-   "kurz": "Übernachtung mit Frühstück, Parken und zwei Parktagen für Anreisen vom 20.03. bis 30.06.2027.",
-   "quelle": "freizeitparkinfos.de",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T12:05",
-   "bild": "bilder/aa48c30b6f.webp",
-   "neu_seit": "2026-11-27T10:43",
-   "stufe": "25-50"
-  },
-  {
-   "titel": "Denon Home 150 NV WLAN-Lautsprecher, schwarz",
-   "kategorie": "Sonstiges",
-   "abteilung": "Elektronik & Technik",
-   "unterkategorie": "Audio & Kopfhörer",
-   "shop": "Amazon.de (gleicher Preis bei MediaMarkt und Saturn)",
-   "link": "https://preisvergleich.heise.de/denon-home-150-nv-schwarz-a3389764.html",
-   "preis_jetzt": 149.0,
-   "preis_vorher": 199.0,
-   "rabatt_prozent": 25,
-   "preisverlauf_geprueft": false,
-   "beleg_preisverlauf": "nein - kein Verlauf abrufbar; Geizhals: außerhalb der drei Aktionsshops 189 € (eBay), 199 € (Galaxus), 224 € (electronic4you) (Shopseite nicht geöffnet)",
-   "gilt_bis": "unbekannt",
-   "kurz": "Multiroom-Lautsprecher 50 € oder mehr unter den übrigen Händlern.",
-   "quelle": "mydealz / Geizhals",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T12:05",
-   "bild": "bilder/ff96522dc3.webp",
-   "neu_seit": "2026-11-27T10:43",
-   "stufe": "25-50"
-  },
-  {
-   "titel": "Bose Ultra Open Earbuds (1. Generation), weiß",
-   "kategorie": "Sonstiges",
-   "abteilung": "Elektronik & Technik",
-   "unterkategorie": "Audio & Kopfhörer",
-   "shop": "MediaMarkt",
-   "link": "https://preisvergleich.heise.de/bose-ultra-open-earbuds-weiss-881046-0020-a3125705.html",
-   "preis_jetzt": 149.0,
-   "preis_vorher": 199.0,
-   "rabatt_prozent": 25,
-   "preisverlauf_geprueft": false,
-   "beleg_preisverlauf": "nein - kein Verlauf abrufbar; Geizhals: Saturn 195 €, Galaxus und Coolblue 199 € (Shopseite und Versandkosten nicht geprüft)",
-   "gilt_bis": "unbekannt",
-   "kurz": "Vorgängermodell der Open-Ear-Earbuds rund 50 € unter den anderen großen Shops.",
-   "quelle": "Geizhals",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T12:05",
-   "bild": "bilder/8d829350ff.webp",
-   "neu_seit": "2026-11-27T10:43",
-   "stufe": "25-50"
-  },
-  {
    "titel": "Der Hobbit: Hin und zurück",
    "kategorie": "Sonstiges",
    "abteilung": "Freizeit & Spielzeug",
@@ -11199,27 +11010,6 @@
    "stufe": "15-25"
   },
   {
-   "titel": "Sony ULT Field 1 Bluetooth-Lautsprecher",
-   "kategorie": "Sonstiges",
-   "abteilung": "Elektronik & Technik",
-   "unterkategorie": "Audio & Kopfhörer",
-   "shop": "MediaMarkt (gleicher Preis bei Amazon und Saturn)",
-   "link": "https://preisvergleich.heise.de/sony-ult-field-1-schwarz-srsult10b-ce7-a3170524.html",
-   "preis_jetzt": 59.0,
-   "preis_vorher": 77.4,
-   "rabatt_prozent": 24,
-   "preisverlauf_geprueft": false,
-   "beleg_preisverlauf": "nein - kein Verlauf abrufbar; Geizhals: viele andere Shops zwischen 66 € und 119 €, z. B. e-tec 77,40 €, Alternate 86,90 € (Shopseite nicht geöffnet)",
-   "gilt_bis": "unbekannt",
-   "kurz": "Kompakter Lautsprecher klar unter dem Preisniveau der Händler ohne Aktion.",
-   "quelle": "hifi.de / Geizhals",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T12:05",
-   "bild": "bilder/e669ca34a2.webp",
-   "neu_seit": "2026-11-27T10:43",
-   "stufe": "15-25"
-  },
-  {
    "titel": "Die Quacksalber von Quedlinburg",
    "kategorie": "Sonstiges",
    "abteilung": "Freizeit & Spielzeug",
@@ -12123,27 +11913,6 @@
    "stufe": "15-25"
   },
   {
-   "titel": "LEGO Batman: Das Vermächtnis des Dunklen Ritters (PS5)",
-   "kategorie": "Sonstiges",
-   "abteilung": "Gaming",
-   "unterkategorie": "PlayStation",
-   "shop": "Amazon (auch MediaMarkt/Saturn bei Abholung)",
-   "link": "https://mydealz.de/deals/lego-batman-das-vermachtnis-des-dunklen-ritters-4299eur-nintendo-switch-2-mediamarkt-saturn-abholung-2879044",
-   "preis_jetzt": 45.98,
-   "preis_vorher": 59.5,
-   "rabatt_prozent": 23,
-   "preisverlauf_geprueft": false,
-   "beleg_preisverlauf": "nein - kein Verlauf eingesehen; Vergleichspreis 59,50 € laut mydealz; Shopseite nicht selbst geöffnet",
-   "gilt_bis": "unbekannt",
-   "kurz": "Neuer LEGO-Titel deutlich unter dem Vergleichspreis.",
-   "quelle": "mydealz",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T12:12",
-   "bild": "bilder/de90efd5a3.webp",
-   "neu_seit": "2026-11-27T10:43",
-   "stufe": "15-25"
-  },
-  {
    "titel": "Hasbro Looping Louie",
    "kategorie": "Sonstiges",
    "abteilung": "Freizeit & Spielzeug",
@@ -12351,27 +12120,6 @@
    "preis_geprueft": "2026-11-27T13:07",
    "bild": "bilder/b3ad1eda4e.webp",
    "neu_seit": "2026-11-27T09:17",
-   "stufe": "15-25"
-  },
-  {
-   "titel": "Sigma 16 mm F1.4 DC DN Contemporary (Fuji X)",
-   "kategorie": "Sonstiges",
-   "abteilung": "Elektronik & Technik",
-   "unterkategorie": "Kameras",
-   "shop": "Foto Erhardt",
-   "link": "https://foto-erhardt.de/objektive/sigma-objektive/fuer-fujifilm-x/sigma-16mm-f1-4-dc-dn-c-fuji-x.html",
-   "preis_jetzt": 279.0,
-   "preis_vorher": 355.65,
-   "rabatt_prozent": 22,
-   "preisverlauf_geprueft": true,
-   "beleg_preisverlauf": "ja - Systemkamera-Forum: Durchschnitt der eigenen Messungen 355,65 €",
-   "gilt_bis": "unbekannt",
-   "kurz": "Lichtstarke Weitwinkel-Festbrennweite, sofort lieferbar und versandkostenfrei.",
-   "quelle": "https://www.systemkamera-forum.de/deals/index/",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T13:07",
-   "bild": "bilder/824be292f3.webp",
-   "neu_seit": "2026-11-27T09:57",
    "stufe": "15-25"
   },
   {
@@ -12960,27 +12708,6 @@
    "preis_geprueft": "2026-11-27T13:07",
    "bild": "",
    "neu_seit": "2026-11-27T12:47",
-   "stufe": "15-25"
-  },
-  {
-   "titel": "Marshall Middleton Bluetooth-Lautsprecher, Black and Brass",
-   "kategorie": "Sonstiges",
-   "abteilung": "Elektronik & Technik",
-   "unterkategorie": "Audio & Kopfhörer",
-   "shop": "Expert",
-   "link": "https://preisvergleich.heise.de/marshall-middleton-1006034-a2882490.html",
-   "preis_jetzt": 149.0,
-   "preis_vorher": 189.9,
-   "rabatt_prozent": 22,
-   "preisverlauf_geprueft": true,
-   "beleg_preisverlauf": "ja - Marshall nennt für seinen Shop 199 € als 30-Tage-Tiefstpreis (heute dort 179 €); Geizhals: weitere Händler 159 bis 299 € (Expert-Seite nicht selbst geöffnet)",
-   "gilt_bis": "unbekannt",
-   "kurz": "Auch deutlich günstiger als das aktuelle Angebot im Herstellershop, Versand laut Preisvergleich kostenlos.",
-   "quelle": "Geizhals / Marshall",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T12:05",
-   "bild": "bilder/af0e24a928.webp",
-   "neu_seit": "2026-11-27T10:43",
    "stufe": "15-25"
   },
   {
@@ -15126,48 +14853,6 @@
    "stufe": "15-25"
   },
   {
-   "titel": "UCI Unlimited Card Premium, 12 Monate Kino",
-   "kategorie": "Sonstiges",
-   "abteilung": "Freizeit & Spielzeug",
-   "unterkategorie": "Erlebnisse & Tickets",
-   "shop": "UCI Kinowelt",
-   "link": "https://mydealz.de/deals/uci-kino-unlimited-card-premium-12-monate-fur-199-eur-black-week-deal-2879068",
-   "preis_jetzt": 199.0,
-   "preis_vorher": 249.0,
-   "rabatt_prozent": 20,
-   "preisverlauf_geprueft": false,
-   "beleg_preisverlauf": "nein - regulärer Preis laut mydealz, Anbieterseite nicht abrufbar",
-   "gilt_bis": "30.11.2026",
-   "kurz": "Jahres-Kinoflatrate 50 € günstiger, laut Quelle einlösbar bis 31.03.2027.",
-   "quelle": "mydealz.de",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T12:05",
-   "bild": "bilder/5bf3d9eaf9.webp",
-   "neu_seit": "2026-11-27T10:43",
-   "stufe": "15-25"
-  },
-  {
-   "titel": "Sigma 56 mm F1.4 DC DN Contemporary (Micro Four Thirds)",
-   "kategorie": "Sonstiges",
-   "abteilung": "Elektronik & Technik",
-   "unterkategorie": "Kameras",
-   "shop": "Foto Erhardt",
-   "link": "https://foto-erhardt.de/objektive/sigma-objektive/fuer-mft/sigma-56mm-1-4-dc-dn-mft.html",
-   "preis_jetzt": 319.99,
-   "preis_vorher": 402.41,
-   "rabatt_prozent": 20,
-   "preisverlauf_geprueft": true,
-   "beleg_preisverlauf": "ja - Systemkamera-Forum: Durchschnitt der eigenen Messungen 402,41 €",
-   "gilt_bis": "unbekannt",
-   "kurz": "Porträtobjektiv für MFT rund 80 € unter dem Durchschnitt, versandkostenfrei.",
-   "quelle": "https://www.systemkamera-forum.de/deals/index/",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T12:05",
-   "bild": "bilder/16ce3a9199.webp",
-   "neu_seit": "2026-11-27T09:57",
-   "stufe": "15-25"
-  },
-  {
    "titel": "Dreame X60 Pro Ultra Complete Saugroboter",
    "kategorie": "Sonstiges",
    "abteilung": "Elektronik & Technik",
@@ -15942,27 +15627,6 @@
    "preis_geprueft": "2026-11-27T13:07",
    "bild": "",
    "neu_seit": "2026-11-27T12:53",
-   "stufe": "15-25"
-  },
-  {
-   "titel": "Star Wars: Galactic Racer (PS5)",
-   "kategorie": "Sonstiges",
-   "abteilung": "Gaming",
-   "unterkategorie": "PlayStation",
-   "shop": "Amazon (auch MediaMarkt bei Abholung)",
-   "link": "https://mydealz.de/deals/star-wars-galactic-racer-playstation-5-xbox-series-x-fur-4299eur-amazon-prime-media-markt-abholung-2882281",
-   "preis_jetzt": 45.98,
-   "preis_vorher": 56.99,
-   "rabatt_prozent": 19,
-   "preisverlauf_geprueft": false,
-   "beleg_preisverlauf": "nein - kein Verlauf eingesehen; Vergleichspreis 56,99 € laut mydealz; Shopseite nicht selbst geöffnet",
-   "gilt_bis": "unbekannt",
-   "kurz": "Aktuelles Rennspiel ein Viertel unter dem Vergleichspreis.",
-   "quelle": "mydealz",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T12:12",
-   "bild": "bilder/077e306b25.webp",
-   "neu_seit": "2026-11-27T10:43",
    "stufe": "15-25"
   },
   {
@@ -18841,27 +18505,6 @@
    "bild": "",
    "neu_seit": "2026-11-27T12:53",
    "stufe": "15-25"
-  },
-  {
-   "titel": "Bosch Professional GCM 305-216 D Kapp- und Gehrungssäge mit Untergestell",
-   "kategorie": "Sonstiges",
-   "abteilung": "Werkzeug & Baumarkt",
-   "unterkategorie": "Werkzeug",
-   "shop": "Bauhaus",
-   "link": "https://bauhaus.info/zug-kapp-gehrungssaegen/bosch-professional-saegen-set-gcm-305-216-d-inkl-gratis-untergestell/p/Set-Z01260170",
-   "preis_jetzt": 399.0,
-   "preis_vorher": 472.0,
-   "rabatt_prozent": 15,
-   "preisverlauf_geprueft": false,
-   "beleg_preisverlauf": "nein - nur Vergleich der Einzelpreise von Säge und Gestell laut mydealz-Ticker; Shopseite nicht abrufbar, Versand offen",
-   "gilt_bis": "30.11.2026",
-   "kurz": "Säge samt Untergestell rund 73 € günstiger als einzeln; Liefer- oder Abholkosten prüfen.",
-   "quelle": "mydealz-Live-Ticker",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T12:05",
-   "bild": "bilder/2bf08cddde.webp",
-   "neu_seit": "2026-11-27T08:46",
-   "stufe": "15-25"
   }
  ],
  "alle": [
@@ -21160,6 +20803,28 @@
    "grund": "Preis nicht mehr bestätigt"
   },
   {
+   "titel": "Sigma 16 mm F1.4 DC DN Contemporary (Fuji X)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Elektronik & Technik",
+   "unterkategorie": "Kameras",
+   "shop": "Foto Erhardt",
+   "link": "https://foto-erhardt.de/objektive/sigma-objektive/fuer-fujifilm-x/sigma-16mm-f1-4-dc-dn-c-fuji-x.html",
+   "preis_jetzt": 279.0,
+   "preis_vorher": 355.65,
+   "rabatt_prozent": 22,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - Systemkamera-Forum: Durchschnitt der eigenen Messungen 355,65 €",
+   "gilt_bis": "unbekannt",
+   "kurz": "Lichtstarke Weitwinkel-Festbrennweite, sofort lieferbar und versandkostenfrei.",
+   "quelle": "https://www.systemkamera-forum.de/deals/index/",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T13:07",
+   "bild": "bilder/824be292f3.webp",
+   "neu_seit": "2026-11-27T09:57",
+   "stufe": "15-25",
+   "grund": "Angebot beendet"
+  },
+  {
    "titel": "Philips Bodenstaubsauger 2000 Series XD2152/22",
    "kategorie": "Sonstiges",
    "abteilung": "Haushalt & Küche",
@@ -21644,6 +21309,28 @@
    "grund": "Preis gestiegen"
   },
   {
+   "titel": "Das Spiel des Lebens",
+   "kategorie": "Sonstiges",
+   "abteilung": "Freizeit & Spielzeug",
+   "unterkategorie": "Spielzeug",
+   "shop": "Amazon",
+   "link": "https://amazon.de/dp/B08JCY1H3S",
+   "preis_jetzt": 12.92,
+   "preis_vorher": 28.78,
+   "rabatt_prozent": 55,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - boardgamez.de: üblich etwa 28,78 €",
+   "gilt_bis": "30.11.2026 oder solange Vorrat",
+   "kurz": "Familienklassiker weniger als halb so teuer wie üblich; Preis und Versand vor dem Kauf prüfen.",
+   "quelle": "boardgamez.de; Amazon-Seite nicht abrufbar, Preis nicht selbst geprüft",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T12:12",
+   "bild": "bilder/83f07878a9.webp",
+   "neu_seit": "2026-11-27T08:46",
+   "stufe": "ueber-50",
+   "grund": "Preis nicht mehr bestätigt"
+  },
+  {
    "titel": "Acer Predator XB273KV3 Gaming-Monitor 27 Zoll 4K, 160 Hz",
    "kategorie": "Sonstiges",
    "abteilung": "Elektronik & Technik",
@@ -21669,6 +21356,116 @@
    "titel": "Brennenstuhl Gummi-Verlängerungskabel 25 m",
    "kategorie": "Sonstiges",
    "abteilung": "Haushalt & Küche",
+   "unterkategorie": "Wohnen",
+   "shop": "Amazon.de",
+   "link": "https://amazon.de/dp/B000ZEM0S6",
+   "preis_jetzt": 23.98,
+   "preis_vorher": 34.0,
+   "rabatt_prozent": 29,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - nur Preisvergleich 34 € (idealo, laut schnaeppchenfuchs und dealdoktor, 27.11.), kein Verlauf; Amazon-Seite nicht abrufbar",
+   "gilt_bis": "unbekannt",
+   "kurz": "Robustes 25-Meter-Kabel rund 10 € günstiger.",
+   "quelle": "https://schnaeppchenfuchs.com/angebote/amazon-black-friday-angebote",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T12:12",
+   "bild": "bilder/c46c0c906e.webp",
+   "neu_seit": "2026-11-27T09:59",
+   "stufe": "25-50",
+   "grund": "Preis nicht mehr bestätigt"
+  },
+  {
+   "titel": "Dragonkin: The Banished (PS5)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gaming",
+   "unterkategorie": "PlayStation",
+   "shop": "MediaMarkt/Saturn (Abholung)",
+   "link": "https://mydealz.de/deals/mediamarktsaturn-abholung-dragonkin-the-banished-playstation-5-2879071",
+   "preis_jetzt": 15.98,
+   "preis_vorher": 32.45,
+   "rabatt_prozent": 51,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf eingesehen; Vergleichspreis 32,45 € laut mydealz; Shopseite nicht selbst geöffnet",
+   "gilt_bis": "solange Vorrat",
+   "kurz": "Action-Rollenspiel bei Abholung weit unter dem Vergleichspreis.",
+   "quelle": "mydealz",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T12:12",
+   "bild": "bilder/299fd76357.webp",
+   "neu_seit": "2026-11-27T10:43",
+   "stufe": "ueber-50",
+   "grund": "Preis nicht mehr bestätigt"
+  },
+  {
+   "titel": "Nike Court Vision Mid Winter Sneaker",
+   "kategorie": "Sonstiges",
+   "abteilung": "Mode",
+   "unterkategorie": "Schuhe",
+   "shop": "Deichmann",
+   "link": "https://mein-deal.com/nike-court-vision-mid-winter",
+   "preis_jetzt": 45.0,
+   "preis_vorher": 82.0,
+   "rabatt_prozent": 45,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - Vergleich laut mein-deal ab 82 €; 45 € auf der Deichmann-Suchseite gesehen",
+   "gilt_bis": "unbekannt",
+   "kurz": "Wintersneaker deutlich unter anderen Angeboten.",
+   "quelle": "mein-deal",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T12:12",
+   "bild": "bilder/c344ae7fc2.webp",
+   "neu_seit": "2026-11-27T10:43",
+   "stufe": "25-50",
+   "grund": "Preis nicht mehr bestätigt"
+  },
+  {
+   "titel": "LEGO Batman: Das Vermächtnis des Dunklen Ritters (PS5)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gaming",
+   "unterkategorie": "PlayStation",
+   "shop": "Amazon (auch MediaMarkt/Saturn bei Abholung)",
+   "link": "https://mydealz.de/deals/lego-batman-das-vermachtnis-des-dunklen-ritters-4299eur-nintendo-switch-2-mediamarkt-saturn-abholung-2879044",
+   "preis_jetzt": 45.98,
+   "preis_vorher": 59.5,
+   "rabatt_prozent": 23,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf eingesehen; Vergleichspreis 59,50 € laut mydealz; Shopseite nicht selbst geöffnet",
+   "gilt_bis": "unbekannt",
+   "kurz": "Neuer LEGO-Titel deutlich unter dem Vergleichspreis.",
+   "quelle": "mydealz",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T12:12",
+   "bild": "bilder/de90efd5a3.webp",
+   "neu_seit": "2026-11-27T10:43",
+   "stufe": "15-25",
+   "grund": "Preis nicht mehr bestätigt"
+  },
+  {
+   "titel": "Star Wars: Galactic Racer (PS5)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Gaming",
+   "unterkategorie": "PlayStation",
+   "shop": "Amazon (auch MediaMarkt bei Abholung)",
+   "link": "https://mydealz.de/deals/star-wars-galactic-racer-playstation-5-xbox-series-x-fur-4299eur-amazon-prime-media-markt-abholung-2882281",
+   "preis_jetzt": 45.98,
+   "preis_vorher": 56.99,
+   "rabatt_prozent": 19,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf eingesehen; Vergleichspreis 56,99 € laut mydealz; Shopseite nicht selbst geöffnet",
+   "gilt_bis": "unbekannt",
+   "kurz": "Aktuelles Rennspiel ein Viertel unter dem Vergleichspreis.",
+   "quelle": "mydealz",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T12:12",
+   "bild": "bilder/077e306b25.webp",
+   "neu_seit": "2026-11-27T10:43",
+   "stufe": "15-25",
+   "grund": "Preis nicht mehr bestätigt"
+  },
+  {
+   "titel": "Brennenstuhl Gummi-Verlängerungskabel 25 m",
+   "kategorie": "Sonstiges",
+   "abteilung": "Haushalt & Küche",
    "unterkategorie": "",
    "shop": "Amazon",
    "link": "https://amazon.de/dp/B000ZE50S6",
@@ -21685,6 +21482,28 @@
    "bild": "bilder/c46c0c906e.webp",
    "neu_seit": "2026-11-27T09:59",
    "stufe": "25-50",
+   "grund": "Angebot beendet"
+  },
+  {
+   "titel": "Sigma 56 mm F1.4 DC DN Contemporary (Micro Four Thirds)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Elektronik & Technik",
+   "unterkategorie": "Kameras",
+   "shop": "Foto Erhardt",
+   "link": "https://foto-erhardt.de/objektive/sigma-objektive/fuer-mft/sigma-56mm-1-4-dc-dn-mft.html",
+   "preis_jetzt": 319.99,
+   "preis_vorher": 402.41,
+   "rabatt_prozent": 20,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - Systemkamera-Forum: Durchschnitt der eigenen Messungen 402,41 €",
+   "gilt_bis": "unbekannt",
+   "kurz": "Porträtobjektiv für MFT rund 80 € unter dem Durchschnitt, versandkostenfrei.",
+   "quelle": "https://www.systemkamera-forum.de/deals/index/",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T12:05",
+   "bild": "bilder/16ce3a9199.webp",
+   "neu_seit": "2026-11-27T09:57",
+   "stufe": "15-25",
    "grund": "Angebot beendet"
   },
   {
@@ -21728,6 +21547,204 @@
    "preis_geprueft": "2026-11-27T12:05",
    "bild": "",
    "neu_seit": "2026-11-27T08:50",
+   "stufe": "25-50",
+   "grund": "Preis nicht mehr bestätigt"
+  },
+  {
+   "titel": "Sneaker SUPERSTAR VINTAGE, adidas Originals",
+   "kategorie": "Sonstiges",
+   "abteilung": "Mode",
+   "unterkategorie": "Schuhe",
+   "shop": "Breuninger",
+   "link": "https://breuninger.com/de/marken/adidas-originals/sneaker-superstar-vintage/1002809261/p",
+   "preis_jetzt": 110.94,
+   "preis_vorher": 150.0,
+   "rabatt_prozent": 26,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - Breuninger \"Bestpreis\" (30-Tage-Tiefstpreis laut Shop, kein externer Verlauf geprüft)",
+   "gilt_bis": "unbekannt",
+   "kurz": "Sneaker 30 % unter dem 30-Tage-Tiefstpreis bei Breuninger (ab-Preis).",
+   "quelle": "breuninger.com Black-Week-Seite Herren Schuhe",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T12:05",
+   "bild": "bilder/2834c310ce.webp",
+   "neu_seit": "2026-11-27T09:17",
+   "stufe": "25-50",
+   "grund": "Preis nicht mehr bestätigt"
+  },
+  {
+   "titel": "Bosch Professional GCM 305-216 D Kapp- und Gehrungssäge mit Untergestell",
+   "kategorie": "Sonstiges",
+   "abteilung": "Werkzeug & Baumarkt",
+   "unterkategorie": "Werkzeug",
+   "shop": "Bauhaus",
+   "link": "https://bauhaus.info/zug-kapp-gehrungssaegen/bosch-professional-saegen-set-gcm-305-216-d-inkl-gratis-untergestell/p/Set-Z01260170",
+   "preis_jetzt": 399.0,
+   "preis_vorher": 472.0,
+   "rabatt_prozent": 15,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - nur Vergleich der Einzelpreise von Säge und Gestell laut mydealz-Ticker; Shopseite nicht abrufbar, Versand offen",
+   "gilt_bis": "30.11.2026",
+   "kurz": "Säge samt Untergestell rund 73 € günstiger als einzeln; Liefer- oder Abholkosten prüfen.",
+   "quelle": "mydealz-Live-Ticker",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T12:05",
+   "bild": "bilder/2bf08cddde.webp",
+   "neu_seit": "2026-11-27T08:46",
+   "stufe": "15-25",
+   "grund": "Preis nicht mehr bestätigt"
+  },
+  {
+   "titel": "LEGOLAND Deutschland Übernachtungspaket mit 2 Tagen Parkeintritt, ab-Preis pro Person",
+   "kategorie": "Sonstiges",
+   "abteilung": "Reisen",
+   "unterkategorie": "Urlaub & Hotel",
+   "shop": "LEGOLAND Deutschland",
+   "link": "https://freizeitparkinfos.de/zum-angebot/58203",
+   "preis_jetzt": 72.0,
+   "preis_vorher": 96.0,
+   "rabatt_prozent": 25,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - regulärer Preis laut freizeitparkinfos, Buchungsseite nicht geprüft",
+   "gilt_bis": "unbekannt",
+   "kurz": "Übernachtung mit Frühstück, Parken und zwei Parktagen für Anreisen vom 20.03. bis 30.06.2027.",
+   "quelle": "freizeitparkinfos.de",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T12:05",
+   "bild": "bilder/aa48c30b6f.webp",
+   "neu_seit": "2026-11-27T10:43",
+   "stufe": "25-50",
+   "grund": "Preis nicht mehr bestätigt"
+  },
+  {
+   "titel": "Denon Home 150 NV WLAN-Lautsprecher, schwarz",
+   "kategorie": "Sonstiges",
+   "abteilung": "Elektronik & Technik",
+   "unterkategorie": "Audio & Kopfhörer",
+   "shop": "Amazon.de (gleicher Preis bei MediaMarkt und Saturn)",
+   "link": "https://preisvergleich.heise.de/denon-home-150-nv-schwarz-a3389764.html",
+   "preis_jetzt": 149.0,
+   "preis_vorher": 199.0,
+   "rabatt_prozent": 25,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf abrufbar; Geizhals: außerhalb der drei Aktionsshops 189 € (eBay), 199 € (Galaxus), 224 € (electronic4you) (Shopseite nicht geöffnet)",
+   "gilt_bis": "unbekannt",
+   "kurz": "Multiroom-Lautsprecher 50 € oder mehr unter den übrigen Händlern.",
+   "quelle": "mydealz / Geizhals",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T12:05",
+   "bild": "bilder/ff96522dc3.webp",
+   "neu_seit": "2026-11-27T10:43",
+   "stufe": "25-50",
+   "grund": "Preis nicht mehr bestätigt"
+  },
+  {
+   "titel": "Bose Ultra Open Earbuds (1. Generation), weiß",
+   "kategorie": "Sonstiges",
+   "abteilung": "Elektronik & Technik",
+   "unterkategorie": "Audio & Kopfhörer",
+   "shop": "MediaMarkt",
+   "link": "https://preisvergleich.heise.de/bose-ultra-open-earbuds-weiss-881046-0020-a3125705.html",
+   "preis_jetzt": 149.0,
+   "preis_vorher": 199.0,
+   "rabatt_prozent": 25,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf abrufbar; Geizhals: Saturn 195 €, Galaxus und Coolblue 199 € (Shopseite und Versandkosten nicht geprüft)",
+   "gilt_bis": "unbekannt",
+   "kurz": "Vorgängermodell der Open-Ear-Earbuds rund 50 € unter den anderen großen Shops.",
+   "quelle": "Geizhals",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T12:05",
+   "bild": "bilder/8d829350ff.webp",
+   "neu_seit": "2026-11-27T10:43",
+   "stufe": "25-50",
+   "grund": "Preis nicht mehr bestätigt"
+  },
+  {
+   "titel": "Sony ULT Field 1 Bluetooth-Lautsprecher",
+   "kategorie": "Sonstiges",
+   "abteilung": "Elektronik & Technik",
+   "unterkategorie": "Audio & Kopfhörer",
+   "shop": "MediaMarkt (gleicher Preis bei Amazon und Saturn)",
+   "link": "https://preisvergleich.heise.de/sony-ult-field-1-schwarz-srsult10b-ce7-a3170524.html",
+   "preis_jetzt": 59.0,
+   "preis_vorher": 77.4,
+   "rabatt_prozent": 24,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf abrufbar; Geizhals: viele andere Shops zwischen 66 € und 119 €, z. B. e-tec 77,40 €, Alternate 86,90 € (Shopseite nicht geöffnet)",
+   "gilt_bis": "unbekannt",
+   "kurz": "Kompakter Lautsprecher klar unter dem Preisniveau der Händler ohne Aktion.",
+   "quelle": "hifi.de / Geizhals",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T12:05",
+   "bild": "bilder/e669ca34a2.webp",
+   "neu_seit": "2026-11-27T10:43",
+   "stufe": "15-25",
+   "grund": "Preis nicht mehr bestätigt"
+  },
+  {
+   "titel": "Marshall Middleton Bluetooth-Lautsprecher, Black and Brass",
+   "kategorie": "Sonstiges",
+   "abteilung": "Elektronik & Technik",
+   "unterkategorie": "Audio & Kopfhörer",
+   "shop": "Expert",
+   "link": "https://preisvergleich.heise.de/marshall-middleton-1006034-a2882490.html",
+   "preis_jetzt": 149.0,
+   "preis_vorher": 189.9,
+   "rabatt_prozent": 22,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - Marshall nennt für seinen Shop 199 € als 30-Tage-Tiefstpreis (heute dort 179 €); Geizhals: weitere Händler 159 bis 299 € (Expert-Seite nicht selbst geöffnet)",
+   "gilt_bis": "unbekannt",
+   "kurz": "Auch deutlich günstiger als das aktuelle Angebot im Herstellershop, Versand laut Preisvergleich kostenlos.",
+   "quelle": "Geizhals / Marshall",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T12:05",
+   "bild": "bilder/af0e24a928.webp",
+   "neu_seit": "2026-11-27T10:43",
+   "stufe": "15-25",
+   "grund": "Preis nicht mehr bestätigt"
+  },
+  {
+   "titel": "UCI Unlimited Card Premium, 12 Monate Kino",
+   "kategorie": "Sonstiges",
+   "abteilung": "Freizeit & Spielzeug",
+   "unterkategorie": "Erlebnisse & Tickets",
+   "shop": "UCI Kinowelt",
+   "link": "https://mydealz.de/deals/uci-kino-unlimited-card-premium-12-monate-fur-199-eur-black-week-deal-2879068",
+   "preis_jetzt": 199.0,
+   "preis_vorher": 249.0,
+   "rabatt_prozent": 20,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - regulärer Preis laut mydealz, Anbieterseite nicht abrufbar",
+   "gilt_bis": "30.11.2026",
+   "kurz": "Jahres-Kinoflatrate 50 € günstiger, laut Quelle einlösbar bis 31.03.2027.",
+   "quelle": "mydealz.de",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T12:05",
+   "bild": "bilder/5bf3d9eaf9.webp",
+   "neu_seit": "2026-11-27T10:43",
+   "stufe": "15-25",
+   "grund": "Preis nicht mehr bestätigt"
+  },
+  {
+   "titel": "adidas Italien Auswärtstrikot 2026/27",
+   "kategorie": "Sonstiges",
+   "abteilung": "Mode",
+   "unterkategorie": "Herren",
+   "shop": "Picksport",
+   "link": "https://mein-deal.com/adidas-italien-auswaertstrikot-2026",
+   "preis_jetzt": 40.98,
+   "preis_vorher": 55.0,
+   "rabatt_prozent": 25,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - nur Shopvergleich laut mein-deal; Shopseite nicht geprüft",
+   "gilt_bis": "solange Vorrat",
+   "kurz": "Aktuelles Trikot mit Code BF20 inklusive Versand.",
+   "quelle": "mein-deal",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T12:05",
+   "bild": "bilder/02e5c16b79.webp",
+   "neu_seit": "2026-11-27T10:43",
    "stufe": "25-50",
    "grund": "Preis nicht mehr bestätigt"
   },
@@ -27875,24 +27892,24 @@
   {
    "kurz": "15-25",
    "name": "15–25 %",
-   "anzahl": 414
+   "anzahl": 406
   },
   {
    "kurz": "25-50",
    "name": "25–50 %",
-   "anzahl": 420
+   "anzahl": 413
   },
   {
    "kurz": "ueber-50",
    "name": "über 50 %",
-   "anzahl": 170
+   "anzahl": 168
   }
  ],
  "abteilungen": [
   {
    "name": "Elektronik & Technik",
    "kurz": "elektronik",
-   "anzahl": 160,
+   "anzahl": 154,
    "unter": [
     {
      "name": "Smartphones & Tablets",
@@ -27912,7 +27929,7 @@
     {
      "name": "Audio & Kopfhörer",
      "kurz": "audio-kopfhoerer",
-     "anzahl": 61
+     "anzahl": 57
     },
     {
      "name": "Smart Home",
@@ -27922,7 +27939,7 @@
     {
      "name": "Kameras",
      "kurz": "kameras",
-     "anzahl": 18
+     "anzahl": 16
     }
    ]
   },
@@ -27968,7 +27985,7 @@
   {
    "name": "Gaming",
    "kurz": "gaming",
-   "anzahl": 61,
+   "anzahl": 58,
    "unter": [
     {
      "name": "Gaming-Zubehör",
@@ -27978,7 +27995,7 @@
     {
      "name": "PlayStation",
      "kurz": "playstation",
-     "anzahl": 31
+     "anzahl": 28
     },
     {
      "name": "PC-Spiele",
@@ -27990,7 +28007,7 @@
   {
    "name": "Haushalt & Küche",
    "kurz": "haushalt",
-   "anzahl": 178,
+   "anzahl": 177,
    "unter": [
     {
      "name": "Küchengeräte",
@@ -28005,7 +28022,7 @@
     {
      "name": "Wohnen",
      "kurz": "wohnen",
-     "anzahl": 37
+     "anzahl": 36
     },
     {
      "name": "Lebensmittel & Getränke",
@@ -28017,12 +28034,12 @@
   {
    "name": "Werkzeug & Baumarkt",
    "kurz": "werkzeug",
-   "anzahl": 65,
+   "anzahl": 64,
    "unter": [
     {
      "name": "Werkzeug",
      "kurz": "werkzeug",
-     "anzahl": 49
+     "anzahl": 48
     },
     {
      "name": "Garten",
@@ -28073,12 +28090,12 @@
   {
    "name": "Mode",
    "kurz": "mode",
-   "anzahl": 252,
+   "anzahl": 249,
    "unter": [
     {
      "name": "Schuhe",
      "kurz": "schuhe",
-     "anzahl": 104
+     "anzahl": 102
     },
     {
      "name": "Uhren & Accessoires",
@@ -28093,7 +28110,7 @@
     {
      "name": "Herren",
      "kurz": "herren",
-     "anzahl": 65
+     "anzahl": 64
     },
     {
      "name": "Kinder",
@@ -28122,34 +28139,22 @@
   {
    "name": "Freizeit & Spielzeug",
    "kurz": "freizeit",
-   "anzahl": 108,
+   "anzahl": 106,
    "unter": [
     {
      "name": "Spielzeug",
      "kurz": "spielzeug",
-     "anzahl": 96
+     "anzahl": 95
     },
     {
      "name": "Erlebnisse & Tickets",
      "kurz": "erlebnisse-tickets",
-     "anzahl": 2
+     "anzahl": 1
     },
     {
      "name": "Bücher & Filme",
      "kurz": "buecher-filme",
      "anzahl": 10
-    }
-   ]
-  },
-  {
-   "name": "Reisen",
-   "kurz": "reisen",
-   "anzahl": 1,
-   "unter": [
-    {
-     "name": "Urlaub & Hotel",
-     "kurz": "urlaub-hotel",
-     "anzahl": 1
     }
    ]
   }
