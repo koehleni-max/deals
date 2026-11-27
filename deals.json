@@ -1,6 +1,6 @@
 {
  "stand": "2026-11-27T09:03",
- "fingerabdruck": "f034a8e31bd53ea8",
+ "fingerabdruck": "3dc9d0ad43a005b7",
  "mindest": 15,
  "black_week": true,
  "preise_in_pruefung": false,
@@ -380,6 +380,48 @@
    "aktion": "",
    "preis_geprueft": "2026-11-27T09:03",
    "bild": "bilder/5e0cdc2ad2.webp",
+   "neu_seit": "2026-11-27T06:29",
+   "stufe": "ueber-50"
+  },
+  {
+   "titel": "Liebeskind Berlin Uhr (Damen)",
+   "kategorie": "Kleidung/Accessoires",
+   "abteilung": "Mode",
+   "unterkategorie": "Uhren & Accessoires",
+   "shop": "About You",
+   "link": "https://aboutyou.de/c/frauen/black-friday-341495",
+   "preis_jetzt": 67.96,
+   "preis_vorher": 169.9,
+   "rabatt_prozent": 60,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "ungeprüft (umstritten, wie beim JDY-Kleid)",
+   "gilt_bis": "unbekannt",
+   "kurz": "Ohne Modellnummer ist kein Marktvergleich möglich.",
+   "quelle": "",
+   "aktion": "",
+   "preis_geprueft": "2026-11-27T07:03",
+   "bild": "",
+   "neu_seit": "2026-11-27T06:30",
+   "stufe": "ueber-50"
+  },
+  {
+   "titel": "Ghost of Tsushima Director's Cut (PC, Steam-Key)",
+   "kategorie": "Gaming – PC",
+   "abteilung": "Gaming",
+   "unterkategorie": "PC-Spiele",
+   "shop": "Gamesplanet DE (Steam-Key)",
+   "link": "https://store.steampowered.com/app/2215430",
+   "preis_jetzt": 27.95,
+   "preis_vorher": 59.99,
+   "rabatt_prozent": 53,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "https://gg.deals/de/game/ghost-of-tsushima-directors-cut/ (Tiefstpreis im offiziellen Store war 24,50 €)",
+   "gilt_bis": "unbekannt",
+   "kurz": "Samurai-Open-World mit GameStar-Wertung 90.",
+   "quelle": "",
+   "aktion": "",
+   "preis_geprueft": "2026-11-27T06:58",
+   "bild": "bilder/68f4d148cc.webp",
    "neu_seit": "2026-11-27T06:29",
    "stufe": "ueber-50"
   },
@@ -867,27 +909,6 @@
    "stufe": "25-50"
   },
   {
-   "titel": "LEGOLAND Übernachtungsspecial mit 2 Tagen Parkeintritt (Anreise 20.03.–30.06.2027)",
-   "kategorie": "Sonstiges",
-   "abteilung": "Reisen",
-   "unterkategorie": "Urlaub & Hotel",
-   "shop": "LEGOLAND Deutschland",
-   "link": "https://legoland.de/tickets/angebote/black-fun-days",
-   "preis_jetzt": 72.0,
-   "preis_vorher": 96.0,
-   "rabatt_prozent": 25,
-   "preisverlauf_geprueft": false,
-   "beleg_preisverlauf": "nein - kein Verlauf; regulärer Preis laut Anbieterseite",
-   "gilt_bis": "30.11.2026",
-   "kurz": "Übernachtung mit Frühstück, Parken und zwei Parktagen ein Viertel günstiger.",
-   "quelle": "freizeitparkinfos.de, Anbieterseite",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T09:06",
-   "bild": "",
-   "neu_seit": "2026-11-27T08:50",
-   "stufe": "25-50"
-  },
-  {
    "titel": "Marshall Monitor III A.N.C. Over-Ear-Kopfhörer, schwarz",
    "kategorie": "Sonstiges",
    "abteilung": "Elektronik & Technik",
@@ -1037,8 +1058,8 @@
   {
    "titel": "Happy SIM 100 GB Allnet-Flat (Flex, Black Week), o2-Netz",
    "kategorie": "Sonstiges",
-   "abteilung": "Handy-Verträge & Tarife",
-   "unterkategorie": "SIM-only-Tarife",
+   "abteilung": "Sonstiges",
+   "unterkategorie": "",
    "shop": "Happy SIM (Angebot über tariffuxx.de geprüft)",
    "link": "https://tariffuxx.de/handytarife/happy-sim/happy-sim-100-gb-10-euro",
    "preis_jetzt": 9.99,
@@ -1675,12 +1696,12 @@
   {
    "kurz": "25-50",
    "name": "25–50 %",
-   "anzahl": 24
+   "anzahl": 23
   },
   {
    "kurz": "ueber-50",
    "name": "über 50 %",
-   "anzahl": 21
+   "anzahl": 23
   }
  ],
  "abteilungen": [
@@ -1722,21 +1743,9 @@
    ]
   },
   {
-   "name": "Handy-Verträge & Tarife",
-   "kurz": "tarife",
-   "anzahl": 1,
-   "unter": [
-    {
-     "name": "SIM-only-Tarife",
-     "kurz": "sim-only-tarife",
-     "anzahl": 1
-    }
-   ]
-  },
-  {
    "name": "Gaming",
    "kurz": "gaming",
-   "anzahl": 38,
+   "anzahl": 39,
    "unter": [
     {
      "name": "Gaming-Zubehör",
@@ -1756,7 +1765,7 @@
     {
      "name": "PC-Spiele",
      "kurz": "pc-spiele",
-     "anzahl": 17
+     "anzahl": 18
     }
    ]
   },
@@ -1814,6 +1823,18 @@
    ]
   },
   {
+   "name": "Mode",
+   "kurz": "mode",
+   "anzahl": 1,
+   "unter": [
+    {
+     "name": "Uhren & Accessoires",
+     "kurz": "uhren-accessoires",
+     "anzahl": 1
+    }
+   ]
+  },
+  {
    "name": "Freizeit & Spielzeug",
    "kurz": "freizeit",
    "anzahl": 3,
@@ -1828,14 +1849,20 @@
   {
    "name": "Reisen",
    "kurz": "reisen",
-   "anzahl": 2,
+   "anzahl": 1,
    "unter": [
     {
      "name": "Urlaub & Hotel",
      "kurz": "urlaub-hotel",
-     "anzahl": 2
+     "anzahl": 1
     }
    ]
+  },
+  {
+   "name": "Sonstiges",
+   "kurz": "sonstiges",
+   "anzahl": 1,
+   "unter": []
   }
  ]
 }
