@@ -1,6 +1,6 @@
 {
  "stand": "2026-11-27T11:05",
- "fingerabdruck": "2eea6b7b7465e405",
+ "fingerabdruck": "32d4aa44bbada2bd",
  "mindest": 15,
  "black_week": true,
  "preise_in_pruefung": false,
@@ -2767,10 +2767,10 @@
    "preis_vorher": 44.0,
    "rabatt_prozent": 34,
    "preisverlauf_geprueft": false,
-   "beleg_preisverlauf": "nein - kein Preisverlauf; Vergleich mit dem regulären Onlinepreis des Anbieters",
+   "beleg_preisverlauf": "nein - kein Preisverlauf; regulärer Online-Preis laut Anbieterseite 44 €",
    "gilt_bis": "02.12.2026",
-   "kurz": "12 Monate Eintritt, nur online zum Aktionspreis.",
-   "quelle": "freizeitparkinfos.de, Anbieterseite geprüft",
+   "kurz": "Jahreskarte pro Person 15 € günstiger, nur online.",
+   "quelle": "freizeitparkinfos.de, visitsealife.com",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T10:10",
    "bild": "bilder/4b99f69a0c.webp",
@@ -3376,10 +3376,10 @@
    "preis_vorher": 49.0,
    "rabatt_prozent": 31,
    "preisverlauf_geprueft": false,
-   "beleg_preisverlauf": "nein - kein Preisverlauf; Vergleich mit dem regulären Onlinepreis des Anbieters",
+   "beleg_preisverlauf": "nein - kein Preisverlauf; regulärer Online-Preis laut Anbieterseite 49 €",
    "gilt_bis": "02.12.2026",
-   "kurz": "12 Monate Eintritt, nur online zum Aktionspreis.",
-   "quelle": "freizeitparkinfos.de, Anbieterseite geprüft",
+   "kurz": "Zwölf Monate Eintritt, 15 € günstiger, nur online.",
+   "quelle": "freizeitparkinfos.de, visitsealife.com",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T10:10",
    "bild": "bilder/775fd5d7eb.webp",
@@ -3555,7 +3555,7 @@
    "stufe": "25-50"
   },
   {
-   "titel": "Dyson V8 Absolute Akkustaubsauger",
+   "titel": "Dyson V8 Absolute Akkusauger",
    "kategorie": "Sonstiges",
    "abteilung": "Haushalt & Küche",
    "unterkategorie": "Haushaltsgeräte",
@@ -3565,10 +3565,10 @@
    "preis_vorher": 317.71,
    "rabatt_prozent": 30,
    "preisverlauf_geprueft": false,
-   "beleg_preisverlauf": "nein - nur Vergleichspreis laut mydealz (317,71 €)",
-   "gilt_bis": "30.11.2026",
-   "kurz": "Dyson-Akkusauger rund 95 € unter dem Vergleichspreis.",
-   "quelle": "mydealz; Preis auf der MediaMarkt-Aktionsliste gesehen",
+   "beleg_preisverlauf": "nein - nur Vergleichspreis laut mydealz (317,71 €), kein Verlauf geprüft",
+   "gilt_bis": "solange Vorrat",
+   "kurz": "Bekannter Dyson-Akkusauger rund 95 € unter dem Vergleichspreis, Lieferung nach Hause kostenlos.",
+   "quelle": "mydealz Dyson-Übersicht",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T09:06",
    "bild": "bilder/8c63d01c86.webp",
@@ -5046,6 +5046,27 @@
    "stufe": "25-50"
   },
   {
+   "titel": "Roborock Qrevo Curv 2 ProX Saugroboter, weiß",
+   "kategorie": "Sonstiges",
+   "abteilung": "Haushalt & Küche",
+   "unterkategorie": "Haushaltsgeräte",
+   "shop": "MediaMarkt",
+   "link": "https://mediamarkt.de/de/product/_roborock-qrevo-curv-2-prox-white-saugroboter-3008867.html",
+   "preis_jetzt": 599.0,
+   "preis_vorher": 799.0,
+   "rabatt_prozent": 25,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - Vergleichspreis 799 € laut mydealz; frühere MediaMarkt-Aktion ebenfalls 799 €",
+   "gilt_bis": "solange Vorrat",
+   "kurz": "Saug-Wischroboter mit Station 200 € unter dem früheren Aktionspreis.",
+   "quelle": "mydealz Staubsauger-Übersicht",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T09:03",
+   "bild": "bilder/8ba07ebb38.webp",
+   "neu_seit": "2026-11-27T08:46",
+   "stufe": "25-50"
+  },
+  {
    "titel": "Diablo IV: Lord of Hatred – Ultimate Edition (PS4/PS5)",
    "kategorie": "Sonstiges",
    "abteilung": "Gaming",
@@ -5631,27 +5652,6 @@
    "preis_geprueft": "2026-11-27T10:10",
    "bild": "bilder/ac733186df.webp",
    "neu_seit": "2026-11-27T09:31",
-   "stufe": "25-50"
-  },
-  {
-   "titel": "Roborock Qrevo Curv 2 ProX, weiß",
-   "kategorie": "Sonstiges",
-   "abteilung": "Haushalt & Küche",
-   "unterkategorie": "Haushaltsgeräte",
-   "shop": "MediaMarkt",
-   "link": "https://mediamarkt.de/de/product/_roborock-qrevo-curv-2-prox-white-saugroboter-3008867.html",
-   "preis_jetzt": 599.0,
-   "preis_vorher": 799.0,
-   "rabatt_prozent": 25,
-   "preisverlauf_geprueft": false,
-   "beleg_preisverlauf": "nein - kein Verlauf; vor der Black-Week-Aktion 799 € (MediaMarkt Shine Days), Vergleichspreis anderer Shops laut mydealz 799 €",
-   "gilt_bis": "solange Vorrat",
-   "kurz": "25.000 Pa, Heißwasser-Moppwäsche und Kamera-Hinderniserkennung für 599 €.",
-   "quelle": "mydealz-Magazin MediaMarkt Black Friday; Preis auf der MediaMarkt-Seite bestätigt",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T09:03",
-   "bild": "bilder/8ba07ebb38.webp",
-   "neu_seit": "2026-11-27T08:46",
    "stufe": "25-50"
   },
   {
@@ -8214,27 +8214,6 @@
    "preis_geprueft": "2026-11-27T09:50",
    "bild": "bilder/c767e3c145.webp",
    "neu_seit": "2026-11-27T09:04",
-   "stufe": "15-25"
-  },
-  {
-   "titel": "LG F4WX701Y Waschmaschine 11 kg",
-   "kategorie": "Sonstiges",
-   "abteilung": "Haushalt & Küche",
-   "unterkategorie": "Haushaltsgeräte",
-   "shop": "Joybuy",
-   "link": "https://joybuy.de/dp/100023530256591",
-   "preis_jetzt": 529.0,
-   "preis_vorher": 641.94,
-   "rabatt_prozent": 18,
-   "preisverlauf_geprueft": false,
-   "beleg_preisverlauf": "nein - kein Verlauf; Vergleichspreis laut monsterdealz",
-   "gilt_bis": "solange Vorrat",
-   "kurz": "11-kg-Maschine für 459 € nach dem 70-€-Gutschein auf der Produktseite; Versand dort als kostenlos angezeigt.",
-   "quelle": "monsterdealz; Shopseite geprüft",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T10:10",
-   "bild": "bilder/abf06f404e.webp",
-   "neu_seit": "2026-11-27T08:50",
    "stufe": "15-25"
   },
   {
@@ -10932,7 +10911,7 @@
   {
    "kurz": "15-25",
    "name": "15–25 %",
-   "anzahl": 199
+   "anzahl": 198
   },
   {
    "kurz": "25-50",
@@ -11062,7 +11041,7 @@
   {
    "name": "Haushalt & Küche",
    "kurz": "haushalt",
-   "anzahl": 53,
+   "anzahl": 52,
    "unter": [
     {
      "name": "Küchengeräte",
@@ -11072,7 +11051,7 @@
     {
      "name": "Haushaltsgeräte",
      "kurz": "haushaltsgeraete",
-     "anzahl": 26
+     "anzahl": 25
     },
     {
      "name": "Wohnen",
