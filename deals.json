@@ -1,6 +1,6 @@
 {
- "stand": "2026-11-27T08:01",
- "fingerabdruck": "dba4cc0b92b132a9",
+ "stand": "2026-11-27T09:03",
+ "fingerabdruck": "f034a8e31bd53ea8",
  "mindest": 15,
  "black_week": true,
  "preise_in_pruefung": false,
@@ -42,7 +42,7 @@
    "kurz": "Arcade-Rennspiel zum Tiefstpreis.",
    "quelle": "",
    "aktion": "",
-   "preis_geprueft": "2026-11-27T08:01",
+   "preis_geprueft": "2026-11-27T09:03",
    "bild": "bilder/32fb5f3985.webp",
    "neu_seit": "2026-11-27T06:29",
    "stufe": "ueber-50"
@@ -63,7 +63,7 @@
    "kurz": "Shooter im Ersten Weltkrieg für unter 1 €.",
    "quelle": "",
    "aktion": "",
-   "preis_geprueft": "2026-11-27T08:01",
+   "preis_geprueft": "2026-11-27T09:03",
    "bild": "bilder/93d831bbb5.webp",
    "neu_seit": "2026-11-27T06:29",
    "stufe": "ueber-50"
@@ -84,7 +84,7 @@
    "kurz": "Die Premium Edition mit allen Erweiterungen kostet 1,99 €.",
    "quelle": "",
    "aktion": "",
-   "preis_geprueft": "2026-11-27T08:01",
+   "preis_geprueft": "2026-11-27T09:03",
    "bild": "bilder/ba53a5f71c.webp",
    "neu_seit": "2026-11-27T06:29",
    "stufe": "ueber-50"
@@ -126,7 +126,7 @@
    "kurz": "Survival-Spiel im Dschungel, auch im Koop.",
    "quelle": "",
    "aktion": "",
-   "preis_geprueft": "2026-11-27T07:23",
+   "preis_geprueft": "2026-11-27T09:03",
    "bild": "bilder/c4c14e5bb1.webp",
    "neu_seit": "2026-11-27T06:29",
    "stufe": "ueber-50"
@@ -147,7 +147,7 @@
    "kurz": "Sehr gutes Horror-Remake zum Tiefstpreis.",
    "quelle": "",
    "aktion": "",
-   "preis_geprueft": "2026-11-27T08:01",
+   "preis_geprueft": "2026-11-27T09:03",
    "bild": "bilder/cdce4e0f9b.webp",
    "neu_seit": "2026-11-27T06:29",
    "stufe": "ueber-50"
@@ -168,7 +168,7 @@
    "kurz": "Story-Shooter zum Tiefstpreis, bei GOG ohne Kopierschutz.",
    "quelle": "",
    "aktion": "",
-   "preis_geprueft": "2026-11-27T08:01",
+   "preis_geprueft": "2026-11-27T09:03",
    "bild": "bilder/7a41e917ae.webp",
    "neu_seit": "2026-11-27T06:29",
    "stufe": "ueber-50"
@@ -189,7 +189,7 @@
    "kurz": "Kult-Action, fast auf dem Tiefstpreis von 1,91 €.",
    "quelle": "",
    "aktion": "",
-   "preis_geprueft": "2026-11-27T08:01",
+   "preis_geprueft": "2026-11-27T09:03",
    "bild": "bilder/a483a3e410.webp",
    "neu_seit": "2026-11-27T06:29",
    "stufe": "ueber-50"
@@ -210,7 +210,7 @@
    "kurz": "Starke Shooter-Kampagne, braucht die EA-App.",
    "quelle": "",
    "aktion": "",
-   "preis_geprueft": "2026-11-27T08:01",
+   "preis_geprueft": "2026-11-27T09:03",
    "bild": "bilder/403220fde0.webp",
    "neu_seit": "2026-11-27T06:29",
    "stufe": "ueber-50"
@@ -231,7 +231,7 @@
    "kurz": "Verrücktes Open-World-Spiel, Steam ist hier der günstigste Shop.",
    "quelle": "",
    "aktion": "",
-   "preis_geprueft": "2026-11-27T08:01",
+   "preis_geprueft": "2026-11-27T09:03",
    "bild": "bilder/d0fcd2c9a4.webp",
    "neu_seit": "2026-11-27T06:29",
    "stufe": "ueber-50"
@@ -252,7 +252,7 @@
    "kurz": "Open-World-Action mit viel Zerstörung.",
    "quelle": "",
    "aktion": "",
-   "preis_geprueft": "2026-11-27T08:01",
+   "preis_geprueft": "2026-11-27T09:03",
    "bild": "bilder/25b4c82ce8.webp",
    "neu_seit": "2026-11-27T06:29",
    "stufe": "ueber-50"
@@ -273,7 +273,7 @@
    "kurz": "Koop-Spiel des Jahres 2021 zum Tiefstpreis. Nur einer muss es kaufen.",
    "quelle": "",
    "aktion": "",
-   "preis_geprueft": "2026-11-27T08:01",
+   "preis_geprueft": "2026-11-27T09:03",
    "bild": "bilder/8330f41554.webp",
    "neu_seit": "2026-11-27T06:29",
    "stufe": "ueber-50"
@@ -294,7 +294,7 @@
    "kurz": "Open-World-Star-Wars-Spiel, braucht Ubisoft Connect.",
    "quelle": "",
    "aktion": "",
-   "preis_geprueft": "2026-11-27T08:01",
+   "preis_geprueft": "2026-11-27T09:03",
    "bild": "bilder/b4601b0c3d.webp",
    "neu_seit": "2026-11-27T06:29",
    "stufe": "ueber-50"
@@ -315,8 +315,29 @@
    "kurz": "Evolutions-Simulation, ein Klassiker.",
    "quelle": "",
    "aktion": "",
-   "preis_geprueft": "2026-11-27T08:01",
+   "preis_geprueft": "2026-11-27T09:03",
    "bild": "bilder/3d2032459c.webp",
+   "neu_seit": "2026-11-27T06:29",
+   "stufe": "ueber-50"
+  },
+  {
+   "titel": "Halo: The Master Chief Collection (PC)",
+   "kategorie": "Gaming – Steam",
+   "abteilung": "Gaming",
+   "unterkategorie": "PC-Spiele",
+   "shop": "Steam / Microsoft Store",
+   "link": "https://store.steampowered.com/app/976730",
+   "preis_jetzt": 9.99,
+   "preis_vorher": 39.99,
+   "rabatt_prozent": 75,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "https://gg.deals/de/game/halo-the-master-chief-collection/",
+   "gilt_bis": "ca. 03.12.2026",
+   "kurz": "Sechs Halo-Spiele zum Tiefstpreis.",
+   "quelle": "",
+   "aktion": "",
+   "preis_geprueft": "2026-11-27T09:03",
+   "bild": "bilder/1402222e27.webp",
    "neu_seit": "2026-11-27T06:29",
    "stufe": "ueber-50"
   },
@@ -342,27 +363,6 @@
    "stufe": "ueber-50"
   },
   {
-   "titel": "Halo: The Master Chief Collection (PC)",
-   "kategorie": "Gaming – Steam",
-   "abteilung": "Gaming",
-   "unterkategorie": "PC-Spiele",
-   "shop": "Steam / Microsoft Store",
-   "link": "https://store.steampowered.com/app/976730",
-   "preis_jetzt": 9.99,
-   "preis_vorher": 39.99,
-   "rabatt_prozent": 75,
-   "preisverlauf_geprueft": false,
-   "beleg_preisverlauf": "https://gg.deals/de/game/halo-the-master-chief-collection/",
-   "gilt_bis": "ca. 03.12.2026",
-   "kurz": "Sechs Halo-Spiele zum Tiefstpreis.",
-   "quelle": "",
-   "aktion": "",
-   "preis_geprueft": "2026-11-27T08:01",
-   "bild": "bilder/1402222e27.webp",
-   "neu_seit": "2026-11-27T06:29",
-   "stufe": "ueber-50"
-  },
-  {
    "titel": "Battlefield 6 (PC)",
    "kategorie": "Gaming – Steam",
    "abteilung": "Gaming",
@@ -378,9 +378,30 @@
    "kurz": "Shooter von 2025 zum Tiefstpreis im offiziellen Store. Braucht ein EA-Konto, Secure Boot und TPM 2.0.",
    "quelle": "",
    "aktion": "",
-   "preis_geprueft": "2026-11-27T08:01",
+   "preis_geprueft": "2026-11-27T09:03",
    "bild": "bilder/5e0cdc2ad2.webp",
    "neu_seit": "2026-11-27T06:29",
+   "stufe": "ueber-50"
+  },
+  {
+   "titel": "Lidl Experiences Gutschein 100 € für 50 €",
+   "kategorie": "Reisen/Freizeit",
+   "abteilung": "Reisen",
+   "unterkategorie": "Urlaub & Hotel",
+   "shop": "Lidl Reisen (Anbieter Travelcircus)",
+   "link": "https://mydealz.de/deals/lidl-online-am-2711-lidl-experiences-gutschein-in-hohe-von-100eur-fur-50eur-reiseanbieter-travelcircus-2871449",
+   "preis_jetzt": 50.0,
+   "preis_vorher": 100.0,
+   "rabatt_prozent": 50,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "ungeprüft (die heutige Aktion hat nur eine Quelle; dieselbe Aktion gab es schon im November 2025, Dezember 2025 und April 2026)",
+   "gilt_bis": "27.11.2026, nur online; einlösbar 05.01.2027 bis 30.12.2029",
+   "kurz": "Die vollen 50 % gibt es nur, wenn du den Gutschein ganz für ausgewählte Angebote nutzt; die Aktion kommt regelmäßig wieder, du musst also nicht hetzen.",
+   "quelle": "",
+   "aktion": "",
+   "preis_geprueft": "2026-11-27T09:03",
+   "bild": "bilder/7177e4fc42.webp",
+   "neu_seit": "2026-11-27T06:30",
    "stufe": "ueber-50"
   },
   {
@@ -423,27 +444,6 @@
    "preis_geprueft": "2026-11-27T09:03",
    "bild": "bilder/21e15edc48.webp",
    "neu_seit": "2026-11-27T08:39",
-   "stufe": "ueber-50"
-  },
-  {
-   "titel": "Lidl Experiences Gutschein 100 € für 50 €",
-   "kategorie": "Reisen/Freizeit",
-   "abteilung": "Reisen",
-   "unterkategorie": "Urlaub & Hotel",
-   "shop": "Lidl Reisen (Anbieter Travelcircus)",
-   "link": "https://mydealz.de/deals/lidl-online-am-2711-lidl-experiences-gutschein-in-hohe-von-100eur-fur-50eur-reiseanbieter-travelcircus-2871449",
-   "preis_jetzt": 50.0,
-   "preis_vorher": 100.0,
-   "rabatt_prozent": 50,
-   "preisverlauf_geprueft": false,
-   "beleg_preisverlauf": "ungeprüft (die heutige Aktion hat nur eine Quelle; dieselbe Aktion gab es schon im November 2025, Dezember 2025 und April 2026)",
-   "gilt_bis": "27.11.2026, nur online; einlösbar 05.01.2027 bis 30.12.2029",
-   "kurz": "Die vollen 50 % gibt es nur, wenn du den Gutschein ganz für ausgewählte Angebote nutzt; die Aktion kommt regelmäßig wieder, du musst also nicht hetzen.",
-   "quelle": "",
-   "aktion": "",
-   "preis_geprueft": "2026-11-27T08:01",
-   "bild": "bilder/7177e4fc42.webp",
-   "neu_seit": "2026-11-27T06:30",
    "stufe": "ueber-50"
   },
   {
@@ -547,7 +547,7 @@
    "quelle": "mydealz; MediaMarkt- und expert-Seite geprüft",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T09:03",
-   "bild": "",
+   "bild": "bilder/2270f4cfea.webp",
    "neu_seit": "2026-11-27T08:46",
    "stufe": "25-50"
   },
@@ -591,6 +591,27 @@
    "preis_geprueft": "2026-11-27T09:03",
    "bild": "bilder/36b6560dec.webp",
    "neu_seit": "2026-11-27T08:39",
+   "stufe": "25-50"
+  },
+  {
+   "titel": "SEA LIFE Hannover Jahreskarte",
+   "kategorie": "Sonstiges",
+   "abteilung": "Freizeit & Spielzeug",
+   "unterkategorie": "Erlebnisse & Tickets",
+   "shop": "SEA LIFE",
+   "link": "https://visitsealife.com/hannover",
+   "preis_jetzt": 29.0,
+   "preis_vorher": 44.0,
+   "rabatt_prozent": 34,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf; regulärer Preis laut Anbieterseite",
+   "gilt_bis": "02.12.2026",
+   "kurz": "Ein Jahr Eintritt rund ein Drittel günstiger.",
+   "quelle": "freizeitparkinfos.de, Anbieterseite",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T09:06",
+   "bild": "",
+   "neu_seit": "2026-11-27T08:50",
    "stufe": "25-50"
   },
   {
@@ -652,8 +673,29 @@
    "quelle": "https://www.heise.de/bestenlisten/deals/black-friday-deals-pc-monitore-in-der-black-week-guenstig-abstauben/jgw720f",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T09:03",
-   "bild": "",
+   "bild": "bilder/db493d1691.webp",
    "neu_seit": "2026-11-27T08:39",
+   "stufe": "25-50"
+  },
+  {
+   "titel": "SEA LIFE München Jahreskarte",
+   "kategorie": "Sonstiges",
+   "abteilung": "Freizeit & Spielzeug",
+   "unterkategorie": "Erlebnisse & Tickets",
+   "shop": "SEA LIFE",
+   "link": "https://visitsealife.com/muenchen",
+   "preis_jetzt": 34.0,
+   "preis_vorher": 49.0,
+   "rabatt_prozent": 31,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf; regulärer Preis laut Anbieterseite",
+   "gilt_bis": "02.12.2026",
+   "kurz": "Ein Jahr Eintritt 15 € günstiger.",
+   "quelle": "freizeitparkinfos.de, Anbieterseite",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T09:06",
+   "bild": "",
+   "neu_seit": "2026-11-27T08:50",
    "stufe": "25-50"
   },
   {
@@ -694,7 +736,7 @@
    "quelle": "mydealz; Link führt zur Aktionsliste, Shopseite nicht geprüft",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T09:06",
-   "bild": "",
+   "bild": "bilder/8c63d01c86.webp",
    "neu_seit": "2026-11-27T08:50",
    "stufe": "25-50"
   },
@@ -762,6 +804,27 @@
    "stufe": "25-50"
   },
   {
+   "titel": "PUKY LR M Laufrad (Perky Purple)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Sport & Fahrrad",
+   "unterkategorie": "Fahrrad",
+   "shop": "PUKY",
+   "link": "https://puky.de/search?search=LR+M",
+   "preis_jetzt": 55.0,
+   "preis_vorher": 74.99,
+   "rabatt_prozent": 27,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - günstigstes anderes idealo-Angebot 74,99 € inkl. Versand laut MyTopDeals; Preis 55 € im PUKY-Shop bestätigt",
+   "gilt_bis": "01.12.2026",
+   "kurz": "Laufrad ab zwei Jahren rund 20 € günstiger als anderswo.",
+   "quelle": "MyTopDeals, PUKY-Shop",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T09:03",
+   "bild": "",
+   "neu_seit": "2026-11-27T08:50",
+   "stufe": "25-50"
+  },
+  {
    "titel": "DualSense 007 First Light Limited Edition (PS5-Controller)",
    "kategorie": "Sonstiges",
    "abteilung": "Gaming",
@@ -797,6 +860,27 @@
    "gilt_bis": "solange Vorrat",
    "kurz": "Große 13-kg-Maschine rund 250 € unter dem Vergleichspreis, inklusive Lieferung gerechnet.",
    "quelle": "monsterdealz; Shopseite geprüft",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T09:06",
+   "bild": "bilder/392dfcd33a.webp",
+   "neu_seit": "2026-11-27T08:50",
+   "stufe": "25-50"
+  },
+  {
+   "titel": "LEGOLAND Übernachtungsspecial mit 2 Tagen Parkeintritt (Anreise 20.03.–30.06.2027)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Reisen",
+   "unterkategorie": "Urlaub & Hotel",
+   "shop": "LEGOLAND Deutschland",
+   "link": "https://legoland.de/tickets/angebote/black-fun-days",
+   "preis_jetzt": 72.0,
+   "preis_vorher": 96.0,
+   "rabatt_prozent": 25,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf; regulärer Preis laut Anbieterseite",
+   "gilt_bis": "30.11.2026",
+   "kurz": "Übernachtung mit Frühstück, Parken und zwei Parktagen ein Viertel günstiger.",
+   "quelle": "freizeitparkinfos.de, Anbieterseite",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T09:06",
    "bild": "",
@@ -862,9 +946,30 @@
    "quelle": "mydealz; Shopseite geprüft",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T09:03",
-   "bild": "",
+   "bild": "bilder/8ba07ebb38.webp",
    "neu_seit": "2026-11-27T08:46",
    "stufe": "25-50"
+  },
+  {
+   "titel": "Bambu Lab AMS 2 Pro Mehrfarbsystem",
+   "kategorie": "Sonstiges",
+   "abteilung": "3D-Druck",
+   "unterkategorie": "3D-Drucker",
+   "shop": "3DJake",
+   "link": "https://3djake.de/bambu-lab/ams-2-pro",
+   "preis_jetzt": 219.0,
+   "preis_vorher": 289.0,
+   "rabatt_prozent": 24,
+   "preisverlauf_geprueft": true,
+   "beleg_preisverlauf": "ja - mydealz: vor der Aktion 289 €; der Aktionspreis gilt bereits seit 27.10.",
+   "gilt_bis": "unbekannt",
+   "kurz": "Filamentwechsler mit Trocknungsfunktion 70 € unter dem Preis vor der Aktion, versandkostenfrei.",
+   "quelle": "mydealz; Shopseite geprüft",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T09:06",
+   "bild": "",
+   "neu_seit": "2026-11-27T08:50",
+   "stufe": "15-25"
   },
   {
    "titel": "Nothing Ear (3a) In-Ear-Kopfhörer, schwarz",
@@ -930,24 +1035,24 @@
    "stufe": "15-25"
   },
   {
-   "titel": "Bambu Lab AMS 2 Pro Mehrfarbsystem",
+   "titel": "Happy SIM 100 GB Allnet-Flat (Flex, Black Week), o2-Netz",
    "kategorie": "Sonstiges",
-   "abteilung": "3D-Druck",
-   "unterkategorie": "3D-Drucker",
-   "shop": "3DJake",
-   "link": "https://3djake.de/bambu-lab/ams-2-pro",
-   "preis_jetzt": 219.0,
-   "preis_vorher": 289.0,
-   "rabatt_prozent": 24,
-   "preisverlauf_geprueft": true,
-   "beleg_preisverlauf": "ja - mydealz: vor der Aktion 289 €; der Aktionspreis gilt bereits seit 27.10.",
+   "abteilung": "Handy-Verträge & Tarife",
+   "unterkategorie": "SIM-only-Tarife",
+   "shop": "Happy SIM (Angebot über tariffuxx.de geprüft)",
+   "link": "https://tariffuxx.de/handytarife/happy-sim/happy-sim-100-gb-10-euro",
+   "preis_jetzt": 9.99,
+   "preis_vorher": 12.99,
+   "rabatt_prozent": 23,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - für Tarife gibt es keinen Preisverlauf. Der Vergleich stützt den Rabatt trotzdem: mobiflip nennt 100 GB für 12,99 €, tariffuxx führt 12,99 € plus 9,99 € Anschluss. Die 24-Monats-Variante kostet ebenfalls 9,99 €, der Rabatt gilt also nur gegenüber dem Flex-Tarif.",
    "gilt_bis": "unbekannt",
-   "kurz": "Filamentwechsler mit Trocknungsfunktion 70 € unter dem Preis vor der Aktion, versandkostenfrei.",
-   "quelle": "mydealz; Shopseite geprüft",
+   "kurz": "Monatlich kündbar, 100 GB 5G im o2-Netz (max. 50 Mbit/s), ohne Anschlussgebühr, rund 23 % unter dem üblichen Flex-Preis.",
+   "quelle": "WebSearch und WebFetch (tariffuxx.de, mobiflip.de, monsterdealz.de)",
    "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T09:03",
+   "preis_geprueft": "2026-11-27T09:06",
    "bild": "",
-   "neu_seit": "2026-11-27T08:50",
+   "neu_seit": "2026-11-27T08:59",
    "stufe": "15-25"
   },
   {
@@ -988,8 +1093,29 @@
    "quelle": "mydealz; Preis und Versand auf der Shopseite geprüft",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T09:06",
-   "bild": "",
+   "bild": "bilder/2835f626cd.webp",
    "neu_seit": "2026-11-27T08:46",
+   "stufe": "15-25"
+  },
+  {
+   "titel": "Heide Park Jahreskarte Gold",
+   "kategorie": "Sonstiges",
+   "abteilung": "Freizeit & Spielzeug",
+   "unterkategorie": "Erlebnisse & Tickets",
+   "shop": "Heide Park Resort",
+   "link": "https://heide-park.de/tickets-paesse/jahreskarten",
+   "preis_jetzt": 69.0,
+   "preis_vorher": 89.0,
+   "rabatt_prozent": 22,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - kein Verlauf; regulärer Preis laut Anbieterseite",
+   "gilt_bis": "30.11.2026",
+   "kurz": "20 € günstiger, mit nur zwei Sperrtagen in 2027.",
+   "quelle": "freizeitparkinfos.de, Anbieterseite",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-27T09:06",
+   "bild": "",
+   "neu_seit": "2026-11-27T08:50",
    "stufe": "15-25"
   },
   {
@@ -1240,7 +1366,7 @@
    "quelle": "mydealz und netzwelt; Preis und Versand auf der Shopseite geprüft",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T09:03",
-   "bild": "",
+   "bild": "bilder/cec356c6b9.webp",
    "neu_seit": "2026-11-27T08:46",
    "stufe": "15-25"
   },
@@ -1261,7 +1387,7 @@
    "quelle": "netzwelt (26.11.); Preis und Versand auf der Saturn-Seite geprüft",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T09:03",
-   "bild": "",
+   "bild": "bilder/2e42990dac.webp",
    "neu_seit": "2026-11-27T08:46",
    "stufe": "15-25"
   },
@@ -1303,7 +1429,7 @@
    "quelle": "monsterdealz; Shopseite geprüft",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T09:03",
-   "bild": "",
+   "bild": "bilder/abf06f404e.webp",
    "neu_seit": "2026-11-27T08:50",
    "stufe": "15-25"
   },
@@ -1408,7 +1534,7 @@
    "quelle": "netzwelt (27.11.); Preis und Versand auf der Shopseite geprüft",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T09:03",
-   "bild": "",
+   "bild": "bilder/cfc512e2c7.webp",
    "neu_seit": "2026-11-27T08:46",
    "stufe": "15-25"
   },
@@ -1513,7 +1639,7 @@
    "quelle": "netzwelt (26.11.); Preis und Versand auf der Shopseite geprüft",
    "aktion": "Black Friday",
    "preis_geprueft": "2026-11-27T09:03",
-   "bild": "",
+   "bild": "bilder/a6f9a3bf19.webp",
    "neu_seit": "2026-11-27T08:46",
    "stufe": "15-25"
   },
@@ -1537,27 +1663,6 @@
    "bild": "bilder/719667326b.webp",
    "neu_seit": "2026-11-27T08:39",
    "stufe": "15-25"
-  },
-  {
-   "titel": "Call of Duty: Modern Warfare 4 Steelbook Edition (PS5)",
-   "kategorie": "Sonstiges",
-   "abteilung": "Gaming",
-   "unterkategorie": "PlayStation",
-   "shop": "MediaMarkt",
-   "link": "https://mediamarkt.de/de/product/_ps5-call-of-duty-modern-warfare-4-steelbook-editi-playstation-5-3054571.html",
-   "preis_jetzt": 54.98,
-   "preis_vorher": 64.94,
-   "rabatt_prozent": 15,
-   "preisverlauf_geprueft": false,
-   "beleg_preisverlauf": "nein - kein Verlauf abrufbar; mydealz nennt 64,94 € als Vergleichspreis",
-   "gilt_bis": "unbekannt",
-   "kurz": "Aktueller Shooter mit Steelbook rund 15 € günstiger; mit Versand (4,99 €) sind es 54,98 €.",
-   "quelle": "mydealz",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-27T09:03",
-   "bild": "bilder/ad385b4c45.webp",
-   "neu_seit": "2026-11-27T08:39",
-   "stufe": "15-25"
   }
  ],
  "alle": [],
@@ -1565,12 +1670,12 @@
   {
    "kurz": "15-25",
    "name": "15–25 %",
-   "anzahl": 33
+   "anzahl": 34
   },
   {
    "kurz": "25-50",
    "name": "25–50 %",
-   "anzahl": 20
+   "anzahl": 24
   },
   {
    "kurz": "ueber-50",
@@ -1617,9 +1722,21 @@
    ]
   },
   {
+   "name": "Handy-Verträge & Tarife",
+   "kurz": "tarife",
+   "anzahl": 1,
+   "unter": [
+    {
+     "name": "SIM-only-Tarife",
+     "kurz": "sim-only-tarife",
+     "anzahl": 1
+    }
+   ]
+  },
+  {
    "name": "Gaming",
    "kurz": "gaming",
-   "anzahl": 39,
+   "anzahl": 38,
    "unter": [
     {
      "name": "Gaming-Zubehör",
@@ -1629,7 +1746,7 @@
     {
      "name": "PlayStation",
      "kurz": "playstation",
-     "anzahl": 10
+     "anzahl": 9
     },
     {
      "name": "Nintendo Switch",
@@ -1685,14 +1802,38 @@
    ]
   },
   {
+   "name": "Sport & Fahrrad",
+   "kurz": "sport",
+   "anzahl": 1,
+   "unter": [
+    {
+     "name": "Fahrrad",
+     "kurz": "fahrrad",
+     "anzahl": 1
+    }
+   ]
+  },
+  {
+   "name": "Freizeit & Spielzeug",
+   "kurz": "freizeit",
+   "anzahl": 3,
+   "unter": [
+    {
+     "name": "Erlebnisse & Tickets",
+     "kurz": "erlebnisse-tickets",
+     "anzahl": 3
+    }
+   ]
+  },
+  {
    "name": "Reisen",
    "kurz": "reisen",
-   "anzahl": 1,
+   "anzahl": 2,
    "unter": [
     {
      "name": "Urlaub & Hotel",
      "kurz": "urlaub-hotel",
-     "anzahl": 1
+     "anzahl": 2
     }
    ]
   }
