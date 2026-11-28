@@ -1,6 +1,6 @@
 {
- "stand": "2026-11-28T12:14",
- "fingerabdruck": "8eedd746d759fab0",
+ "stand": "2026-11-28T12:47",
+ "fingerabdruck": "485a5b385a1e81b4",
  "mindest": 15,
  "black_week": true,
  "oben": [
@@ -12017,28 +12017,6 @@
    "versand_offen": null
   },
   {
-   "titel": "Amazfit T-Rex 3 Pro 44 mm Smartwatch, Schwarz-Gold",
-   "kategorie": "Sonstiges",
-   "abteilung": "Sport & Fahrrad",
-   "unterkategorie": "Fitness & Gym",
-   "shop": "Amazon.de",
-   "link": "https://amazon.de/dp/B0FS72CGPT",
-   "preis_jetzt": 215.99,
-   "preis_vorher": 321.0,
-   "rabatt_prozent": 33,
-   "preisverlauf_geprueft": false,
-   "beleg_preisverlauf": "nein - nur idealo-Bestpreis 321 € laut DealDoktor (25.11.); Amazon-Seite nicht abrufbar",
-   "gilt_bis": "unbekannt",
-   "kurz": "Rund 105 € unter dem nächstbesten Angebot, nur diese Variante.",
-   "quelle": "DealDoktor",
-   "aktion": "Black Friday",
-   "preis_geprueft": "2026-11-28T12:47",
-   "bild": "bilder/54387ebeab.webp",
-   "neu_seit": "2026-11-27T11:59",
-   "stufe": "25-50",
-   "versand_offen": null
-  },
-  {
    "titel": "Teufel MOTIV GO VOICE Smart-Lautsprecher",
    "kategorie": "Sonstiges",
    "abteilung": "Elektronik & Technik",
@@ -20241,6 +20219,28 @@
    "preis_geprueft": "2026-11-27T10:10",
    "bild": "bilder/9a91d7912e.webp",
    "neu_seit": "2026-11-27T09:04",
+   "stufe": "25-50",
+   "versand_offen": null
+  },
+  {
+   "titel": "Amazfit T-Rex 3 Pro 44 mm Outdoor-Smartwatch (Schwarz/Gold)",
+   "kategorie": "Sonstiges",
+   "abteilung": "Elektronik & Technik",
+   "unterkategorie": "Smartphones & Tablets",
+   "shop": "Amazon.de",
+   "link": "https://amazon.de/dp/B0FS72CGPT",
+   "preis_jetzt": 215.99,
+   "preis_vorher": 294.99,
+   "rabatt_prozent": 27,
+   "preisverlauf_geprueft": false,
+   "beleg_preisverlauf": "nein - Verlauf uneinheitlich: Vergleichspreis 294,99 € laut mydealz, am 19.11. kurz 199 € laut idealo; Amazon-Seite nicht abrufbar",
+   "gilt_bis": "unbekannt",
+   "kurz": "Robuste GPS-Uhr deutlich unter dem Vergleichspreis, war aber kurzzeitig noch günstiger.",
+   "quelle": "https://www.mydealz.de/deals/amazfit-t-rex-3-pro-44-mm-schwarzgold-outdoor-smartwatch-fur-21599-eur-pvg-29499-eur-288157",
+   "aktion": "Black Friday",
+   "preis_geprueft": "2026-11-28T12:47",
+   "bild": "bilder/54387ebeab.webp",
+   "neu_seit": "2026-11-27T11:59",
    "stufe": "25-50",
    "versand_offen": null
   },
@@ -59805,12 +59805,12 @@
   {
    "name": "Elektronik & Technik",
    "kurz": "elektronik",
-   "anzahl": 491,
+   "anzahl": 492,
    "unter": [
     {
      "name": "Smartphones & Tablets",
      "kurz": "smartphones-tablets",
-     "anzahl": 42
+     "anzahl": 43
     },
     {
      "name": "Computer & Zubehör",
@@ -59989,7 +59989,7 @@
   {
    "name": "Sport & Fahrrad",
    "kurz": "sport",
-   "anzahl": 261,
+   "anzahl": 260,
    "unter": [
     {
      "name": "Fahrrad",
@@ -59999,7 +59999,7 @@
     {
      "name": "Fitness & Gym",
      "kurz": "fitness-gym",
-     "anzahl": 145
+     "anzahl": 144
     },
     {
      "name": "Outdoor",
